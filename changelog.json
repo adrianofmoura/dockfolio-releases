@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.10",
+      "date": "2026-10-28",
+      "notes": "- A aba Apps agora tem a mesma altura das outras abas de ajustes; a lista de apps rola dentro dessa altura. Trocar entre as cinco abas não mexe em mais nada."
+    },
+    {
       "version": "0.6.9",
       "date": "2026-10-28",
       "notes": "- Ajustes da pasta: os controles ficam numa grade comum, então os sliders das duas colunas ficam alinhados lado a lado nas abas Vidro e Grade (antes havia diferença de alguns pixels)."
