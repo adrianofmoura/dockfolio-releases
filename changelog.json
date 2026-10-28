@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.6.17",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- As pastas conferem atualizações com mais rapidez: no máximo um minuto entre uma conferência e outra (antes eram 10), então versões novas aparecem mais cedo.",
+        "en": "- Folders now check for updates faster: at most one minute between checks (it was 10), so new versions show up sooner.",
+        "es": "- Las carpetas buscan actualizaciones más rápido: como máximo un minuto entre búsquedas (antes eran 10), así que las versiones nuevas aparecen antes.",
+        "fr": "- Les dossiers vérifient les mises à jour plus vite : au plus une minute entre deux vérifications (contre 10 avant), donc les nouvelles versions apparaissent plus tôt.",
+        "de": "- Ordner suchen schneller nach Updates: höchstens eine Minute zwischen zwei Prüfungen (vorher 10), neue Versionen erscheinen also früher.",
+        "it": "- Le cartelle cercano gli aggiornamenti più in fretta: al massimo un minuto tra una verifica e l’altra (prima erano 10), così le nuove versioni compaiono prima.",
+        "ja": "- フォルダのアップデート確認が速くなりました。確認の間隔は最短1分（以前は10分）で、新しいバージョンがより早く表示されます。",
+        "ko": "- 폴더가 업데이트를 더 빨리 확인합니다. 확인 간격이 최소 1분(이전 10분)이라 새 버전이 더 일찍 표시됩니다.",
+        "zh-Hans": "- 文件夹检查更新更快了：两次检查之间最多间隔一分钟（之前是 10 分钟），新版本会更早出现。",
+        "ru": "- Папки проверяют обновления быстрее: не чаще раза в минуту (раньше было 10 минут), поэтому новые версии появляются раньше."
+      }
+    },
+    {
       "version": "0.6.16",
       "date": "2026-10-28",
       "notes": {

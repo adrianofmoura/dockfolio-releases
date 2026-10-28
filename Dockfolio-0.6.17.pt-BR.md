@@ -1,0 +1,1 @@
+- As pastas conferem atualizações com mais rapidez: no máximo um minuto entre uma conferência e outra (antes eram 10), então versões novas aparecem mais cedo.

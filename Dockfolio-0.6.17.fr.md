@@ -1,0 +1,1 @@
+- Les dossiers vérifient les mises à jour plus vite : au plus une minute entre deux vérifications (contre 10 avant), donc les nouvelles versions apparaissent plus tôt.

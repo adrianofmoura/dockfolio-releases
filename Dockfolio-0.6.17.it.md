@@ -1,0 +1,1 @@
+- Le cartelle cercano gli aggiornamenti più in fretta: al massimo un minuto tra una verifica e l’altra (prima erano 10), così le nuove versioni compaiono prima.

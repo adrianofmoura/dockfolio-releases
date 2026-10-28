@@ -1,0 +1,1 @@
+- Ordner suchen schneller nach Updates: höchstens eine Minute zwischen zwei Prüfungen (vorher 10), neue Versionen erscheinen also früher.

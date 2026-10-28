@@ -1,0 +1,1 @@
+- Las carpetas buscan actualizaciones más rápido: como máximo un minuto entre búsquedas (antes eran 10), así que las versiones nuevas aparecen antes.

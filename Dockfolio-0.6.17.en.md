@@ -1,0 +1,1 @@
+- Folders now check for updates faster: at most one minute between checks (it was 10), so new versions show up sooner.
