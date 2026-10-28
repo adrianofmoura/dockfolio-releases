@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.6",
+      "date": "2026-10-28",
+      "notes": "- Painel: o botão de editar agora fica no meio da borda de cima, fora do vidro, e nunca mais encosta nos ícones, qualquer que seja o espaçamento ou o tamanho. Só aparece quando o cursor chega nessa região."
+    },
+    {
       "version": "0.6.5",
       "date": "2026-10-28",
       "notes": "- Painel alinhado com o ícone no Dock: com a ampliação ligada, o painel agora se ancora no lugar de repouso do ícone (calculado pelo tamanho e pelo número de apps fixados), em vez do ponto do clique.\n- macOS 12: a barra lateral não se recolhe mais sozinha ao mexer na janela."
