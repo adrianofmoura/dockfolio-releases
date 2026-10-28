@@ -1,0 +1,4 @@
+- Painel: botão direito em um app oferece “Remover da pasta” (o app não é apagado do Mac).
+- Ícone de atualização: traço um pouco mais firme e azul mais forte, para contrastar melhor com o fundo translúcido.
+- Menu da barra de menus: “Nova pasta” e “Abrir o Dockfolio” funcionam no macOS 12, “Ajustes” funciona no macOS 26 ou mais novo, e o item de histórico de versões saiu do menu. Fechar a janela agora só a esconde.
+- O aviso do macOS sobre atividade em segundo plano agora mostra “Dockfolio” (antes, “DockFolder”).

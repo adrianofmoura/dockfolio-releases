@@ -1,0 +1,4 @@
+- Panel: el botón derecho sobre una app ofrece «Quitar de la carpeta» (la app no se borra del Mac).
+- Icono de actualización: trazo algo más firme y azul más intenso, para contrastar mejor con el fondo translúcido.
+- Menú de la barra de menús: «Nueva carpeta» y «Abrir Dockfolio» funcionan en macOS 12, «Ajustes» funciona en macOS 26 o posterior, y el historial de versiones salió del menú. Cerrar la ventana ahora solo la oculta.
+- El aviso de macOS sobre actividad en segundo plano ahora muestra «Dockfolio» (antes decía «DockFolder»).

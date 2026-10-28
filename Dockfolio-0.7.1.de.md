@@ -1,0 +1,4 @@
+- Panel: Rechtsklick auf eine App bietet „Aus Ordner entfernen“ (die App wird nicht vom Mac gelöscht).
+- Update-Symbol: etwas kräftigere Linien und ein intensiveres Blau, für mehr Kontrast zum transparenten Hintergrund.
+- Menüleistenmenü: „Neuer Ordner“ und „Dockfolio öffnen“ funktionieren jetzt unter macOS 12, „Einstellungen“ unter macOS 26 oder neuer, und der Versionsverlauf wurde aus dem Menü entfernt. Das Schließen des Fensters blendet es jetzt nur noch aus.
+- Der macOS-Hinweis zu Hintergrundaktivität zeigt jetzt „Dockfolio“ (vorher „DockFolder“).

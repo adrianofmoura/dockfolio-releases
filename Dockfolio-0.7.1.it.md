@@ -1,0 +1,4 @@
+- Pannello: il clic destro su un’app offre “Rimuovi dalla cartella” (l’app non viene eliminata dal Mac).
+- Icona di aggiornamento: tratto un po’ più deciso e blu più intenso, per contrastare meglio con lo sfondo traslucido.
+- Menu della barra dei menu: “Nuova cartella” e “Apri Dockfolio” ora funzionano su macOS 12, “Impostazioni” funziona su macOS 26 o successivo, e la cronologia versioni è stata tolta dal menu. Chiudere la finestra ora la nasconde soltanto.
+- L’avviso di macOS sull’attività in secondo piano ora mostra “Dockfolio” (prima “DockFolder”).

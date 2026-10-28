@@ -1,0 +1,4 @@
+- Panel: right-clicking an app offers “Remove from Folder” (the app is not deleted from your Mac).
+- Update icon: slightly bolder strokes and a stronger blue, for better contrast with the translucent background.
+- Menu bar menu: “New folder” and “Open Dockfolio” now work on macOS 12, “Settings” works on macOS 26 or later, and the version history item was removed from the menu. Closing the window now just hides it.
+- The macOS background-activity notice now shows “Dockfolio” (it used to say “DockFolder”).

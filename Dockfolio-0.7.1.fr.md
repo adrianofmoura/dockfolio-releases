@@ -1,0 +1,4 @@
+- Panneau : le clic droit sur une app propose « Retirer du dossier » (l’app n’est pas supprimée du Mac).
+- Icône de mise à jour : traits un peu plus épais et bleu plus soutenu, pour mieux contraster avec le fond translucide.
+- Menu de la barre des menus : « Nouveau dossier » et « Ouvrir Dockfolio » fonctionnent sous macOS 12, « Réglages » fonctionne sous macOS 26 ou ultérieur, et l’historique des versions a quitté le menu. Fermer la fenêtre ne fait plus que la masquer.
+- L’avis de macOS sur l’activité en arrière-plan affiche désormais « Dockfolio » (avant, « DockFolder »).
