@@ -1,0 +1,1 @@
+- Without Liquid Glass (macOS 12 to 15): the default for Tinted is now 100% on the icon and the panel, matching the system look.

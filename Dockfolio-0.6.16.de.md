@@ -1,0 +1,1 @@
+- Ohne Liquid Glass (macOS 12 bis 15): Der Standard für „Getönt“ ist jetzt 100 % bei Symbol und Panel, passend zum Systemlook.

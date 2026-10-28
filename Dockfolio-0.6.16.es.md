@@ -1,0 +1,1 @@
+- Sin Liquid Glass (macOS 12 a 15): el valor predeterminado de Coloreado pasa a ser 100 % en el icono y el panel, como el aspecto del sistema.

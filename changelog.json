@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.6.16",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Sem Liquid Glass (macOS 12 a 15): o padrão do Colorido passa a ser 100% no ícone e no painel, como o visual do sistema.",
+        "en": "- Without Liquid Glass (macOS 12 to 15): the default for Tinted is now 100% on the icon and the panel, matching the system look.",
+        "es": "- Sin Liquid Glass (macOS 12 a 15): el valor predeterminado de Coloreado pasa a ser 100 % en el icono y el panel, como el aspecto del sistema.",
+        "fr": "- Sans Liquid Glass (macOS 12 à 15) : le réglage par défaut de Teinté passe à 100 % pour l’icône et le panneau, comme l’aspect du système.",
+        "de": "- Ohne Liquid Glass (macOS 12 bis 15): Der Standard für „Getönt“ ist jetzt 100 % bei Symbol und Panel, passend zum Systemlook.",
+        "it": "- Senza Liquid Glass (macOS da 12 a 15): il valore predefinito di Colorato diventa 100% per icona e pannello, come l’aspetto del sistema.",
+        "ja": "- Liquid Glassのない環境（macOS 12〜15）：アイコンとパネルの「ティント」の初期値を、システムの見た目に合わせて100%にしました。",
+        "ko": "- Liquid Glass가 없는 macOS(12~15): 아이콘과 패널의 ‘색조’ 기본값이 시스템 모양에 맞춰 100%로 바뀌었습니다.",
+        "zh-Hans": "- 没有 Liquid Glass 的 macOS（12 至 15）：图标和面板的“着色”默认值改为 100%，与系统外观一致。",
+        "ru": "- Без Liquid Glass (macOS 12–15): значение «Цветное» по умолчанию теперь 100% для значка и панели, как в системе."
+      }
+    },
+    {
       "version": "0.6.15",
       "date": "2026-10-28",
       "notes": {

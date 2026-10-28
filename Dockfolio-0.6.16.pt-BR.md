@@ -1,0 +1,1 @@
+- Sem Liquid Glass (macOS 12 a 15): o padrão do Colorido passa a ser 100% no ícone e no painel, como o visual do sistema.

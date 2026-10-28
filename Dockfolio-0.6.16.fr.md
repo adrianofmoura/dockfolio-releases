@@ -1,0 +1,1 @@
+- Sans Liquid Glass (macOS 12 à 15) : le réglage par défaut de Teinté passe à 100 % pour l’icône et le panneau, comme l’aspect du système.
