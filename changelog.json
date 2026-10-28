@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.3",
+      "date": "2026-10-28",
+      "notes": "- Ao salvar uma pasta pela primeira vez, ela é fixada no Dock automaticamente, com uma animação mostrando onde ficou.\n- Guia curto na primeira vez que uma pasta entra no Dock, com os próximos passos (e um X para pular).\n- Painel: o botão de editar voltou ao canto, sem moldura, e só aparece quando o cursor passa por cima.\n- Histórico de versões mostra as 5 mais recentes, com uma página para as anteriores.\n- Menu de idiomas sem o espaço vazio no topo.\n- macOS 12: o painel agora fica realmente transparente quando a opacidade está em 0%.\n- macOS 26 ou mais novo: a divisão da barra lateral não se corta mais no topo."
+    },
+    {
       "version": "0.6.2",
       "date": "2026-10-28",
       "notes": "- As pastas agora também avisam sobre atualizações: ao abrir uma pasta, se houver versão nova, aparece um aviso no painel (checagem no máximo uma vez por dia).\n- Instalação pelo Terminal com uma linha, sem o aviso do Gatekeeper.\n- Licença do Sparkle incluída no app."
@@ -13,7 +18,7 @@
     {
       "version": "0.6.0",
       "date": "2026-10-28",
-      "notes": "## 0.6.0\n\n- Atualização automática."
+      "notes": "## 0.6.0\n\n- Ponto de partida do histórico: primeira versão publicada, com atualização automática."
     }
   ]
 }
