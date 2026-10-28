@@ -1,0 +1,3 @@
+- Los Ajustes se reorganizaron en pestañas: General, Sistema, Actualizaciones, Predeterminados y Avanzado, para que la ventana no sea tan larga.
+- Novedad: elige el estilo del icono de la barra de menús (Ajustes > Sistema), con cuatro diseños.
+- El botón del historial de versiones salió de la pestaña Actualizaciones.

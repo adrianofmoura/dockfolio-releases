@@ -1,0 +1,3 @@
+- Settings reorganized into tabs: General, System, Updates, Defaults and Advanced, so the window is no longer so tall.
+- New: choose the menu bar icon style (Settings > System), with four designs.
+- The version history button was removed from the Updates tab.

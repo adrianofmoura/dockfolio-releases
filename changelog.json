@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.7.2",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Ajustes reorganizados em abas: Geral, Sistema, Atualizações, Padrões e Avançado, para a janela não ficar tão comprida.\n- Novo: escolha o estilo do ícone da barra de menus (Ajustes > Sistema), com quatro desenhos.\n- O botão de histórico de versões saiu da aba Atualizações.",
+        "en": "- Settings reorganized into tabs: General, System, Updates, Defaults and Advanced, so the window is no longer so tall.\n- New: choose the menu bar icon style (Settings > System), with four designs.\n- The version history button was removed from the Updates tab.",
+        "es": "- Los Ajustes se reorganizaron en pestañas: General, Sistema, Actualizaciones, Predeterminados y Avanzado, para que la ventana no sea tan larga.\n- Novedad: elige el estilo del icono de la barra de menús (Ajustes > Sistema), con cuatro diseños.\n- El botón del historial de versiones salió de la pestaña Actualizaciones.",
+        "fr": "- Les Réglages sont réorganisés en onglets : Général, Système, Mises à jour, Valeurs par défaut et Avancé, pour que la fenêtre soit moins haute.\n- Nouveau : choisissez le style de l’icône de la barre des menus (Réglages > Système), parmi quatre dessins.\n- Le bouton de l’historique des versions a été retiré de l’onglet Mises à jour.",
+        "de": "- Die Einstellungen sind jetzt in Tabs gegliedert: Allgemein, System, Updates, Standardwerte und Erweitert, damit das Fenster nicht so hoch ist.\n- Neu: Wähle den Stil des Menüleistensymbols (Einstellungen > System) aus vier Designs.\n- Die Schaltfläche für den Versionsverlauf wurde aus dem Tab „Updates“ entfernt.",
+        "it": "- Le Impostazioni sono riorganizzate in schede: Generale, Sistema, Aggiornamenti, Predefiniti e Avanzate, così la finestra non è più così alta.\n- Novità: scegli lo stile dell’icona nella barra dei menu (Impostazioni > Sistema), tra quattro disegni.\n- Il pulsante della cronologia delle versioni è stato rimosso dalla scheda Aggiornamenti.",
+        "ja": "- 設定をタブ（一般・システム・アップデート・デフォルト・詳細）に整理し、ウインドウが縦に長くなりすぎないようにしました。\n- 新機能：メニューバーのアイコンのスタイルを4種類から選べます（設定 > システム）。\n- 「アップデート」タブからバージョン履歴ボタンを削除しました。",
+        "ko": "- 설정을 일반, 시스템, 업데이트, 기본값, 고급 탭으로 나누어 창이 너무 길지 않게 했습니다.\n- 새 기능: 메뉴 막대 아이콘 스타일을 네 가지 디자인 중에서 고를 수 있습니다(설정 > 시스템).\n- 업데이트 탭에서 버전 기록 버튼을 없앴습니다.",
+        "zh-Hans": "- 设置按标签页重新整理：通用、系统、更新、默认值和高级，窗口不再那么长。\n- 新增：可在四种设计中选择菜单栏图标样式（设置 > 系统）。\n- 已从“更新”标签页移除版本历史按钮。",
+        "ru": "- Настройки разделены на вкладки: «Основные», «Система», «Обновления», «По умолчанию» и «Дополнительно», чтобы окно не было таким высоким.\n- Новое: выбор стиля значка в строке меню из четырёх вариантов (Настройки > Система).\n- Кнопка истории версий убрана с вкладки «Обновления»."
+      }
+    },
+    {
       "version": "0.7.1",
       "date": "2026-10-28",
       "notes": {

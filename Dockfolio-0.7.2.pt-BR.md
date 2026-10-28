@@ -1,0 +1,3 @@
+- Ajustes reorganizados em abas: Geral, Sistema, Atualizações, Padrões e Avançado, para a janela não ficar tão comprida.
+- Novo: escolha o estilo do ícone da barra de menus (Ajustes > Sistema), com quatro desenhos.
+- O botão de histórico de versões saiu da aba Atualizações.

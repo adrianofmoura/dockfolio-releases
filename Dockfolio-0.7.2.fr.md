@@ -1,0 +1,3 @@
+- Les Réglages sont réorganisés en onglets : Général, Système, Mises à jour, Valeurs par défaut et Avancé, pour que la fenêtre soit moins haute.
+- Nouveau : choisissez le style de l’icône de la barre des menus (Réglages > Système), parmi quatre dessins.
+- Le bouton de l’historique des versions a été retiré de l’onglet Mises à jour.

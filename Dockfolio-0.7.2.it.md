@@ -1,0 +1,3 @@
+- Le Impostazioni sono riorganizzate in schede: Generale, Sistema, Aggiornamenti, Predefiniti e Avanzate, così la finestra non è più così alta.
+- Novità: scegli lo stile dell’icona nella barra dei menu (Impostazioni > Sistema), tra quattro disegni.
+- Il pulsante della cronologia delle versioni è stato rimosso dalla scheda Aggiornamenti.

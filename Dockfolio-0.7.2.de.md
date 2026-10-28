@@ -1,0 +1,3 @@
+- Die Einstellungen sind jetzt in Tabs gegliedert: Allgemein, System, Updates, Standardwerte und Erweitert, damit das Fenster nicht so hoch ist.
+- Neu: Wähle den Stil des Menüleistensymbols (Einstellungen > System) aus vier Designs.
+- Die Schaltfläche für den Versionsverlauf wurde aus dem Tab „Updates“ entfernt.
