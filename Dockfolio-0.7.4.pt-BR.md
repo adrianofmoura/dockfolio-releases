@@ -1,0 +1,3 @@
+- Tour: o papel de parede das animações agora acompanha o papel de parede dinâmico do Mac (como o “Solar Gradients”), em vez de sempre mostrar a versão escura.
+- Tour: a barra de menus da animação ficou jateada, como a de verdade.
+- Tour: botões e seleções azuis aparecem com a cor certa desde o começo, mesmo quando a janela ainda não está em primeiro plano.

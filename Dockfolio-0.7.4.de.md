@@ -1,0 +1,3 @@
+- Tour: Der Hintergrund der Animationen folgt jetzt dem dynamischen Schreibtischhintergrund deines Macs (z. B. „Solar Gradients“), statt immer die dunkle Version zu zeigen.
+- Tour: Die Menüleiste in der Animation ist jetzt mattiert wie die echte.
+- Tour: Blaue Schaltflächen und Auswahlen zeigen von Anfang an die richtige Farbe, auch wenn das Fenster noch nicht im Vordergrund ist.

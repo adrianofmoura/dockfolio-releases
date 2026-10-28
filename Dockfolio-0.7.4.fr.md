@@ -1,0 +1,3 @@
+- Visite : le fond d’écran des animations suit désormais le fond d’écran dynamique du Mac (comme « Solar Gradients ») au lieu de toujours montrer la version sombre.
+- Visite : la barre des menus de l’animation est maintenant dépolie, comme la vraie.
+- Visite : les boutons et sélections bleus affichent la bonne couleur dès le début, même quand la fenêtre n’est pas encore au premier plan.

@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.7.4",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Tour: o papel de parede das animações agora acompanha o papel de parede dinâmico do Mac (como o “Solar Gradients”), em vez de sempre mostrar a versão escura.\n- Tour: a barra de menus da animação ficou jateada, como a de verdade.\n- Tour: botões e seleções azuis aparecem com a cor certa desde o começo, mesmo quando a janela ainda não está em primeiro plano.",
+        "en": "- Tour: the animations’ wallpaper now follows your Mac’s dynamic wallpaper (like “Solar Gradients”) instead of always showing the dark version.\n- Tour: the menu bar in the animation is now frosted, like the real one.\n- Tour: blue buttons and selections now show the right color from the start, even when the window isn’t in front yet.",
+        "es": "- Tour: el fondo de las animaciones ahora sigue el fondo de pantalla dinámico del Mac (como «Solar Gradients») en lugar de mostrar siempre la versión oscura.\n- Tour: la barra de menús de la animación ahora es esmerilada, como la real.\n- Tour: los botones y selecciones azules muestran el color correcto desde el principio, incluso cuando la ventana aún no está en primer plano.",
+        "fr": "- Visite : le fond d’écran des animations suit désormais le fond d’écran dynamique du Mac (comme « Solar Gradients ») au lieu de toujours montrer la version sombre.\n- Visite : la barre des menus de l’animation est maintenant dépolie, comme la vraie.\n- Visite : les boutons et sélections bleus affichent la bonne couleur dès le début, même quand la fenêtre n’est pas encore au premier plan.",
+        "de": "- Tour: Der Hintergrund der Animationen folgt jetzt dem dynamischen Schreibtischhintergrund deines Macs (z. B. „Solar Gradients“), statt immer die dunkle Version zu zeigen.\n- Tour: Die Menüleiste in der Animation ist jetzt mattiert wie die echte.\n- Tour: Blaue Schaltflächen und Auswahlen zeigen von Anfang an die richtige Farbe, auch wenn das Fenster noch nicht im Vordergrund ist.",
+        "it": "- Tour: lo sfondo delle animazioni ora segue lo sfondo dinamico del Mac (come “Solar Gradients”) invece di mostrare sempre la versione scura.\n- Tour: la barra dei menu nell’animazione ora è satinata, come quella vera.\n- Tour: i pulsanti e le selezioni blu mostrano il colore giusto fin dall’inizio, anche quando la finestra non è ancora in primo piano.",
+        "ja": "- ツアー：アニメーションの壁紙が、常に暗いバージョンではなく、Macのダイナミック壁紙（「Solar Gradients」など）に合わせて表示されます。\n- ツアー：アニメーション内のメニューバーが、本物と同じくすりガラス調になりました。\n- ツアー：ウインドウがまだ手前にないときでも、青いボタンや選択が最初から正しい色で表示されます。",
+        "ko": "- 투어: 애니메이션의 배경화면이 항상 어두운 버전 대신 Mac의 동적 배경화면(예: ‘Solar Gradients’)을 따릅니다.\n- 투어: 애니메이션의 메뉴 막대가 실제처럼 흐림 효과가 적용되었습니다.\n- 투어: 창이 아직 앞에 있지 않을 때도 파란 버튼과 선택 항목이 처음부터 올바른 색으로 표시됩니다.",
+        "zh-Hans": "- 导览：动画中的桌面背景现在会跟随 Mac 的动态桌面（如“Solar Gradients”），而不是总显示深色版本。\n- 导览：动画里的菜单栏现在有磨砂效果，和真实的一样。\n- 导览：即使窗口还没有在最前面，蓝色按钮和选中项也会从一开始就显示正确的颜色。",
+        "ru": "- Тур: обои в анимациях теперь следуют динамическим обоям вашего Mac (например, «Solar Gradients»), а не всегда показывают тёмный вариант.\n- Тур: строка меню в анимации стала матовой, как настоящая.\n- Тур: синие кнопки и выделения сразу показывают правильный цвет, даже когда окно ещё не на переднем плане."
+      }
+    },
+    {
       "version": "0.7.3",
       "date": "2026-10-28",
       "notes": {

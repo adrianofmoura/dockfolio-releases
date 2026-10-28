@@ -1,0 +1,3 @@
+- Tour: the animations’ wallpaper now follows your Mac’s dynamic wallpaper (like “Solar Gradients”) instead of always showing the dark version.
+- Tour: the menu bar in the animation is now frosted, like the real one.
+- Tour: blue buttons and selections now show the right color from the start, even when the window isn’t in front yet.

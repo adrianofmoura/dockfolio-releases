@@ -1,0 +1,3 @@
+- Tour: lo sfondo delle animazioni ora segue lo sfondo dinamico del Mac (come “Solar Gradients”) invece di mostrare sempre la versione scura.
+- Tour: la barra dei menu nell’animazione ora è satinata, come quella vera.
+- Tour: i pulsanti e le selezioni blu mostrano il colore giusto fin dall’inizio, anche quando la finestra non è ancora in primo piano.

@@ -1,0 +1,3 @@
+- Tour: el fondo de las animaciones ahora sigue el fondo de pantalla dinámico del Mac (como «Solar Gradients») en lugar de mostrar siempre la versión oscura.
+- Tour: la barra de menús de la animación ahora es esmerilada, como la real.
+- Tour: los botones y selecciones azules muestran el color correcto desde el principio, incluso cuando la ventana aún no está en primer plano.
