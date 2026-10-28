@@ -1,0 +1,1 @@
+- Nuova icona di aggiornamento disponibile: una freccia dentro un anello che si scioglie in puntini.

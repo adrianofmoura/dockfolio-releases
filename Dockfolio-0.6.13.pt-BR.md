@@ -1,0 +1,1 @@
+- Novo ícone de atualização disponível: uma seta dentro de um anel que se desfaz em pontos.

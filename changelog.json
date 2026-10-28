@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.6.13",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Novo ícone de atualização disponível: uma seta dentro de um anel que se desfaz em pontos.",
+        "en": "- New update-available icon: an arrow inside a ring that dissolves into dots.",
+        "es": "- Nuevo icono de actualización disponible: una flecha dentro de un anillo que se deshace en puntos.",
+        "fr": "- Nouvelle icône de mise à jour disponible : une flèche dans un anneau qui se défait en points.",
+        "de": "- Neues Update-Symbol: ein Pfeil in einem Ring, der sich in Punkte auflöst.",
+        "it": "- Nuova icona di aggiornamento disponibile: una freccia dentro un anello che si scioglie in puntini.",
+        "ja": "- アップデート通知の新しいアイコン：点に溶けていくリングの中の矢印。",
+        "ko": "- 새로운 업데이트 알림 아이콘: 점으로 풀어지는 링 안의 화살표.",
+        "zh-Hans": "- 全新的更新提示图标：箭头位于逐渐化为圆点的圆环中。",
+        "ru": "- Новый значок обновления: стрелка внутри кольца, которое распадается на точки."
+      }
+    },
+    {
       "version": "0.6.12",
       "date": "2026-10-28",
       "notes": {

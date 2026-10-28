@@ -1,0 +1,1 @@
+- Nouvelle icône de mise à jour disponible : une flèche dans un anneau qui se défait en points.

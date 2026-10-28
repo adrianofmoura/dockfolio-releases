@@ -1,0 +1,1 @@
+- New update-available icon: an arrow inside a ring that dissolves into dots.

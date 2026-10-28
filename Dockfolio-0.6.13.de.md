@@ -1,0 +1,1 @@
+- Neues Update-Symbol: ein Pfeil in einem Ring, der sich in Punkte auflöst.

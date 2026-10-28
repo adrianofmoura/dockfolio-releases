@@ -1,0 +1,1 @@
+- Nuevo icono de actualización disponible: una flecha dentro de un anillo que se deshace en puntos.
