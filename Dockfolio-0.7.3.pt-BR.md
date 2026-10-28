@@ -1,0 +1,4 @@
+- Novo tour de boas-vindas, em animação: mostra como o Dockfolio organiza o Dock em Pastas, como criar uma Pasta, adicionar apps, personalizar, fixar no Dock e usar, e a barra de menus e a Acessibilidade. As animações usam o papel de parede e os ícones do seu Mac e seguem o idioma do app.
+- Depois de uma atualização, o tour mostra só as novidades (e dá para rever em Ajustes > Geral > Tour e dicas, ou no menu Ajuda).
+- A aba Apps agora é a primeira de cada Pasta.
+- A janela de “Buscar atualizações” não mostra mais o botão de histórico de versões; a animação de fixar no Dock também funciona com o Dock na lateral.

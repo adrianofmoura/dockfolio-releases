@@ -1,0 +1,4 @@
+- Nuevo tour de bienvenida animado: muestra cómo Dockfolio organiza tu Dock en Carpetas, cómo crear una Carpeta, añadir apps, personalizar, fijar en el Dock y usarla, además de la barra de menús y la Accesibilidad. Las animaciones usan el fondo de pantalla y los iconos de tu Mac y siguen el idioma de la app.
+- Tras una actualización, el tour muestra solo las novedades (y puedes volver a verlo en Ajustes > General > Tour y consejos, o en el menú Ayuda).
+- La pestaña Apps ahora es la primera de cada Carpeta.
+- La ventana de «Buscar actualizaciones» ya no muestra el botón del historial de versiones; la animación de fijar en el Dock también funciona con el Dock en un lateral.

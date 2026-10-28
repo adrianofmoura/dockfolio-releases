@@ -1,0 +1,4 @@
+- Nuovo tour di benvenuto animato: mostra come Dockfolio organizza il Dock in Cartelle, come creare una Cartella, aggiungere app, personalizzare, fissare nel Dock e usarla, oltre alla barra dei menu e all’Accessibilità. Le animazioni usano lo sfondo e le icone del tuo Mac e seguono la lingua dell’app.
+- Dopo un aggiornamento, il tour mostra solo le novità (e puoi rivederlo in Impostazioni > Generale > Tour e suggerimenti, o dal menu Aiuto).
+- La scheda App ora è la prima di ogni Cartella.
+- La finestra “Verifica aggiornamenti” non mostra più il pulsante della cronologia delle versioni; l’animazione per fissare nel Dock funziona anche con il Dock sul lato.

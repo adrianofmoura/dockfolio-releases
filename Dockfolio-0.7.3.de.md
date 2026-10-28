@@ -1,0 +1,4 @@
+- Neue animierte Willkommenstour: Sie zeigt, wie Dockfolio dein Dock in Ordnern organisiert, wie du einen Ordner anlegst, Apps hinzufügst, anpasst, im Dock sicherst und benutzt, sowie die Menüleiste und die Bedienungshilfen. Die Animationen nutzen den Schreibtischhintergrund und die Symbole deines Macs und folgen der Sprache der App.
+- Nach einem Update zeigt die Tour nur die Neuheiten (und du kannst sie unter Einstellungen > Allgemein > Tour und Tipps oder im Menü „Hilfe“ erneut ansehen).
+- Der Tab „Apps“ ist jetzt der erste Tab jedes Ordners.
+- Das Fenster „Nach Updates suchen“ zeigt die Schaltfläche für den Versionsverlauf nicht mehr; die Animation zum Sichern im Dock funktioniert auch mit seitlichem Dock.

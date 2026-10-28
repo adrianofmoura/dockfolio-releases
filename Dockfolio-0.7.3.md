@@ -1,0 +1,4 @@
+- New animated welcome tour: it shows how Dockfolio organizes your Dock into Folders, how to create a Folder, add apps, customize, pin to the Dock and use it, plus the menu bar and Accessibility. The animations use your Mac’s wallpaper and icons and follow the app’s language.
+- After an update, the tour shows only what’s new (and you can replay it in Settings > General > Tour and tips, or from the Help menu).
+- The Apps tab is now the first tab of each Folder.
+- The “Check for Updates” window no longer shows the version history button; the pin-to-Dock animation also works with the Dock on the side.

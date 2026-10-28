@@ -1,0 +1,4 @@
+- Nouvelle visite de bienvenue animée : elle montre comment Dockfolio organise votre Dock en Dossiers, comment créer un Dossier, ajouter des apps, personnaliser, épingler au Dock et l’utiliser, ainsi que la barre des menus et l’Accessibilité. Les animations utilisent le fond d’écran et les icônes de votre Mac et suivent la langue de l’app.
+- Après une mise à jour, la visite n’affiche que les nouveautés (et vous pouvez la revoir dans Réglages > Général > Visite et astuces, ou depuis le menu Aide).
+- L’onglet Apps est désormais le premier de chaque Dossier.
+- La fenêtre « Rechercher les mises à jour » n’affiche plus le bouton de l’historique des versions ; l’animation d’épinglage au Dock fonctionne aussi avec le Dock sur le côté.
