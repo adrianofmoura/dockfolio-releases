@@ -1,0 +1,1 @@
+- macOS 12: com a janela baixa, os controles da parte de baixo não se atropelam mais; quem encolhe é a prévia.
