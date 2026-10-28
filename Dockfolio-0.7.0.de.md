@@ -1,0 +1,3 @@
+- Neues Dockfolio-Symbol in der Menüleiste: Die App läuft im Hintergrund weiter, wenn du das Fenster schließt, mit schnellem Zugriff auf die Apps jedes Ordners, neue Ordner und Updates. In den Einstellungen abschaltbar.
+- Dockfolio öffnet sich jetzt beim Anmelden, nur in der Menüleiste und ohne Fenster. In den Einstellungen abschaltbar.
+- Behoben: Das Update-Symbol am Ordner öffnete nur die App, ohne das Update-Fenster zu zeigen.

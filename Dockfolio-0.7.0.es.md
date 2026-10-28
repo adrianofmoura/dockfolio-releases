@@ -1,0 +1,3 @@
+- Nuevo icono de Dockfolio en la barra de menús: la app sigue en segundo plano al cerrar la ventana, con acceso rápido a las apps de cada carpeta, a carpetas nuevas y a las actualizaciones. Se puede desactivar en Ajustes.
+- Dockfolio ahora se abre al iniciar sesión, solo en la barra de menús y sin ventana. Se puede desactivar en Ajustes.
+- Corregido: el icono de actualización de la carpeta solo abría la app, sin mostrar la ventana de actualización.

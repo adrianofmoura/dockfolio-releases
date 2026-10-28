@@ -1,0 +1,3 @@
+- New Dockfolio icon in the menu bar: the app keeps running in the background when you close the window, with quick access to each folder’s apps, new folders and updates. You can turn it off in Settings.
+- Dockfolio now opens when you log in, only in the menu bar with no window. You can turn it off in Settings.
+- Fixed: the update icon on a folder only opened the app, without showing the update window.

@@ -1,0 +1,3 @@
+- Nouvelle icône Dockfolio dans la barre des menus : l’app reste active en arrière-plan quand vous fermez la fenêtre, avec un accès rapide aux apps de chaque dossier, aux nouveaux dossiers et aux mises à jour. À désactiver dans les Réglages.
+- Dockfolio s’ouvre désormais à l’ouverture de session, uniquement dans la barre des menus et sans fenêtre. À désactiver dans les Réglages.
+- Corrigé : l’icône de mise à jour d’un dossier ouvrait seulement l’app, sans afficher la fenêtre de mise à jour.

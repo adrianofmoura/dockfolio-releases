@@ -1,0 +1,3 @@
+- Novo ícone do Dockfolio na barra de menus: o app fica em segundo plano quando você fecha a janela, com acesso rápido aos apps de cada pasta, a nova pasta e às atualizações. Dá para desligar nos Ajustes.
+- O Dockfolio passa a abrir ao iniciar o Mac, só na barra de menus, sem janela. Dá para desligar nos Ajustes.
+- Corrigido: o ícone de atualização na pasta abria só o app, sem mostrar a janela de atualização.

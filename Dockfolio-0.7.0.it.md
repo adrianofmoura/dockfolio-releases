@@ -1,0 +1,3 @@
+- Nuova icona di Dockfolio nella barra dei menu: l’app resta attiva in secondo piano quando chiudi la finestra, con accesso rapido alle app di ogni cartella, alle nuove cartelle e agli aggiornamenti. Si può disattivare in Impostazioni.
+- Dockfolio ora si apre all’accesso, solo nella barra dei menu e senza finestra. Si può disattivare in Impostazioni.
+- Corretto: l’icona di aggiornamento sulla cartella apriva solo l’app, senza mostrare la finestra di aggiornamento.

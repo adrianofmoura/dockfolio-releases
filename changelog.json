@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.7.0",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Novo ícone do Dockfolio na barra de menus: o app fica em segundo plano quando você fecha a janela, com acesso rápido aos apps de cada pasta, a nova pasta e às atualizações. Dá para desligar nos Ajustes.\n- O Dockfolio passa a abrir ao iniciar o Mac, só na barra de menus, sem janela. Dá para desligar nos Ajustes.\n- Corrigido: o ícone de atualização na pasta abria só o app, sem mostrar a janela de atualização.",
+        "en": "- New Dockfolio icon in the menu bar: the app keeps running in the background when you close the window, with quick access to each folder’s apps, new folders and updates. You can turn it off in Settings.\n- Dockfolio now opens when you log in, only in the menu bar with no window. You can turn it off in Settings.\n- Fixed: the update icon on a folder only opened the app, without showing the update window.",
+        "es": "- Nuevo icono de Dockfolio en la barra de menús: la app sigue en segundo plano al cerrar la ventana, con acceso rápido a las apps de cada carpeta, a carpetas nuevas y a las actualizaciones. Se puede desactivar en Ajustes.\n- Dockfolio ahora se abre al iniciar sesión, solo en la barra de menús y sin ventana. Se puede desactivar en Ajustes.\n- Corregido: el icono de actualización de la carpeta solo abría la app, sin mostrar la ventana de actualización.",
+        "fr": "- Nouvelle icône Dockfolio dans la barre des menus : l’app reste active en arrière-plan quand vous fermez la fenêtre, avec un accès rapide aux apps de chaque dossier, aux nouveaux dossiers et aux mises à jour. À désactiver dans les Réglages.\n- Dockfolio s’ouvre désormais à l’ouverture de session, uniquement dans la barre des menus et sans fenêtre. À désactiver dans les Réglages.\n- Corrigé : l’icône de mise à jour d’un dossier ouvrait seulement l’app, sans afficher la fenêtre de mise à jour.",
+        "de": "- Neues Dockfolio-Symbol in der Menüleiste: Die App läuft im Hintergrund weiter, wenn du das Fenster schließt, mit schnellem Zugriff auf die Apps jedes Ordners, neue Ordner und Updates. In den Einstellungen abschaltbar.\n- Dockfolio öffnet sich jetzt beim Anmelden, nur in der Menüleiste und ohne Fenster. In den Einstellungen abschaltbar.\n- Behoben: Das Update-Symbol am Ordner öffnete nur die App, ohne das Update-Fenster zu zeigen.",
+        "it": "- Nuova icona di Dockfolio nella barra dei menu: l’app resta attiva in secondo piano quando chiudi la finestra, con accesso rapido alle app di ogni cartella, alle nuove cartelle e agli aggiornamenti. Si può disattivare in Impostazioni.\n- Dockfolio ora si apre all’accesso, solo nella barra dei menu e senza finestra. Si può disattivare in Impostazioni.\n- Corretto: l’icona di aggiornamento sulla cartella apriva solo l’app, senza mostrare la finestra di aggiornamento.",
+        "ja": "- メニューバーに新しいDockfolioアイコン：ウインドウを閉じてもバックグラウンドで動き続け、各フォルダのApp、新規フォルダ、アップデートにすばやくアクセスできます。設定でオフにできます。\n- Dockfolioはログイン時にメニューバーだけで（ウインドウなしで）開くようになりました。設定でオフにできます。\n- 修正：フォルダのアップデートアイコンを押しても、アップデートのウインドウが出ずにAppが開くだけだった問題。",
+        "ko": "- 메뉴 막대에 새 Dockfolio 아이콘: 창을 닫아도 백그라운드에서 계속 실행되며, 각 폴더의 앱, 새 폴더, 업데이트에 빠르게 접근할 수 있습니다. 설정에서 끌 수 있습니다.\n- 이제 Dockfolio가 로그인할 때 창 없이 메뉴 막대에서만 열립니다. 설정에서 끌 수 있습니다.\n- 수정: 폴더의 업데이트 아이콘을 눌러도 업데이트 창 없이 앱만 열리던 문제.",
+        "zh-Hans": "- 菜单栏新增 Dockfolio 图标：关闭窗口后 App 仍在后台运行，可快速访问各文件夹中的 App、新建文件夹和更新。可在设置中关闭。\n- Dockfolio 现在会在登录时仅在菜单栏中打开，不显示窗口。可在设置中关闭。\n- 修复：点按文件夹上的更新图标只会打开 App，而不显示更新窗口的问题。",
+        "ru": "- Новый значок Dockfolio в строке меню: приложение продолжает работать в фоне после закрытия окна, с быстрым доступом к приложениям каждой папки, новым папкам и обновлениям. Можно отключить в настройках.\n- Dockfolio теперь открывается при входе в систему, только в строке меню и без окна. Можно отключить в настройках.\n- Исправлено: значок обновления на папке только открывал приложение, не показывая окно обновления."
+      }
+    },
+    {
       "version": "0.6.18",
       "date": "2026-10-28",
       "notes": {
