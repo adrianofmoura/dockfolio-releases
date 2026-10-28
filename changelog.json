@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.9",
+      "date": "2026-10-28",
+      "notes": "- Ajustes da pasta: os controles ficam numa grade comum, então os sliders das duas colunas ficam alinhados lado a lado nas abas Vidro e Grade (antes havia diferença de alguns pixels)."
+    },
+    {
       "version": "0.6.8",
       "date": "2026-10-28",
       "notes": "- Painel: o botão de editar agora aparece quando o cursor chega perto dele (numa área em volta, que inclui um pedaço da primeira linha de apps), e não só quando passa exatamente em cima."

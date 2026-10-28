@@ -1,0 +1,1 @@
+- Ajustes da pasta: os controles ficam numa grade comum, então os sliders das duas colunas ficam alinhados lado a lado nas abas Vidro e Grade (antes havia diferença de alguns pixels).
