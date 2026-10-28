@@ -1,0 +1,19 @@
+{
+  "versions": [
+    {
+      "version": "0.6.2",
+      "date": "2026-10-28",
+      "notes": "- As pastas agora também avisam sobre atualizações: ao abrir uma pasta, se houver versão nova, aparece um aviso no painel (checagem no máximo uma vez por dia).\n- Instalação pelo Terminal com uma linha, sem o aviso do Gatekeeper.\n- Licença do Sparkle incluída no app."
+    },
+    {
+      "version": "0.6.1",
+      "date": "2026-10-28",
+      "notes": "- Novo \"Sobre o Dockfolio\" com as informações do desenvolvedor.\n- Painel de apps: botão **+** para adicionar apps da pasta Aplicativos, e o atalho de edição foi para o canto.\n- Nomes dos apps agora ficam ocultos por padrão.\n- Mais idiomas: francês, alemão, italiano, japonês, coreano, chinês simplificado e russo.\n- Seletor de idiomas mais compacto no guia, com menu suspenso.\n- Ajustes: tela reorganizada, janela que cresce a partir do centro e opção de excluir mais clara.\n- Histórico de versões com as novidades de cada atualização.\n- macOS 12: botão da barra lateral e menu sem as opções de abas.\n- Atualizações automáticas já ativadas desde a primeira abertura.\n- Código de versão mais curto nos relatórios de erro."
+    },
+    {
+      "version": "0.6.0",
+      "date": "2026-10-28",
+      "notes": "## 0.6.0\n\n- Atualização automática."
+    }
+  ]
+}
