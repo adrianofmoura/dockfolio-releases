@@ -1,0 +1,4 @@
+- Rétablir les réglages d’usine et supprimer des dossiers nettoient désormais Launchpad : les dossiers supprimés n’y restent plus.
+- Accessibilité : l’app n’ouvre plus les Réglages par-dessus l’avis de macOS ; un lien séparé mène aux Réglages si besoin.
+- Icône du Dock : le verre est désormais dépoli même dans le mode le plus transparent et devient plus opaque quand le réglage monte (y compris en suivant le système).
+- Réglages : nouvelle option « Installer les mises à jour automatiquement » et boutons de mise à jour et de modification alignés dans le panneau.

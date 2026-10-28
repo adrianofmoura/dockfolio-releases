@@ -1,0 +1,4 @@
+- Werkseinstellungen wiederherstellen und Ordner löschen räumen jetzt auch das Launchpad auf: gelöschte Ordner bleiben dort nicht mehr sichtbar.
+- Bedienungshilfen: Die App öffnet die Einstellungen nicht mehr über dem macOS-Hinweis; ein separater Link führt bei Bedarf dorthin.
+- Dock-Symbol: Das Glas ist jetzt schon im transparentesten Modus mattiert und wird mit dem Regler matter (auch bei „Dem System folgen“).
+- Einstellungen: neue Option „Updates automatisch installieren“; Update- und Bearbeiten-Taste im Panel sind jetzt auf einer Linie.

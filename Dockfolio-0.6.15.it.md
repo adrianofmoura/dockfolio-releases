@@ -1,0 +1,4 @@
+- Ripristinare le impostazioni di fabbrica ed eliminare cartelle ora ripuliscono anche Launchpad: le cartelle eliminate non restano più visibili.
+- Accessibilità: l’app non apre più le Impostazioni sopra l’avviso di macOS; un link separato porta alle Impostazioni, se serve.
+- Icona del Dock: il vetro è ora satinato già nella modalità più trasparente e diventa più opaco man mano che l’impostazione sale (anche seguendo il sistema).
+- Impostazioni: nuova opzione “Installa gli aggiornamenti automaticamente” e pulsanti di aggiornamento e modifica allineati nel pannello.

@@ -1,0 +1,4 @@
+- Restaurar ajustes de fábrica y eliminar carpetas ahora limpian Launchpad: las carpetas borradas ya no siguen apareciendo.
+- Accesibilidad: la app ya no abre los Ajustes sobre el aviso de macOS; un enlace aparte lleva a los Ajustes si lo necesitas.
+- Icono del Dock: el cristal ahora es esmerilado incluso en el modo más transparente y se vuelve más opaco al subir el ajuste (también siguiendo el sistema).
+- Ajustes: nueva opción «Instalar actualizaciones automáticamente» y botones de actualización y de editar alineados en el panel.

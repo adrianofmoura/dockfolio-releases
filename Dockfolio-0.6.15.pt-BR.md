@@ -1,0 +1,4 @@
+- Restaurar padrões de fábrica e excluir pastas agora limpam o Launchpad: as pastas apagadas não ficam mais aparecendo lá.
+- Acessibilidade: o app não abre mais os Ajustes por cima do aviso do macOS; um link separado leva aos Ajustes, se precisar.
+- Ícone no Dock: o vidro agora é jateado já no modo mais transparente e vai ficando mais fosco conforme o ajuste (inclusive seguindo o sistema).
+- Ajustes: nova opção “Instalar atualizações automaticamente” e botões de atualização e de editar alinhados no painel.

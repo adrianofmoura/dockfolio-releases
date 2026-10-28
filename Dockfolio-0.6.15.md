@@ -1,0 +1,4 @@
+- Restoring factory settings and deleting folders now clean up Launchpad: deleted folders no longer linger there.
+- Accessibility: the app no longer opens Settings over macOS’s own prompt; a separate link takes you to Settings if you need it.
+- Dock icon: the glass is now frosted even in the most transparent mode and gets more opaque as the setting rises (including when following the system).
+- Settings: new “Install updates automatically” option, and the update and edit buttons are now aligned in the panel.
