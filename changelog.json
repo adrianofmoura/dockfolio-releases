@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.11",
+      "date": "2026-10-28",
+      "notes": "- Restaurar padrões de fábrica (Ajustes > Avançado) agora faz o que diz: apaga as pastas (os apps delas vão para a Lixeira e saem do Dock), os padrões e as preferências, e reabre o guia de boas-vindas, como numa instalação nova. Antes de apagar, pergunta e explica o que será apagado; nada é excluído de vez (tudo vai para a Lixeira).\n- Aviso de atualização no painel virou um ícone discreto, com identidade própria, no canto esquerdo; ao passar o cursor ele se abre e mostra a versão. Enquanto está aberto, o botão de editar se esconde para não ficarem um sobre o outro."
+    },
+    {
       "version": "0.6.10",
       "date": "2026-10-28",
       "notes": "- A aba Apps agora tem a mesma altura das outras abas de ajustes; a lista de apps rola dentro dessa altura. Trocar entre as cinco abas não mexe em mais nada."
