@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.7",
+      "date": "2026-10-28",
+      "notes": "- Ajustes da pasta: todas as abas (Vidro, Grade, Painel e Sistema) têm a mesma altura, a da mais alta, em qualquer macOS. Trocar de aba não mexe mais em nada.\n- Ao abrir uma pasta, a busca de atualização acontece sempre (antes esperava até 24 horas desde a última), e o aviso aparece no painel assim que houver versão nova."
+    },
+    {
       "version": "0.6.6",
       "date": "2026-10-28",
       "notes": "- Painel: o botão de editar agora fica no meio da borda de cima, fora do vidro, e nunca mais encosta nos ícones, qualquer que seja o espaçamento ou o tamanho. Só aparece quando o cursor chega nessa região."
