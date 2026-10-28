@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "version": "0.6.5",
+      "date": "2026-10-28",
+      "notes": "- Painel alinhado com o ícone no Dock: com a ampliação ligada, o painel agora se ancora no lugar de repouso do ícone (calculado pelo tamanho e pelo número de apps fixados), em vez do ponto do clique.\n- macOS 12: a barra lateral não se recolhe mais sozinha ao mexer na janela."
+    },
+    {
       "version": "0.6.4",
       "date": "2026-10-28",
       "notes": "- macOS 12: com a janela baixa, os controles da parte de baixo não se atropelam mais; quem encolhe é a prévia."

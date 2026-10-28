@@ -1,0 +1,2 @@
+- Painel alinhado com o ícone no Dock: com a ampliação ligada, o painel agora se ancora no lugar de repouso do ícone (calculado pelo tamanho e pelo número de apps fixados), em vez do ponto do clique.
+- macOS 12: a barra lateral não se recolhe mais sozinha ao mexer na janela.
