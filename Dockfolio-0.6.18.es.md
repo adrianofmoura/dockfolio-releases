@@ -1,0 +1,2 @@
+- Panel: los iconos ahora se arrastran al instante, sin mantener pulsado, como en Launchpad. La guía se ha actualizado.
+- Dock en el lateral: el panel queda junto al Dock y se aparta de la etiqueta con el nombre de la carpeta, en lugar de taparla o quedar lejos cuando el nombre es largo.

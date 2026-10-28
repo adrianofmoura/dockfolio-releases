@@ -1,0 +1,2 @@
+- Panel: icons now drag right away, no need to hold first, like in Launchpad. The guide was updated.
+- Dock on the side: the panel stays next to the Dock and steps aside from the folder-name label, instead of covering it or sitting far away when the name is long.

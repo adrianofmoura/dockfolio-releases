@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.6.18",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Painel: o ícone agora é arrastado na hora, sem precisar segurar, como no Launchpad. O guia foi atualizado.\n- Dock na lateral: o painel fica junto ao Dock e se desvia do rótulo com o nome da pasta, em vez de cobri-lo ou ficar longe quando o nome é grande.",
+        "en": "- Panel: icons now drag right away, no need to hold first, like in Launchpad. The guide was updated.\n- Dock on the side: the panel stays next to the Dock and steps aside from the folder-name label, instead of covering it or sitting far away when the name is long.",
+        "es": "- Panel: los iconos ahora se arrastran al instante, sin mantener pulsado, como en Launchpad. La guía se ha actualizado.\n- Dock en el lateral: el panel queda junto al Dock y se aparta de la etiqueta con el nombre de la carpeta, en lugar de taparla o quedar lejos cuando el nombre es largo.",
+        "fr": "- Panneau : les icônes se déplacent désormais tout de suite, sans appui long, comme dans Launchpad. Le guide a été mis à jour.\n- Dock sur le côté : le panneau reste près du Dock et s’écarte de l’étiquette du nom du dossier, au lieu de la cacher ou d’être éloigné quand le nom est long.",
+        "de": "- Panel: Symbole lassen sich jetzt sofort ziehen, ohne vorher zu halten, wie im Launchpad. Die Anleitung wurde angepasst.\n- Dock seitlich: Das Panel bleibt am Dock und weicht dem Namensschild des Ordners aus, statt es zu verdecken oder bei langen Namen weit entfernt zu sein.",
+        "it": "- Pannello: le icone ora si trascinano subito, senza tenere premuto, come in Launchpad. La guida è stata aggiornata.\n- Dock laterale: il pannello resta vicino al Dock e si sposta rispetto all’etichetta del nome della cartella, invece di coprirla o di stare lontano quando il nome è lungo.",
+        "ja": "- パネル：Launchpadのように、アイコンを長押しせずにすぐドラッグできるようになりました。ガイドも更新しました。\n- Dockが横にあるとき：パネルはDockのすぐ横に表示され、フォルダ名のラベルを避けて配置されます。名前が長くても、ラベルを隠したり遠くに離れたりしません。",
+        "ko": "- 패널: Launchpad처럼 길게 누르지 않고 아이콘을 바로 끌 수 있습니다. 안내도 업데이트했습니다.\n- Dock이 옆에 있을 때: 패널이 Dock 바로 옆에 놓이며 폴더 이름 레이블을 피해 배치됩니다. 이름이 길어도 레이블을 가리거나 멀리 떨어지지 않습니다.",
+        "zh-Hans": "- 面板：像启动台一样，图标无需长按即可立即拖动。指南也已更新。\n- Dock 在侧边时：面板紧挨着程序坞，并避开文件夹名称标签，不会遮住标签，也不会在名称很长时离得很远。",
+        "ru": "- Панель: значки теперь перетаскиваются сразу, без удержания, как в Launchpad. Руководство обновлено.\n- Dock сбоку: панель остаётся рядом с Dock и смещается так, чтобы не закрывать подпись с названием папки и не уезжать далеко при длинном названии."
+      }
+    },
+    {
       "version": "0.6.17",
       "date": "2026-10-28",
       "notes": {

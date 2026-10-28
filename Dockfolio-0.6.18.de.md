@@ -1,0 +1,2 @@
+- Panel: Symbole lassen sich jetzt sofort ziehen, ohne vorher zu halten, wie im Launchpad. Die Anleitung wurde angepasst.
+- Dock seitlich: Das Panel bleibt am Dock und weicht dem Namensschild des Ordners aus, statt es zu verdecken oder bei langen Namen weit entfernt zu sein.

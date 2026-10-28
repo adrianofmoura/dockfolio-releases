@@ -1,0 +1,2 @@
+- Painel: o ícone agora é arrastado na hora, sem precisar segurar, como no Launchpad. O guia foi atualizado.
+- Dock na lateral: o painel fica junto ao Dock e se desvia do rótulo com o nome da pasta, em vez de cobri-lo ou ficar longe quando o nome é grande.

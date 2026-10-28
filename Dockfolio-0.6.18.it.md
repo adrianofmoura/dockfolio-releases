@@ -1,0 +1,2 @@
+- Pannello: le icone ora si trascinano subito, senza tenere premuto, come in Launchpad. La guida è stata aggiornata.
+- Dock laterale: il pannello resta vicino al Dock e si sposta rispetto all’etichetta del nome della cartella, invece di coprirla o di stare lontano quando il nome è lungo.

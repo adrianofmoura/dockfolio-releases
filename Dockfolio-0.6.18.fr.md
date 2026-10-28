@@ -1,0 +1,2 @@
+- Panneau : les icônes se déplacent désormais tout de suite, sans appui long, comme dans Launchpad. Le guide a été mis à jour.
+- Dock sur le côté : le panneau reste près du Dock et s’écarte de l’étiquette du nom du dossier, au lieu de la cacher ou d’être éloigné quand le nom est long.
