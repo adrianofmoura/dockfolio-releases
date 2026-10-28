@@ -1,0 +1,3 @@
+- Corretto: scegliendo un’app con il + del pannello, la cartella si chiudeva da sola (macOS 12).
+- Creazione cartella: la finestra del nome si chiude subito e mostra l’avanzamento, senza cartelle doppie.
+- L’avviso di aggiornamento delle cartelle usa la versione di Dockfolio installata e ne registra il motivo nel log.

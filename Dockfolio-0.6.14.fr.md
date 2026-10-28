@@ -1,0 +1,3 @@
+- Corrigé : choisir une app avec le + du panneau fermait le dossier tout seul (macOS 12).
+- Création de dossier : la fenêtre du nom se ferme aussitôt et affiche la progression, sans doublons.
+- L’avis de mise à jour des dossiers utilise la version de Dockfolio installée et en consigne la raison dans le journal.

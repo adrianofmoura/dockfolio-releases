@@ -1,0 +1,3 @@
+- Fixed: choosing an app from the panel’s + button closed the folder by itself (macOS 12).
+- Creating a folder: the name window closes right away and shows progress, with no duplicate folders.
+- The folders’ update notice now uses the installed Dockfolio’s version and logs its reasoning.

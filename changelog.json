@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.6.14",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- Corrigido: ao escolher um app pelo + do painel, a pasta fechava sozinha (macOS 12).\n- Criar pasta: a janela do nome fecha na hora e mostra o progresso, sem criar pastas repetidas.\n- O aviso de atualização nas pastas usa a versão do Dockfolio que está instalado e registra o motivo no log.",
+        "en": "- Fixed: choosing an app from the panel’s + button closed the folder by itself (macOS 12).\n- Creating a folder: the name window closes right away and shows progress, with no duplicate folders.\n- The folders’ update notice now uses the installed Dockfolio’s version and logs its reasoning.",
+        "es": "- Corregido: al elegir una app con el + del panel, la carpeta se cerraba sola (macOS 12).\n- Crear carpeta: la ventana del nombre se cierra al instante y muestra el progreso, sin carpetas repetidas.\n- El aviso de actualización de las carpetas usa la versión de Dockfolio instalada y registra el motivo en el log.",
+        "fr": "- Corrigé : choisir une app avec le + du panneau fermait le dossier tout seul (macOS 12).\n- Création de dossier : la fenêtre du nom se ferme aussitôt et affiche la progression, sans doublons.\n- L’avis de mise à jour des dossiers utilise la version de Dockfolio installée et en consigne la raison dans le journal.",
+        "de": "- Behoben: Beim Auswählen einer App über das + im Panel schloss sich der Ordner von selbst (macOS 12).\n- Ordner anlegen: Das Namensfenster schließt sich sofort und zeigt den Fortschritt, ohne doppelte Ordner.\n- Der Update-Hinweis der Ordner nutzt die Version des installierten Dockfolio und protokolliert den Grund.",
+        "it": "- Corretto: scegliendo un’app con il + del pannello, la cartella si chiudeva da sola (macOS 12).\n- Creazione cartella: la finestra del nome si chiude subito e mostra l’avanzamento, senza cartelle doppie.\n- L’avviso di aggiornamento delle cartelle usa la versione di Dockfolio installata e ne registra il motivo nel log.",
+        "ja": "- 修正：パネルの「＋」でAppを選ぶと、フォルダが勝手に閉じる問題（macOS 12）。\n- フォルダの作成：名前のウインドウがすぐに閉じ、進行状況を表示します。重複して作成されることもありません。\n- フォルダのアップデート通知は、インストール済みDockfolioのバージョンを使い、理由をログに記録します。",
+        "ko": "- 수정: 패널의 + 버튼으로 앱을 선택하면 폴더가 저절로 닫히던 문제(macOS 12).\n- 폴더 만들기: 이름 창이 바로 닫히고 진행 상황이 표시되며, 중복 폴더가 생기지 않습니다.\n- 폴더의 업데이트 알림이 설치된 Dockfolio의 버전을 사용하며, 그 이유를 로그에 기록합니다.",
+        "zh-Hans": "- 修复：通过面板的 + 选择 App 时文件夹会自行关闭的问题（macOS 12）。\n- 创建文件夹：名称窗口会立即关闭并显示进度，不会再创建重复的文件夹。\n- 文件夹的更新提示现在使用已安装 Dockfolio 的版本，并在日志中记录原因。",
+        "ru": "- Исправлено: при выборе приложения кнопкой + в панели папка закрывалась сама (macOS 12).\n- Создание папки: окно имени сразу закрывается и показывает ход работы, дубликаты больше не создаются.\n- Уведомление об обновлении в папках использует версию установленного Dockfolio и записывает причину в журнал."
+      }
+    },
+    {
       "version": "0.6.13",
       "date": "2026-10-28",
       "notes": {

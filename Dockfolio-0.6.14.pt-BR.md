@@ -1,0 +1,3 @@
+- Corrigido: ao escolher um app pelo + do painel, a pasta fechava sozinha (macOS 12).
+- Criar pasta: a janela do nome fecha na hora e mostra o progresso, sem criar pastas repetidas.
+- O aviso de atualização nas pastas usa a versão do Dockfolio que está instalado e registra o motivo no log.

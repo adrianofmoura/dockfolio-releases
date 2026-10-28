@@ -1,0 +1,3 @@
+- Corregido: al elegir una app con el + del panel, la carpeta se cerraba sola (macOS 12).
+- Crear carpeta: la ventana del nombre se cierra al instante y muestra el progreso, sin carpetas repetidas.
+- El aviso de actualización de las carpetas usa la versión de Dockfolio instalada y registra el motivo en el log.

@@ -1,0 +1,3 @@
+- Behoben: Beim Auswählen einer App über das + im Panel schloss sich der Ordner von selbst (macOS 12).
+- Ordner anlegen: Das Namensfenster schließt sich sofort und zeigt den Fortschritt, ohne doppelte Ordner.
+- Der Update-Hinweis der Ordner nutzt die Version des installierten Dockfolio und protokolliert den Grund.
