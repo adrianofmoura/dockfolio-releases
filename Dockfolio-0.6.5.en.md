@@ -1,0 +1,2 @@
+- The panel lines up with its Dock icon, also with magnification on.
+- macOS 12: the sidebar no longer collapses on its own.

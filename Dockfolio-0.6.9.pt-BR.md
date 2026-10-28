@@ -1,0 +1,1 @@
+- Sliders das duas colunas alinhados lado a lado.

@@ -1,0 +1,1 @@
+- Erste veröffentlichte Version, mit automatischen Updates (Ausgangspunkt dieses Verlaufs).

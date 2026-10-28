@@ -1,0 +1,7 @@
+- Der Ordner wird beim ersten Sichern automatisch im Dock fixiert, mit Animation.
+- Kurze Anleitung beim ersten Fixieren, mit den nächsten Schritten.
+- Panel: unauffällige Bearbeiten-Taste, die nur bei nahem Cursor erscheint.
+- Der Verlauf zeigt die 5 neuesten Versionen, mit einer Seite für frühere.
+- Sprachmenü ohne den leeren Platz oben.
+- macOS 12: Das Panel ist bei 0 % Deckkraft jetzt wirklich transparent.
+- macOS 26 oder neuer: Die Trennlinie der Seitenleiste reicht jetzt ununterbrochen nach oben.

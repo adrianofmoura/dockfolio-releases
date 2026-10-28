@@ -1,0 +1,3 @@
+- As pastas também avisam de atualizações ao abrir.
+- Instalação pelo Terminal com uma linha, sem o aviso do Gatekeeper.
+- Licença do Sparkle incluída no app.

@@ -1,0 +1,1 @@
+- Gli slider delle due colonne sono allineati affiancati.

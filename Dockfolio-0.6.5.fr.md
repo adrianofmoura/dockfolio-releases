@@ -1,0 +1,2 @@
+- Le panneau s’aligne sur son icône du Dock, même avec l’agrandissement activé.
+- macOS 12 : la barre latérale ne se replie plus toute seule.

@@ -1,2 +1,2 @@
-- Ajustes da pasta: todas as abas (Vidro, Grade, Painel e Sistema) têm a mesma altura, a da mais alta, em qualquer macOS. Trocar de aba não mexe mais em nada.
-- Ao abrir uma pasta, a busca de atualização acontece sempre (antes esperava até 24 horas desde a última), e o aviso aparece no painel assim que houver versão nova.
+- All settings tabs now have the same height.
+- Opening a folder now always checks for updates.

@@ -1,0 +1,1 @@
+- Der Tab „Apps“ hat dieselbe Höhe wie die anderen.

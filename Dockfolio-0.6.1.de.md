@@ -1,0 +1,10 @@
+- Neues Fenster „Über Dockfolio“ mit den Angaben zum Entwickler.
+- Panel: +-Taste zum Hinzufügen von Apps aus dem Programme-Ordner.
+- App-Namen sind standardmäßig ausgeblendet.
+- Neue Sprachen: Französisch, Deutsch, Italienisch, Japanisch, Koreanisch, Chinesisch und Russisch.
+- Kompakte Sprachauswahl mit Aufklappmenü.
+- Einstellungen neu geordnet; das Fenster wächst von der Mitte aus.
+- Versionsverlauf.
+- macOS 12: Seitenleisten-Taste und Menü ohne Tab-Optionen.
+- Automatische Updates sind ab dem ersten Start aktiv.
+- Kürzerer Versionscode in Fehlerberichten.

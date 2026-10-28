@@ -1,0 +1,1 @@
+- Los controles deslizantes de ambas columnas quedan alineados.

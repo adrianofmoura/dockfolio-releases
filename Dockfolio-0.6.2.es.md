@@ -1,0 +1,3 @@
+- Las carpetas también avisan de las actualizaciones al abrirse.
+- Instalación desde Terminal con una sola línea, sin el aviso de Gatekeeper.
+- La licencia de Sparkle se incluye ahora en la app.

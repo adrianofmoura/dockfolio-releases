@@ -1,0 +1,1 @@
+- Bearbeiten-Taste in der Mitte der Oberkante des Panels, außerhalb des Glases.

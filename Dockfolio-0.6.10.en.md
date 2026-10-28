@@ -1,0 +1,1 @@
+- The Apps tab has the same height as the others.

@@ -1,0 +1,1 @@
+- Primera versión publicada, con actualización automática (punto de partida de este historial).

@@ -1,0 +1,2 @@
+- Il pannello si allinea alla sua icona nel Dock, anche con l’ingrandimento attivo.
+- macOS 12: la barra laterale non si chiude più da sola.

@@ -1,0 +1,4 @@
+- El panel sigue su icono del Dock en tiempo real cuando la ampliación está activada (permiso de Accesibilidad opcional, solicitado en la guía de bienvenida).
+- Contrato de licencia (EULA) en portugués, inglés y español, en Dockfolio > Licencia y avisos.
+- Las notas de versión y el instalador están traducidos a los 10 idiomas.
+- Las instrucciones del DMG vienen en tu idioma, con un instalador para cada idioma.

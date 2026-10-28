@@ -1,0 +1,1 @@
+- macOS 12: con la ventana baja, los controles de abajo ya no se solapan.

@@ -1,0 +1,2 @@
+- Das Panel richtet sich am Dock-Symbol aus, auch bei aktivierter Vergrößerung.
+- macOS 12: Die Seitenleiste klappt nicht mehr von selbst ein.

@@ -1,0 +1,3 @@
+- Auch Ordner weisen beim Öffnen auf Updates hin.
+- Installation mit einer Zeile im Terminal, ohne Gatekeeper-Warnung.
+- Die Lizenz von Sparkle ist jetzt in der App enthalten.

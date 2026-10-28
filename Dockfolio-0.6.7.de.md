@@ -1,0 +1,2 @@
+- Alle Einstellungs-Tabs haben dieselbe Höhe.
+- Beim Öffnen eines Ordners wird jetzt immer nach Updates gesucht.

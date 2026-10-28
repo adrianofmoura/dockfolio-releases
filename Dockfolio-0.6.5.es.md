@@ -1,0 +1,2 @@
+- El panel queda alineado con su icono del Dock, también con la ampliación activada.
+- macOS 12: la barra lateral ya no se contrae sola.

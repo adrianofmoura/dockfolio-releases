@@ -1,0 +1,2 @@
+- Tutte le schede delle impostazioni hanno la stessa altezza.
+- All’apertura di una cartella si cercano sempre gli aggiornamenti.

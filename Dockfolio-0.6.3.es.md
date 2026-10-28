@@ -1,0 +1,7 @@
+- La carpeta se fija en el Dock automáticamente al guardarla por primera vez, con una animación.
+- Guía corta la primera vez que se fija, con los siguientes pasos.
+- Panel: botón de editar discreto, que solo aparece con el cursor cerca.
+- El historial muestra las 5 versiones más recientes, con una página para las anteriores.
+- Menú de idiomas sin el espacio vacío en la parte superior.
+- macOS 12: el panel es ahora realmente transparente con la opacidad al 0 %.
+- macOS 26 o posterior: el divisor de la barra lateral llega sin cortes hasta arriba.

@@ -1,0 +1,1 @@
+- L’onglet Apps a la même hauteur que les autres.

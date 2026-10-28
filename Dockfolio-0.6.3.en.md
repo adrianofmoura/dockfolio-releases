@@ -1,0 +1,7 @@
+- A folder is pinned to the Dock automatically the first time you save it, with an animation.
+- Short guide on the first pin, with next steps.
+- Panel: a discreet edit button that only appears when the cursor is near.
+- History shows the 5 latest versions, with a page for earlier ones.
+- Language menu without the empty space at the top.
+- macOS 12: the panel is now truly transparent at 0% opacity.
+- macOS 26 or later: the sidebar divider is now continuous to the top.

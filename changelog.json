@@ -1,64 +1,212 @@
 {
   "versions": [
     {
+      "version": "0.6.12",
+      "date": "2026-10-28",
+      "notes": {
+        "pt-BR": "- O painel acompanha o ícone no Dock em tempo real quando a ampliação está ligada (permissão de Acessibilidade opcional, pedida no guia de boas-vindas).\n- Licença de uso (EULA) em português, inglês e espanhol, em Dockfolio > Licença e avisos.\n- Notas de versão e instalador traduzidos para os 10 idiomas.\n- Instruções do DMG no idioma escolhido, com um instalador para cada idioma.",
+        "en": "- The panel follows its Dock icon in real time when magnification is on (optional Accessibility permission, requested in the welcome guide).\n- License agreement (EULA) in Portuguese, English and Spanish, under Dockfolio > License and Notices.\n- Release notes and the installer are now translated into all 10 languages.\n- The DMG’s instructions come in your language, with an installer for each language.",
+        "es": "- El panel sigue su icono del Dock en tiempo real cuando la ampliación está activada (permiso de Accesibilidad opcional, solicitado en la guía de bienvenida).\n- Contrato de licencia (EULA) en portugués, inglés y español, en Dockfolio > Licencia y avisos.\n- Las notas de versión y el instalador están traducidos a los 10 idiomas.\n- Las instrucciones del DMG vienen en tu idioma, con un instalador para cada idioma.",
+        "fr": "- Le panneau suit son icône du Dock en temps réel quand l’agrandissement est activé (autorisation d’Accessibilité facultative, demandée dans le guide de bienvenue).\n- Contrat de licence (EULA) en portugais, anglais et espagnol, dans Dockfolio > Licence et mentions.\n- Les notes de version et l’installateur sont traduits dans les 10 langues.\n- Les instructions du DMG sont dans votre langue, avec un installateur par langue.",
+        "de": "- Das Panel folgt seinem Dock-Symbol in Echtzeit, wenn die Vergrößerung aktiv ist (optionale Bedienungshilfen-Berechtigung, in der Willkommensanleitung erfragt).\n- Lizenzvertrag (EULA) auf Portugiesisch, Englisch und Spanisch unter Dockfolio > Lizenz und Hinweise.\n- Versionshinweise und Installer sind in alle 10 Sprachen übersetzt.\n- Die Anleitung im DMG gibt es in deiner Sprache, mit einem Installer pro Sprache.",
+        "it": "- Il pannello segue la sua icona nel Dock in tempo reale quando l’ingrandimento è attivo (autorizzazione di Accessibilità facoltativa, richiesta nella guida di benvenuto).\n- Contratto di licenza (EULA) in portoghese, inglese e spagnolo, in Dockfolio > Licenza e avvisi.\n- Note di versione e installer tradotti in tutte e 10 le lingue.\n- Le istruzioni del DMG sono nella tua lingua, con un installer per ogni lingua.",
+        "ja": "- 拡大表示がオンのとき、パネルがDockのアイコンにリアルタイムでついていきます（任意のアクセシビリティ許可。ようこそガイドで案内します）。\n- ライセンス契約（EULA）をポルトガル語・英語・スペイン語で用意しました（Dockfolio > ライセンスと表記）。\n- リリースノートとインストーラーを10言語に翻訳しました。\n- DMGの案内を各言語で用意し、言語ごとのインストーラーを作成しました。",
+        "ko": "- 확대 효과를 켰을 때 패널이 Dock 아이콘을 실시간으로 따라갑니다(선택 사항인 손쉬운 사용 권한, 환영 안내에서 요청).\n- 라이선스 계약서(EULA)를 포르투갈어, 영어, 스페인어로 제공합니다(Dockfolio > 라이선스 및 고지).\n- 릴리스 노트와 설치 프로그램을 10개 언어로 번역했습니다.\n- DMG의 안내를 각 언어로 제공하며, 언어별 설치 파일이 있습니다.",
+        "zh-Hans": "- 开启放大效果时，面板会实时跟随其程序坞图标（可选的辅助功能权限，在欢迎指南中请求）。\n- 新增许可协议（EULA），提供葡萄牙语、英语和西班牙语版本（Dockfolio > 许可与声明）。\n- 发行说明和安装脚本已翻译成全部 10 种语言。\n- DMG 中的说明提供各语言版本，每种语言各有一个安装包。",
+        "ru": "- Панель в реальном времени следует за значком в Dock при включённом увеличении (необязательное разрешение универсального доступа, запрашивается в приветственном руководстве).\n- Лицензионное соглашение (EULA) на португальском, английском и испанском: Dockfolio > Лицензия и уведомления.\n- Примечания к выпуску и установщик переведены на все 10 языков.\n- Инструкции в DMG теперь на вашем языке, для каждого языка — свой установщик."
+      }
+    },
+    {
       "version": "0.6.11",
       "date": "2026-10-28",
-      "notes": "- Restaurar padrões de fábrica (Ajustes > Avançado) agora faz o que diz: apaga as pastas (os apps delas vão para a Lixeira e saem do Dock), os padrões e as preferências, e reabre o guia de boas-vindas, como numa instalação nova. Antes de apagar, pergunta e explica o que será apagado; nada é excluído de vez (tudo vai para a Lixeira).\n- Aviso de atualização no painel virou um ícone discreto, com identidade própria, no canto esquerdo; ao passar o cursor ele se abre e mostra a versão. Enquanto está aberto, o botão de editar se esconde para não ficarem um sobre o outro."
+      "notes": {
+        "pt-BR": "- Restaurar padrões de fábrica apaga tudo, pergunta antes e reabre o guia.\n- Aviso de atualização em ícone discreto, que se abre ao passar o cursor.",
+        "en": "- Restore factory settings erases everything, asks first and reopens the guide.\n- Update notice is now a discreet icon that expands on hover.",
+        "es": "- Restaurar ajustes de fábrica lo borra todo, pregunta antes y reabre la guía.\n- El aviso de actualización es ahora un icono discreto que se expande al pasar el cursor.",
+        "fr": "- Rétablir les réglages d’usine efface tout, demande confirmation et rouvre le guide.\n- L’avis de mise à jour devient une icône discrète qui se déploie au survol.",
+        "de": "- Werkseinstellungen wiederherstellen löscht alles, fragt vorher nach und öffnet die Anleitung erneut.\n- Der Update-Hinweis ist jetzt ein dezentes Symbol, das sich beim Darüberfahren öffnet.",
+        "it": "- Ripristina le impostazioni di fabbrica elimina tutto, chiede conferma e riapre la guida.\n- L’avviso di aggiornamento è ora un’icona discreta che si espande al passaggio del cursore.",
+        "ja": "- 「工場出荷時の設定に戻す」ですべてを削除し、確認のうえ、ガイドを再表示します。\n- アップデートのお知らせは控えめなアイコンになり、カーソルを合わせると開きます。",
+        "ko": "- 공장 설정 복원이 모든 것을 삭제하며, 먼저 확인을 받고 안내를 다시 엽니다.\n- 업데이트 알림이 은은한 아이콘으로 바뀌었고, 커서를 올리면 펼쳐집니다.",
+        "zh-Hans": "- “恢复出厂设置”会清除所有内容，先询问确认，然后重新打开指南。\n- 更新提示改为低调的图标，光标悬停时展开。",
+        "ru": "- «Восстановить заводские настройки» удаляет всё, сначала спрашивает и снова открывает руководство.\n- Уведомление об обновлении стало ненавязчивым значком, который раскрывается при наведении."
+      }
     },
     {
       "version": "0.6.10",
       "date": "2026-10-28",
-      "notes": "- A aba Apps agora tem a mesma altura das outras abas de ajustes; a lista de apps rola dentro dessa altura. Trocar entre as cinco abas não mexe em mais nada."
+      "notes": {
+        "pt-BR": "- Aba Apps com a mesma altura das outras.",
+        "en": "- The Apps tab has the same height as the others.",
+        "es": "- La pestaña Apps tiene la misma altura que las demás.",
+        "fr": "- L’onglet Apps a la même hauteur que les autres.",
+        "de": "- Der Tab „Apps“ hat dieselbe Höhe wie die anderen.",
+        "it": "- La scheda App ha la stessa altezza delle altre.",
+        "ja": "- 「App」タブも他のタブと同じ高さになりました。",
+        "ko": "- 앱 탭의 높이가 다른 탭과 같아졌습니다.",
+        "zh-Hans": "- “App”标签页与其他标签页高度一致。",
+        "ru": "- Вкладка «Приложения» теперь той же высоты, что и остальные."
+      }
     },
     {
       "version": "0.6.9",
       "date": "2026-10-28",
-      "notes": "- Ajustes da pasta: os controles ficam numa grade comum, então os sliders das duas colunas ficam alinhados lado a lado nas abas Vidro e Grade (antes havia diferença de alguns pixels)."
+      "notes": {
+        "pt-BR": "- Sliders das duas colunas alinhados lado a lado.",
+        "en": "- Sliders in both columns are now aligned side by side.",
+        "es": "- Los controles deslizantes de ambas columnas quedan alineados.",
+        "fr": "- Les curseurs des deux colonnes sont alignés côte à côte.",
+        "de": "- Die Regler in beiden Spalten sind nebeneinander ausgerichtet.",
+        "it": "- Gli slider delle due colonne sono allineati affiancati.",
+        "ja": "- 2つの列のスライダーを横一列にそろえました。",
+        "ko": "- 두 열의 슬라이더가 나란히 정렬됩니다.",
+        "zh-Hans": "- 两列滑块现在左右对齐。",
+        "ru": "- Ползунки в обоих столбцах теперь выровнены."
+      }
     },
     {
       "version": "0.6.8",
       "date": "2026-10-28",
-      "notes": "- Painel: o botão de editar agora aparece quando o cursor chega perto dele (numa área em volta, que inclui um pedaço da primeira linha de apps), e não só quando passa exatamente em cima."
+      "notes": {
+        "pt-BR": "- Botão de editar aparece quando o cursor chega perto.",
+        "en": "- The edit button appears when the cursor gets close.",
+        "es": "- El botón de editar aparece cuando el cursor se acerca.",
+        "fr": "- Le bouton de modification apparaît quand le curseur s’approche.",
+        "de": "- Die Bearbeiten-Taste erscheint, wenn sich der Cursor nähert.",
+        "it": "- Il pulsante Modifica compare quando il cursore si avvicina.",
+        "ja": "- カーソルが近づくと編集ボタンが表示されます。",
+        "ko": "- 커서가 가까워지면 편집 버튼이 나타납니다.",
+        "zh-Hans": "- 光标靠近时会显示编辑按钮。",
+        "ru": "- Кнопка изменения появляется, когда курсор приближается."
+      }
     },
     {
       "version": "0.6.7",
       "date": "2026-10-28",
-      "notes": "- Ajustes da pasta: todas as abas (Vidro, Grade, Painel e Sistema) têm a mesma altura, a da mais alta, em qualquer macOS. Trocar de aba não mexe mais em nada.\n- Ao abrir uma pasta, a busca de atualização acontece sempre (antes esperava até 24 horas desde a última), e o aviso aparece no painel assim que houver versão nova."
+      "notes": {
+        "pt-BR": "- Todas as abas de ajustes com a mesma altura.\n- Ao abrir uma pasta, a busca de atualização acontece sempre.",
+        "en": "- All settings tabs now have the same height.\n- Opening a folder now always checks for updates.",
+        "es": "- Todas las pestañas de ajustes tienen la misma altura.\n- Al abrir una carpeta se busca siempre si hay actualizaciones.",
+        "fr": "- Tous les onglets de réglages ont la même hauteur.\n- Chaque ouverture d’un dossier vérifie désormais les mises à jour.",
+        "de": "- Alle Einstellungs-Tabs haben dieselbe Höhe.\n- Beim Öffnen eines Ordners wird jetzt immer nach Updates gesucht.",
+        "it": "- Tutte le schede delle impostazioni hanno la stessa altezza.\n- All’apertura di una cartella si cercano sempre gli aggiornamenti.",
+        "ja": "- すべての設定タブの高さをそろえました。\n- フォルダを開くたびに、アップデートを確認します。",
+        "ko": "- 모든 설정 탭의 높이가 같아졌습니다.\n- 폴더를 열 때마다 업데이트를 확인합니다.",
+        "zh-Hans": "- 所有设置标签页高度一致。\n- 每次打开文件夹都会检查更新。",
+        "ru": "- Все вкладки настроек теперь одной высоты.\n- При каждом открытии папки теперь проверяются обновления."
+      }
     },
     {
       "version": "0.6.6",
       "date": "2026-10-28",
-      "notes": "- Painel: o botão de editar agora fica no meio da borda de cima, fora do vidro, e nunca mais encosta nos ícones, qualquer que seja o espaçamento ou o tamanho. Só aparece quando o cursor chega nessa região."
+      "notes": {
+        "pt-BR": "- Botão de editar no meio da borda de cima do painel, fora do vidro.",
+        "en": "- Edit button moved to the middle of the panel’s top edge, outside the glass.",
+        "es": "- Botón de editar en el centro del borde superior del panel, fuera del cristal.",
+        "fr": "- Bouton de modification au milieu du bord supérieur du panneau, hors du verre.",
+        "de": "- Bearbeiten-Taste in der Mitte der Oberkante des Panels, außerhalb des Glases.",
+        "it": "- Pulsante Modifica al centro del bordo superiore del pannello, fuori dal vetro.",
+        "ja": "- 編集ボタンを、パネル上端の中央（ガラスの外側）に移しました。",
+        "ko": "- 편집 버튼을 패널 위쪽 가장자리 가운데(유리 바깥)로 옮겼습니다.",
+        "zh-Hans": "- 编辑按钮移到面板上边缘中间，位于玻璃之外。",
+        "ru": "- Кнопка изменения перенесена на середину верхнего края панели, за пределы стекла."
+      }
     },
     {
       "version": "0.6.5",
       "date": "2026-10-28",
-      "notes": "- Painel alinhado com o ícone no Dock: com a ampliação ligada, o painel agora se ancora no lugar de repouso do ícone (calculado pelo tamanho e pelo número de apps fixados), em vez do ponto do clique.\n- macOS 12: a barra lateral não se recolhe mais sozinha ao mexer na janela."
+      "notes": {
+        "pt-BR": "- Painel alinhado ao ícone no Dock, também com a ampliação ligada.\n- macOS 12: a barra lateral não se recolhe mais sozinha.",
+        "en": "- The panel lines up with its Dock icon, also with magnification on.\n- macOS 12: the sidebar no longer collapses on its own.",
+        "es": "- El panel queda alineado con su icono del Dock, también con la ampliación activada.\n- macOS 12: la barra lateral ya no se contrae sola.",
+        "fr": "- Le panneau s’aligne sur son icône du Dock, même avec l’agrandissement activé.\n- macOS 12 : la barre latérale ne se replie plus toute seule.",
+        "de": "- Das Panel richtet sich am Dock-Symbol aus, auch bei aktivierter Vergrößerung.\n- macOS 12: Die Seitenleiste klappt nicht mehr von selbst ein.",
+        "it": "- Il pannello si allinea alla sua icona nel Dock, anche con l’ingrandimento attivo.\n- macOS 12: la barra laterale non si chiude più da sola.",
+        "ja": "- 拡大表示をオンにしていても、パネルがDockのアイコンと揃います。\n- macOS 12：サイドバーが勝手に閉じなくなりました。",
+        "ko": "- 확대 효과를 켜 놓아도 패널이 Dock 아이콘과 정렬됩니다.\n- macOS 12: 사이드바가 저절로 접히지 않습니다.",
+        "zh-Hans": "- 即使开启放大效果，面板也与其程序坞图标对齐。\n- macOS 12：边栏不再自行收起。",
+        "ru": "- Панель выравнивается по значку в Dock, в том числе при включённом увеличении.\n- macOS 12: боковая панель больше не сворачивается сама."
+      }
     },
     {
       "version": "0.6.4",
       "date": "2026-10-28",
-      "notes": "- macOS 12: com a janela baixa, os controles da parte de baixo não se atropelam mais; quem encolhe é a prévia."
+      "notes": {
+        "pt-BR": "- macOS 12: com a janela baixa, os controles de baixo não se atropelam mais.",
+        "en": "- macOS 12: with a short window, the controls at the bottom no longer overlap.",
+        "es": "- macOS 12: con la ventana baja, los controles de abajo ya no se solapan.",
+        "fr": "- macOS 12 : avec une fenêtre basse, les commandes du bas ne se chevauchent plus.",
+        "de": "- macOS 12: Bei niedrigem Fenster überlappen sich die unteren Regler nicht mehr.",
+        "it": "- macOS 12: con la finestra bassa, i controlli in basso non si sovrappongono più.",
+        "ja": "- macOS 12：ウインドウが低いとき、下側のコントロールが重ならなくなりました。",
+        "ko": "- macOS 12: 창이 낮아도 아래쪽 컨트롤이 더 이상 겹치지 않습니다.",
+        "zh-Hans": "- macOS 12：窗口较矮时，底部控件不再重叠。",
+        "ru": "- macOS 12: при низком окне нижние элементы управления больше не накладываются."
+      }
     },
     {
       "version": "0.6.3",
       "date": "2026-10-28",
-      "notes": "- Ao salvar uma pasta pela primeira vez, ela é fixada no Dock automaticamente, com uma animação mostrando onde ficou.\n- Guia curto na primeira vez que uma pasta entra no Dock, com os próximos passos (e um X para pular).\n- Painel: o botão de editar voltou ao canto, sem moldura, e só aparece quando o cursor passa por cima.\n- Histórico de versões mostra as 5 mais recentes, com uma página para as anteriores.\n- Menu de idiomas sem o espaço vazio no topo.\n- macOS 12: o painel agora fica realmente transparente quando a opacidade está em 0%.\n- macOS 26 ou mais novo: a divisão da barra lateral não se corta mais no topo."
+      "notes": {
+        "pt-BR": "- Pasta fixada no Dock automaticamente ao salvar pela primeira vez, com animação.\n- Guia curto na primeira fixação, com os próximos passos.\n- Painel: botão de editar discreto, que só aparece com o cursor por perto.\n- Histórico mostra as 5 versões mais recentes, com página das anteriores.\n- Menu de idiomas sem o espaço vazio no topo.\n- macOS 12: painel realmente transparente com a opacidade em 0%.\n- macOS 26 ou mais novo: divisão da barra lateral contínua até o topo.",
+        "en": "- A folder is pinned to the Dock automatically the first time you save it, with an animation.\n- Short guide on the first pin, with next steps.\n- Panel: a discreet edit button that only appears when the cursor is near.\n- History shows the 5 latest versions, with a page for earlier ones.\n- Language menu without the empty space at the top.\n- macOS 12: the panel is now truly transparent at 0% opacity.\n- macOS 26 or later: the sidebar divider is now continuous to the top.",
+        "es": "- La carpeta se fija en el Dock automáticamente al guardarla por primera vez, con una animación.\n- Guía corta la primera vez que se fija, con los siguientes pasos.\n- Panel: botón de editar discreto, que solo aparece con el cursor cerca.\n- El historial muestra las 5 versiones más recientes, con una página para las anteriores.\n- Menú de idiomas sin el espacio vacío en la parte superior.\n- macOS 12: el panel es ahora realmente transparente con la opacidad al 0 %.\n- macOS 26 o posterior: el divisor de la barra lateral llega sin cortes hasta arriba.",
+        "fr": "- Le dossier est fixé au Dock automatiquement au premier enregistrement, avec une animation.\n- Court guide lors de la première fixation, avec les étapes suivantes.\n- Panneau : bouton de modification discret, visible seulement quand le curseur est proche.\n- L’historique affiche les 5 dernières versions, avec une page pour les précédentes.\n- Menu des langues sans l’espace vide en haut.\n- macOS 12 : le panneau est désormais vraiment transparent à 0 % d’opacité.\n- macOS 26 ou ultérieur : le séparateur de la barre latérale va maintenant jusqu’en haut.",
+        "de": "- Der Ordner wird beim ersten Sichern automatisch im Dock fixiert, mit Animation.\n- Kurze Anleitung beim ersten Fixieren, mit den nächsten Schritten.\n- Panel: unauffällige Bearbeiten-Taste, die nur bei nahem Cursor erscheint.\n- Der Verlauf zeigt die 5 neuesten Versionen, mit einer Seite für frühere.\n- Sprachmenü ohne den leeren Platz oben.\n- macOS 12: Das Panel ist bei 0 % Deckkraft jetzt wirklich transparent.\n- macOS 26 oder neuer: Die Trennlinie der Seitenleiste reicht jetzt ununterbrochen nach oben.",
+        "it": "- La cartella viene fissata nel Dock automaticamente al primo salvataggio, con un’animazione.\n- Breve guida alla prima fissazione, con i passi successivi.\n- Pannello: pulsante Modifica discreto, visibile solo con il cursore vicino.\n- La cronologia mostra le 5 versioni più recenti, con una pagina per le precedenti.\n- Menu delle lingue senza lo spazio vuoto in alto.\n- macOS 12: il pannello è ora davvero trasparente con l’opacità allo 0%.\n- macOS 26 o successivo: il divisore della barra laterale arriva ora fino in alto.",
+        "ja": "- フォルダを初めて保存したときに、アニメーション付きで自動的にDockへ追加されます。\n- 初めてDockに追加したときに、次の手順を示す短いガイドを表示します。\n- パネル：カーソルが近づいたときだけ現れる控えめな編集ボタン。\n- 履歴には最新の5バージョンを表示し、それ以前は別ページで見られます。\n- 言語メニューの上部の空白を解消。\n- macOS 12：不透明度が0%のとき、パネルが完全に透明になります。\n- macOS 26以降：サイドバーの区切り線が上端まで途切れなくなりました。",
+        "ko": "- 폴더를 처음 저장할 때 애니메이션과 함께 Dock에 자동으로 추가됩니다.\n- 처음 Dock에 추가할 때 다음 단계를 알려 주는 짧은 안내가 나옵니다.\n- 패널: 커서가 가까이 있을 때만 나타나는 은은한 편집 버튼.\n- 기록에는 최신 5개 버전이 표시되고, 이전 버전은 별도 페이지에서 볼 수 있습니다.\n- 언어 메뉴 위쪽의 빈 공간을 없앴습니다.\n- macOS 12: 불투명도가 0%일 때 패널이 완전히 투명해집니다.\n- macOS 26 이상: 사이드바 구분선이 위쪽까지 끊기지 않고 이어집니다.",
+        "zh-Hans": "- 首次存储文件夹时，会自动将其固定到程序坞，并带有动画。\n- 首次固定时显示简短指南，介绍后续步骤。\n- 面板：低调的编辑按钮，仅在光标靠近时出现。\n- 历史记录显示最近 5 个版本，更早的版本在单独页面中查看。\n- 语言菜单顶部不再有空白。\n- macOS 12：不透明度为 0% 时，面板现在完全透明。\n- macOS 26 或更高版本：边栏分隔线现在一直延伸到顶部。",
+        "ru": "- При первом сохранении папка автоматически закрепляется в Dock с анимацией.\n- Краткое руководство при первом закреплении с описанием дальнейших шагов.\n- Панель: ненавязчивая кнопка изменения, которая появляется только при приближении курсора.\n- История показывает 5 последних версий, более ранние — на отдельной странице.\n- В меню языков убрано пустое место сверху.\n- macOS 12: при непрозрачности 0% панель теперь действительно прозрачна.\n- macOS 26 и новее: разделитель боковой панели теперь доходит до самого верха."
+      }
     },
     {
       "version": "0.6.2",
       "date": "2026-10-28",
-      "notes": "- As pastas agora também avisam sobre atualizações: ao abrir uma pasta, se houver versão nova, aparece um aviso no painel (checagem no máximo uma vez por dia).\n- Instalação pelo Terminal com uma linha, sem o aviso do Gatekeeper.\n- Licença do Sparkle incluída no app."
+      "notes": {
+        "pt-BR": "- As pastas também avisam de atualizações ao abrir.\n- Instalação pelo Terminal com uma linha, sem o aviso do Gatekeeper.\n- Licença do Sparkle incluída no app.",
+        "en": "- Folders now also announce updates when opened.\n- One-line installation from Terminal, without the Gatekeeper warning.\n- Sparkle’s license is now included in the app.",
+        "es": "- Las carpetas también avisan de las actualizaciones al abrirse.\n- Instalación desde Terminal con una sola línea, sin el aviso de Gatekeeper.\n- La licencia de Sparkle se incluye ahora en la app.",
+        "fr": "- Les dossiers signalent aussi les mises à jour à l’ouverture.\n- Installation en une ligne depuis le Terminal, sans l’avertissement de Gatekeeper.\n- La licence de Sparkle est désormais incluse dans l’app.",
+        "de": "- Auch Ordner weisen beim Öffnen auf Updates hin.\n- Installation mit einer Zeile im Terminal, ohne Gatekeeper-Warnung.\n- Die Lizenz von Sparkle ist jetzt in der App enthalten.",
+        "it": "- Anche le cartelle segnalano gli aggiornamenti all’apertura.\n- Installazione con una riga da Terminale, senza l’avviso di Gatekeeper.\n- La licenza di Sparkle è ora inclusa nell’app.",
+        "ja": "- フォルダを開いたときにも、アップデートをお知らせします。\n- ターミナルで1行実行するだけでインストールでき、Gatekeeperの警告も出ません。\n- Sparkleのライセンスをアプリに同梱しました。",
+        "ko": "- 폴더를 열 때도 업데이트를 알려 줍니다.\n- 터미널에서 한 줄로 설치하며 Gatekeeper 경고가 나타나지 않습니다.\n- Sparkle 라이선스를 앱에 포함했습니다.",
+        "zh-Hans": "- 打开文件夹时也会提示有可用更新。\n- 在终端中一行命令即可安装，不会出现 Gatekeeper 警告。\n- App 中现已包含 Sparkle 的许可证。",
+        "ru": "- Папки теперь тоже сообщают об обновлениях при открытии.\n- Установка одной строкой в Терминале, без предупреждения Gatekeeper.\n- Лицензия Sparkle теперь входит в приложение."
+      }
     },
     {
       "version": "0.6.1",
       "date": "2026-10-28",
-      "notes": "- Novo \"Sobre o Dockfolio\" com as informações do desenvolvedor.\n- Painel de apps: botão **+** para adicionar apps da pasta Aplicativos, e o atalho de edição foi para o canto.\n- Nomes dos apps agora ficam ocultos por padrão.\n- Mais idiomas: francês, alemão, italiano, japonês, coreano, chinês simplificado e russo.\n- Seletor de idiomas mais compacto no guia, com menu suspenso.\n- Ajustes: tela reorganizada, janela que cresce a partir do centro e opção de excluir mais clara.\n- Histórico de versões com as novidades de cada atualização.\n- macOS 12: botão da barra lateral e menu sem as opções de abas.\n- Atualizações automáticas já ativadas desde a primeira abertura.\n- Código de versão mais curto nos relatórios de erro."
+      "notes": {
+        "pt-BR": "- Novo “Sobre o Dockfolio” com os dados do desenvolvedor.\n- Painel: botão + para adicionar apps da pasta Aplicativos.\n- Nomes dos apps ocultos por padrão.\n- Novos idiomas: francês, alemão, italiano, japonês, coreano, chinês e russo.\n- Seletor de idiomas compacto, com menu suspenso.\n- Ajustes reorganizados e janela que cresce a partir do centro.\n- Histórico de versões.\n- macOS 12: botão da barra lateral e menu sem as opções de abas.\n- Atualizações automáticas ligadas desde a primeira abertura.\n- Código de versão mais curto nos relatórios de erro.",
+        "en": "- New “About Dockfolio” window with the developer’s details.\n- Panel: + button to add apps from the Applications folder.\n- App names are hidden by default.\n- New languages: French, German, Italian, Japanese, Korean, Chinese and Russian.\n- Compact language picker with a drop-down menu.\n- Settings reorganized, and the window now grows from its center.\n- Version history.\n- macOS 12: sidebar button added and tab options removed from the menu.\n- Automatic updates are on from the first launch.\n- Shorter version code in error reports.",
+        "es": "- Nueva ventana «Acerca de Dockfolio» con los datos del desarrollador.\n- Panel: botón + para añadir apps de la carpeta Aplicaciones.\n- Los nombres de las apps se ocultan por defecto.\n- Nuevos idiomas: francés, alemán, italiano, japonés, coreano, chino y ruso.\n- Selector de idioma compacto, con menú desplegable.\n- Ajustes reorganizados y ventana que crece desde el centro.\n- Historial de versiones.\n- macOS 12: botón de la barra lateral y menú sin las opciones de pestañas.\n- Actualizaciones automáticas activadas desde la primera apertura.\n- Código de versión más corto en los informes de error.",
+        "fr": "- Nouvelle fenêtre « À propos de Dockfolio » avec les informations du développeur.\n- Panneau : bouton + pour ajouter des apps du dossier Applications.\n- Les noms des apps sont masqués par défaut.\n- Nouvelles langues : français, allemand, italien, japonais, coréen, chinois et russe.\n- Sélecteur de langue compact, avec menu déroulant.\n- Réglages réorganisés et fenêtre qui s’agrandit à partir du centre.\n- Historique des versions.\n- macOS 12 : bouton de la barre latérale et menu sans les options d’onglets.\n- Mises à jour automatiques activées dès le premier lancement.\n- Code de version plus court dans les rapports d’erreur.",
+        "de": "- Neues Fenster „Über Dockfolio“ mit den Angaben zum Entwickler.\n- Panel: +-Taste zum Hinzufügen von Apps aus dem Programme-Ordner.\n- App-Namen sind standardmäßig ausgeblendet.\n- Neue Sprachen: Französisch, Deutsch, Italienisch, Japanisch, Koreanisch, Chinesisch und Russisch.\n- Kompakte Sprachauswahl mit Aufklappmenü.\n- Einstellungen neu geordnet; das Fenster wächst von der Mitte aus.\n- Versionsverlauf.\n- macOS 12: Seitenleisten-Taste und Menü ohne Tab-Optionen.\n- Automatische Updates sind ab dem ersten Start aktiv.\n- Kürzerer Versionscode in Fehlerberichten.",
+        "it": "- Nuova finestra “Informazioni su Dockfolio” con i dati dello sviluppatore.\n- Pannello: pulsante + per aggiungere app dalla cartella Applicazioni.\n- I nomi delle app sono nascosti per impostazione predefinita.\n- Nuove lingue: francese, tedesco, italiano, giapponese, coreano, cinese e russo.\n- Selettore di lingua compatto, con menu a tendina.\n- Impostazioni riorganizzate e finestra che cresce dal centro.\n- Cronologia delle versioni.\n- macOS 12: pulsante della barra laterale e menu senza le opzioni delle schede.\n- Aggiornamenti automatici attivi fin dal primo avvio.\n- Codice di versione più breve nei rapporti di errore.",
+        "ja": "- 開発者の情報を載せた新しい「Dockfolioについて」。\n- パネル：アプリケーションフォルダからAppを追加する「＋」ボタン。\n- Appの名前は初期設定で非表示になりました。\n- 新しい言語：フランス語、ドイツ語、イタリア語、日本語、韓国語、中国語、ロシア語。\n- プルダウンメニュー付きのコンパクトな言語選択。\n- 設定を整理し、ウインドウが中心から広がるようになりました。\n- バージョン履歴。\n- macOS 12：サイドバーのボタンを追加し、メニューからタブの項目を削除。\n- 自動アップデートは初回起動時からオンになります。\n- エラー報告に載るバージョンコードを短くしました。",
+        "ko": "- 개발자 정보를 담은 새 “Dockfolio 정보” 창.\n- 패널: 응용 프로그램 폴더의 앱을 추가하는 + 버튼.\n- 앱 이름이 기본적으로 숨겨집니다.\n- 새로운 언어: 프랑스어, 독일어, 이탈리아어, 일본어, 한국어, 중국어, 러시아어.\n- 드롭다운 메뉴가 있는 간결한 언어 선택기.\n- 설정을 재구성하고 창이 중앙에서부터 커지도록 했습니다.\n- 버전 기록.\n- macOS 12: 사이드바 버튼을 추가하고 메뉴에서 탭 항목을 제거했습니다.\n- 자동 업데이트가 처음 실행할 때부터 켜집니다.\n- 오류 보고서의 버전 코드를 더 짧게 했습니다.",
+        "zh-Hans": "- 新的“关于 Dockfolio”窗口，包含开发者信息。\n- 面板：新增 + 按钮，可从“应用程序”文件夹添加 App。\n- 默认隐藏 App 名称。\n- 新增语言：法语、德语、意大利语、日语、韩语、中文和俄语。\n- 带下拉菜单的精简语言选择器。\n- 重新整理了设置，窗口从中心向外伸缩。\n- 版本历史。\n- macOS 12：新增边栏按钮，菜单中不再出现标签页选项。\n- 自动更新从首次打开起即为开启状态。\n- 错误报告中的版本代码更短。",
+        "ru": "- Новое окно «О приложении Dockfolio» со сведениями о разработчике.\n- Панель: кнопка + для добавления приложений из папки «Программы».\n- Названия приложений по умолчанию скрыты.\n- Новые языки: французский, немецкий, итальянский, японский, корейский, китайский и русский.\n- Компактный выбор языка с выпадающим меню.\n- Настройки перестроены, окно теперь растёт от центра.\n- История версий.\n- macOS 12: добавлена кнопка боковой панели, из меню убраны пункты вкладок.\n- Автоматические обновления включены с первого запуска.\n- Более короткий код версии в отчётах об ошибках."
+      }
     },
     {
       "version": "0.6.0",
       "date": "2026-10-28",
-      "notes": "## 0.6.0\n\n- Ponto de partida do histórico: primeira versão publicada, com atualização automática."
+      "notes": {
+        "pt-BR": "- Primeira versão publicada, com atualização automática (ponto de partida deste histórico).",
+        "en": "- First published version, with automatic updates (starting point of this history).",
+        "es": "- Primera versión publicada, con actualización automática (punto de partida de este historial).",
+        "fr": "- Première version publiée, avec mises à jour automatiques (point de départ de cet historique).",
+        "de": "- Erste veröffentlichte Version, mit automatischen Updates (Ausgangspunkt dieses Verlaufs).",
+        "it": "- Prima versione pubblicata, con aggiornamenti automatici (punto di partenza di questa cronologia).",
+        "ja": "- 最初の公開バージョン（自動アップデート対応）。この履歴の起点です。",
+        "ko": "- 최초 공개 버전으로, 자동 업데이트를 지원합니다(이 기록의 시작점).",
+        "zh-Hans": "- 首个公开版本，支持自动更新（本历史的起点）。",
+        "ru": "- Первая опубликованная версия с автоматическими обновлениями (отправная точка этой истории)."
+      }
     }
   ]
 }

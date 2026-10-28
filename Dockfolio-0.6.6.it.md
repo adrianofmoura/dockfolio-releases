@@ -1,0 +1,1 @@
+- Pulsante Modifica al centro del bordo superiore del pannello, fuori dal vetro.

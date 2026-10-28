@@ -1,0 +1,4 @@
+- The panel follows its Dock icon in real time when magnification is on (optional Accessibility permission, requested in the welcome guide).
+- License agreement (EULA) in Portuguese, English and Spanish, under Dockfolio > License and Notices.
+- Release notes and the installer are now translated into all 10 languages.
+- The DMG’s instructions come in your language, with an installer for each language.

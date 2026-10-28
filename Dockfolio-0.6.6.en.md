@@ -1,0 +1,1 @@
+- Edit button moved to the middle of the panel’s top edge, outside the glass.

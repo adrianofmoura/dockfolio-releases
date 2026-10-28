@@ -1,0 +1,2 @@
+- All settings tabs now have the same height.
+- Opening a folder now always checks for updates.

@@ -1,0 +1,1 @@
+- Die Regler in beiden Spalten sind nebeneinander ausgerichtet.

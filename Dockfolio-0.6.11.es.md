@@ -1,0 +1,2 @@
+- Restaurar ajustes de fábrica lo borra todo, pregunta antes y reabre la guía.
+- El aviso de actualización es ahora un icono discreto que se expande al pasar el cursor.

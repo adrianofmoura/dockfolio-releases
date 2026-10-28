@@ -1,0 +1,4 @@
+- Il pannello segue la sua icona nel Dock in tempo reale quando l’ingrandimento è attivo (autorizzazione di Accessibilità facoltativa, richiesta nella guida di benvenuto).
+- Contratto di licenza (EULA) in portoghese, inglese e spagnolo, in Dockfolio > Licenza e avvisi.
+- Note di versione e installer tradotti in tutte e 10 le lingue.
+- Le istruzioni del DMG sono nella tua lingua, con un installer per ogni lingua.

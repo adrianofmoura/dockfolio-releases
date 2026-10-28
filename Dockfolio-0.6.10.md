@@ -1,1 +1,1 @@
-- A aba Apps agora tem a mesma altura das outras abas de ajustes; a lista de apps rola dentro dessa altura. Trocar entre as cinco abas não mexe em mais nada.
+- The Apps tab has the same height as the others.

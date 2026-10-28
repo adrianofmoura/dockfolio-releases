@@ -1,0 +1,1 @@
+- Prima versione pubblicata, con aggiornamenti automatici (punto di partenza di questa cronologia).

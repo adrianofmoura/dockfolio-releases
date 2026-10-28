@@ -1,3 +1,3 @@
-- As pastas agora também avisam sobre atualizações: ao abrir uma pasta, se houver versão nova, aparece um aviso no painel (checagem no máximo uma vez por dia).
-- Instalação pelo Terminal com uma linha, sem o aviso do Gatekeeper.
-- Licença do Sparkle incluída no app.
+- Folders now also announce updates when opened.
+- One-line installation from Terminal, without the Gatekeeper warning.
+- Sparkle’s license is now included in the app.

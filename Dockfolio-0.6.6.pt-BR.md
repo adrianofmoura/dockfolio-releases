@@ -1,0 +1,1 @@
+- Botão de editar no meio da borda de cima do painel, fora do vidro.

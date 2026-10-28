@@ -1,0 +1,1 @@
+- La pestaña Apps tiene la misma altura que las demás.

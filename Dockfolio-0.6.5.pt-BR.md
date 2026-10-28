@@ -1,0 +1,2 @@
+- Painel alinhado ao ícone no Dock, também com a ampliação ligada.
+- macOS 12: a barra lateral não se recolhe mais sozinha.

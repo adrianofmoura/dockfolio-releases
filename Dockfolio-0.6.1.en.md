@@ -1,0 +1,10 @@
+- New “About Dockfolio” window with the developer’s details.
+- Panel: + button to add apps from the Applications folder.
+- App names are hidden by default.
+- New languages: French, German, Italian, Japanese, Korean, Chinese and Russian.
+- Compact language picker with a drop-down menu.
+- Settings reorganized, and the window now grows from its center.
+- Version history.
+- macOS 12: sidebar button added and tab options removed from the menu.
+- Automatic updates are on from the first launch.
+- Shorter version code in error reports.

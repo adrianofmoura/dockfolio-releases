@@ -1,1 +1,1 @@
-- Painel: o botão de editar agora aparece quando o cursor chega perto dele (numa área em volta, que inclui um pedaço da primeira linha de apps), e não só quando passa exatamente em cima.
+- The edit button appears when the cursor gets close.

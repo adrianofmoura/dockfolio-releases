@@ -1,0 +1,1 @@
+- macOS 12: com a janela baixa, os controles de baixo não se atropelam mais.

@@ -1,0 +1,7 @@
+- Le dossier est fixé au Dock automatiquement au premier enregistrement, avec une animation.
+- Court guide lors de la première fixation, avec les étapes suivantes.
+- Panneau : bouton de modification discret, visible seulement quand le curseur est proche.
+- L’historique affiche les 5 dernières versions, avec une page pour les précédentes.
+- Menu des langues sans l’espace vide en haut.
+- macOS 12 : le panneau est désormais vraiment transparent à 0 % d’opacité.
+- macOS 26 ou ultérieur : le séparateur de la barre latérale va maintenant jusqu’en haut.

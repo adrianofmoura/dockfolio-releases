@@ -1,0 +1,1 @@
+- Botón de editar en el centro del borde superior del panel, fuera del cristal.

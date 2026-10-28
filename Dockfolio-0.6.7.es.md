@@ -1,0 +1,2 @@
+- Todas las pestañas de ajustes tienen la misma altura.
+- Al abrir una carpeta se busca siempre si hay actualizaciones.

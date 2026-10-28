@@ -1,0 +1,1 @@
+- Die Bearbeiten-Taste erscheint, wenn sich der Cursor nähert.

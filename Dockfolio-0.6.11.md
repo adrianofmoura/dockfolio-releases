@@ -1,2 +1,2 @@
-- Restaurar padrões de fábrica (Ajustes > Avançado) agora faz o que diz: apaga as pastas (os apps delas vão para a Lixeira e saem do Dock), os padrões e as preferências, e reabre o guia de boas-vindas, como numa instalação nova. Antes de apagar, pergunta e explica o que será apagado; nada é excluído de vez (tudo vai para a Lixeira).
-- Aviso de atualização no painel virou um ícone discreto, com identidade própria, no canto esquerdo; ao passar o cursor ele se abre e mostra a versão. Enquanto está aberto, o botão de editar se esconde para não ficarem um sobre o outro.
+- Restore factory settings erases everything, asks first and reopens the guide.
+- Update notice is now a discreet icon that expands on hover.

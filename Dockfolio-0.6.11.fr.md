@@ -1,0 +1,2 @@
+- Rétablir les réglages d’usine efface tout, demande confirmation et rouvre le guide.
+- L’avis de mise à jour devient une icône discrète qui se déploie au survol.

@@ -1,0 +1,2 @@
+- Ripristina le impostazioni di fabbrica elimina tutto, chiede conferma e riapre la guida.
+- L’avviso di aggiornamento è ora un’icona discreta che si espande al passaggio del cursore.

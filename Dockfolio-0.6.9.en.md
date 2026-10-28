@@ -1,0 +1,1 @@
+- Sliders in both columns are now aligned side by side.

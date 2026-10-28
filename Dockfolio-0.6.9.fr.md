@@ -1,0 +1,1 @@
+- Les curseurs des deux colonnes sont alignés côte à côte.

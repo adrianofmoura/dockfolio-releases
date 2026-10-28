@@ -1,0 +1,10 @@
+- Novo “Sobre o Dockfolio” com os dados do desenvolvedor.
+- Painel: botão + para adicionar apps da pasta Aplicativos.
+- Nomes dos apps ocultos por padrão.
+- Novos idiomas: francês, alemão, italiano, japonês, coreano, chinês e russo.
+- Seletor de idiomas compacto, com menu suspenso.
+- Ajustes reorganizados e janela que cresce a partir do centro.
+- Histórico de versões.
+- macOS 12: botão da barra lateral e menu sem as opções de abas.
+- Atualizações automáticas ligadas desde a primeira abertura.
+- Código de versão mais curto nos relatórios de erro.

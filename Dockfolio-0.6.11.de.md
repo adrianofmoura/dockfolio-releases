@@ -1,0 +1,2 @@
+- Werkseinstellungen wiederherstellen löscht alles, fragt vorher nach und öffnet die Anleitung erneut.
+- Der Update-Hinweis ist jetzt ein dezentes Symbol, das sich beim Darüberfahren öffnet.

@@ -1,0 +1,1 @@
+- Le bouton de modification apparaît quand le curseur s’approche.

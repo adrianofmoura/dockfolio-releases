@@ -1,0 +1,3 @@
+- Folders now also announce updates when opened.
+- One-line installation from Terminal, without the Gatekeeper warning.
+- Sparkle’s license is now included in the app.

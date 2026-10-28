@@ -1,0 +1,7 @@
+- Pasta fixada no Dock automaticamente ao salvar pela primeira vez, com animação.
+- Guia curto na primeira fixação, com os próximos passos.
+- Painel: botão de editar discreto, que só aparece com o cursor por perto.
+- Histórico mostra as 5 versões mais recentes, com página das anteriores.
+- Menu de idiomas sem o espaço vazio no topo.
+- macOS 12: painel realmente transparente com a opacidade em 0%.
+- macOS 26 ou mais novo: divisão da barra lateral contínua até o topo.

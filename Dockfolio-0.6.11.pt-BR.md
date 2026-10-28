@@ -1,0 +1,2 @@
+- Restaurar padrões de fábrica apaga tudo, pergunta antes e reabre o guia.
+- Aviso de atualização em ícone discreto, que se abre ao passar o cursor.

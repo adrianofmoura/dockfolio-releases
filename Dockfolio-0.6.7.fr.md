@@ -1,0 +1,2 @@
+- Tous les onglets de réglages ont la même hauteur.
+- Chaque ouverture d’un dossier vérifie désormais les mises à jour.

@@ -1,0 +1,2 @@
+- Todas as abas de ajustes com a mesma altura.
+- Ao abrir uma pasta, a busca de atualização acontece sempre.

@@ -1,0 +1,1 @@
+- macOS 12: Bei niedrigem Fenster überlappen sich die unteren Regler nicht mehr.

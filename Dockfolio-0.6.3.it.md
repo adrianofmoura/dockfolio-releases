@@ -1,0 +1,7 @@
+- La cartella viene fissata nel Dock automaticamente al primo salvataggio, con un’animazione.
+- Breve guida alla prima fissazione, con i passi successivi.
+- Pannello: pulsante Modifica discreto, visibile solo con il cursore vicino.
+- La cronologia mostra le 5 versioni più recenti, con una pagina per le precedenti.
+- Menu delle lingue senza lo spazio vuoto in alto.
+- macOS 12: il pannello è ora davvero trasparente con l’opacità allo 0%.
+- macOS 26 o successivo: il divisore della barra laterale arriva ora fino in alto.

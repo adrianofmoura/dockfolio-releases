@@ -1,0 +1,2 @@
+- Restore factory settings erases everything, asks first and reopens the guide.
+- Update notice is now a discreet icon that expands on hover.

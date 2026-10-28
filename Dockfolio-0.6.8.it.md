@@ -1,0 +1,1 @@
+- Il pulsante Modifica compare quando il cursore si avvicina.

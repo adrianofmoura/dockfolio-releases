@@ -1,0 +1,1 @@
+- Bouton de modification au milieu du bord supérieur du panneau, hors du verre.

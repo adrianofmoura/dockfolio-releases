@@ -1,7 +1,7 @@
-- Ao salvar uma pasta pela primeira vez, ela é fixada no Dock automaticamente, com uma animação mostrando onde ficou.
-- Guia curto na primeira vez que uma pasta entra no Dock, com os próximos passos (e um X para pular).
-- Painel: o botão de editar voltou ao canto, sem moldura, e só aparece quando o cursor passa por cima.
-- Histórico de versões mostra as 5 mais recentes, com uma página para as anteriores.
-- Menu de idiomas sem o espaço vazio no topo.
-- macOS 12: o painel agora fica realmente transparente quando a opacidade está em 0%.
-- macOS 26 ou mais novo: a divisão da barra lateral não se corta mais no topo.
+- A folder is pinned to the Dock automatically the first time you save it, with an animation.
+- Short guide on the first pin, with next steps.
+- Panel: a discreet edit button that only appears when the cursor is near.
+- History shows the 5 latest versions, with a page for earlier ones.
+- Language menu without the empty space at the top.
+- macOS 12: the panel is now truly transparent at 0% opacity.
+- macOS 26 or later: the sidebar divider is now continuous to the top.

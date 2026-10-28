@@ -1,3 +1,1 @@
-## 0.6.0
-
-- Atualização automática.
+- First published version, with automatic updates (starting point of this history).

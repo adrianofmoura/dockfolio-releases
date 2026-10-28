@@ -1,0 +1,1 @@
+- macOS 12: con la finestra bassa, i controlli in basso non si sovrappongono più.

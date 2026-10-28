@@ -1,0 +1,1 @@
+- La scheda App ha la stessa altezza delle altre.

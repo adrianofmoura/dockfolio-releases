@@ -1,0 +1,1 @@
+- macOS 12: with a short window, the controls at the bottom no longer overlap.

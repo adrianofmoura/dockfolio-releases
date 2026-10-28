@@ -1,0 +1,4 @@
+- Das Panel folgt seinem Dock-Symbol in Echtzeit, wenn die Vergrößerung aktiv ist (optionale Bedienungshilfen-Berechtigung, in der Willkommensanleitung erfragt).
+- Lizenzvertrag (EULA) auf Portugiesisch, Englisch und Spanisch unter Dockfolio > Lizenz und Hinweise.
+- Versionshinweise und Installer sind in alle 10 Sprachen übersetzt.
+- Die Anleitung im DMG gibt es in deiner Sprache, mit einem Installer pro Sprache.

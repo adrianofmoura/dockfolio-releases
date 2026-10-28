@@ -1,0 +1,1 @@
+- El botón de editar aparece cuando el cursor se acerca.

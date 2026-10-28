@@ -1,1 +1,1 @@
-- Painel: o botão de editar agora fica no meio da borda de cima, fora do vidro, e nunca mais encosta nos ícones, qualquer que seja o espaçamento ou o tamanho. Só aparece quando o cursor chega nessa região.
+- Edit button moved to the middle of the panel’s top edge, outside the glass.

@@ -1,0 +1,1 @@
+- macOS 12 : avec une fenêtre basse, les commandes du bas ne se chevauchent plus.
