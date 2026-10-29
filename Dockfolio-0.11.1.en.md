@@ -1,0 +1,2 @@
+- The sounds were removed (the “Sounds” option in Settings is gone too).
+- Removing an app by dragging: the app turns into the trash can as soon as it crosses the Folder’s edge, and the trash can appears on its own, as a dark outline over the faded, semi-transparent icon, with no fill behind it. The icon can go a bit farther from the Folder (the boundary was extended), keeping the same smallest size as before.

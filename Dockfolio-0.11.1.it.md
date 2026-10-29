@@ -1,0 +1,2 @@
+- I suoni sono stati rimossi (anche l’opzione “Suoni” nelle Impostazioni).
+- Rimuovere un’app trascinandola: l’app diventa il cestino non appena supera il bordo della Cartella, e il cestino appare da solo, come un tratto scuro sull’icona sbiadita e semitrasparente, senza riempimento dietro. L’icona può andare un po’ più lontano dalla Cartella (il confine è stato esteso), con la stessa dimensione minima di prima.

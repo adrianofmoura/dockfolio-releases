@@ -1,0 +1,2 @@
+- Os sons foram removidos (a opção “Sons” dos Ajustes também saiu).
+- Remover app arrastando: o app vira a lixeira assim que passa da borda da Pasta, e a lixeira aparece sozinha, como um traço escuro sobre o ícone esmaecido e meio transparente, sem preenchimento por trás. O ícone pode ir um pouco mais longe da Pasta (a fronteira foi ampliada), mantendo o menor tamanho de antes.

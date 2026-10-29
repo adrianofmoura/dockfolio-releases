@@ -1,0 +1,2 @@
+- Die Töne wurden entfernt (auch die Option „Töne“ in den Einstellungen).
+- App durch Ziehen entfernen: Die App wird zum Papierkorb, sobald sie den Rand des Ordners überschreitet, und der Papierkorb erscheint allein, als dunkle Kontur über dem verblassten, halbtransparenten Symbol, ohne Füllung dahinter. Das Symbol darf etwas weiter vom Ordner weg (die Grenze wurde erweitert); die kleinste Größe bleibt wie zuvor.

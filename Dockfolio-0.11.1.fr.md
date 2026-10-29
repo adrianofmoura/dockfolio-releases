@@ -1,0 +1,2 @@
+- Les sons ont été retirés (l’option « Sons » des Réglages aussi).
+- Retirer une app en la faisant glisser : l’app devient la corbeille dès qu’elle franchit le bord du Dossier, et la corbeille apparaît seule, comme un trait sombre sur l’icône estompée et semi-transparente, sans remplissage derrière. L’icône peut aller un peu plus loin du Dossier (la frontière a été étendue), avec la même taille minimale qu’avant.

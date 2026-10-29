@@ -1,0 +1,2 @@
+- Se quitaron los sonidos (la opción «Sonidos» de Ajustes también).
+- Quitar una app arrastrando: la app se convierte en la papelera en cuanto cruza el borde de la Carpeta, y la papelera aparece sola, como un trazo oscuro sobre el icono atenuado y semitransparente, sin relleno detrás. El icono puede ir un poco más lejos de la Carpeta (se amplió la frontera), con el mismo tamaño mínimo de antes.
