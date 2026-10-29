@@ -1,0 +1,2 @@
+- Langue : le choix de la langue n’apparaît plus que sur la première page de la visite de bienvenue (il disparaît des autres), et changer de langue relance l’animation dans la nouvelle langue.
+- Mode sombre : les icônes des Dossiers dans le Dock ont maintenant une version sombre (verre fumé). Avec l’apparence « Automatique », Dockfolio, qui reste en arrière-plan dans la barre des menus, remarque le changement de thème du système et redessine les icônes ; le Dock affiche donc toujours la bonne version. Dans Système, vous pouvez toujours imposer le clair ou le sombre.

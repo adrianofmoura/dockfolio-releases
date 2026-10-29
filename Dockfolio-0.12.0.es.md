@@ -1,0 +1,2 @@
+- Idioma: la elección de idioma ahora aparece solo en la primera página del tour de bienvenida (en las demás ya no está), y cambiar el idioma allí reinicia la animación en el idioma nuevo.
+- Modo oscuro: los iconos de las Carpetas en el Dock ahora tienen una versión oscura (vidrio ahumado). Con el aspecto «Automática», Dockfolio, que permanece en segundo plano en la barra de menús, detecta cuándo cambia el tema del sistema y redibuja los iconos, así que el Dock muestra siempre la versión correcta. En Sistema aún puedes fijar claro u oscuro.

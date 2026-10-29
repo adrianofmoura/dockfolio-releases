@@ -1,0 +1,2 @@
+- Idioma: a escolha de idioma agora aparece só na primeira página do tour de boas-vindas (nas outras ela sai), e trocar o idioma ali recomeça a animação já no idioma novo.
+- Modo escuro: os ícones das Pastas no Dock agora têm uma versão escura (vidro esfumaçado). Com a aparência “Automática”, o Dockfolio, que fica em segundo plano na barra de menus, percebe quando o tema do sistema muda e refaz os ícones, então o Dock mostra sempre a versão certa. Em Sistema, você ainda pode fixar claro ou escuro.

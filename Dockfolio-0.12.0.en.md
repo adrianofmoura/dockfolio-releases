@@ -1,0 +1,2 @@
+- Language: the language choice now appears only on the first page of the welcome tour (it’s gone from the others), and switching the language there restarts the animation in the new language.
+- Dark mode: Folder icons in the Dock now have a dark version (smoked glass). With the “Automatic” appearance, Dockfolio, which stays in the background in the menu bar, notices when the system theme changes and redraws the icons, so the Dock always shows the right version. In System you can still pin light or dark.

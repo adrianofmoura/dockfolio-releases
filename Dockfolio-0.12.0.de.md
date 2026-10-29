@@ -1,0 +1,2 @@
+- Sprache: Die Sprachauswahl erscheint jetzt nur noch auf der ersten Seite der Willkommenstour (auf den anderen entfällt sie), und ein Sprachwechsel dort startet die Animation in der neuen Sprache neu.
+- Dunkler Modus: Die Ordnersymbole im Dock haben jetzt eine dunkle Version (Rauchglas). Mit dem Erscheinungsbild „Automatisch“ bemerkt Dockfolio, das im Hintergrund in der Menüleiste bleibt, den Wechsel des Systemthemas und zeichnet die Symbole neu, sodass das Dock immer die richtige Version zeigt. Unter System kannst du weiterhin hell oder dunkel festlegen.

@@ -1,0 +1,2 @@
+- Lingua: la scelta della lingua ora compare solo nella prima pagina del tour di benvenuto (nelle altre non c’è più), e cambiare lingua lì riavvia l’animazione nella nuova lingua.
+- Modo scuro: le icone delle Cartelle nel Dock ora hanno una versione scura (vetro fumé). Con l’aspetto “Automatico”, Dockfolio, che resta in background nella barra dei menu, si accorge quando cambia il tema del sistema e ridisegna le icone, così il Dock mostra sempre la versione giusta. In Sistema puoi comunque fissare chiaro o scuro.
