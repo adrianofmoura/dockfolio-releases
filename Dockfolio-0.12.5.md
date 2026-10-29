@@ -1,0 +1,1 @@
+- Folder icons no longer come out opposite to the system theme: Dockfolio reads the theme straight from macOS, re-checks right after each change, and again every half minute.

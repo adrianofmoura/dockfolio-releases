@@ -1,0 +1,1 @@
+- Die Ordner-Symbole erscheinen nicht mehr verkehrt zum Systemdesign: Dockfolio liest das Design direkt aus macOS, prüft es nach jedem Wechsel erneut und danach alle 30 Sekunden.

@@ -1,0 +1,1 @@
+- Le icone delle Cartelle non escono più al contrario rispetto al tema del sistema: Dockfolio legge il tema direttamente da macOS, lo ricontrolla subito dopo ogni cambio e poi ogni mezzo minuto.

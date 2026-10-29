@@ -1,0 +1,1 @@
+- Los iconos de las Carpetas ya no salen al revés del tema del sistema: Dockfolio lee el tema directamente de macOS, lo vuelve a comprobar justo después de cada cambio y también cada medio minuto.

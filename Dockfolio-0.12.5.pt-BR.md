@@ -1,0 +1,1 @@
+- Os ícones das Pastas não saem mais ao contrário do tema do sistema: o Dockfolio lê o tema direto do macOS, confere de novo logo após cada troca e também a cada meio minuto.

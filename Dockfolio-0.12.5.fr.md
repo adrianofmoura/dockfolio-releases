@@ -1,0 +1,1 @@
+- Les icônes des Dossiers ne sont plus à l'envers du thème du système : Dockfolio lit le thème directement dans macOS, le revérifie juste après chaque changement, puis toutes les trente secondes.
