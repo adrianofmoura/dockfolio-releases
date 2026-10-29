@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.11.2",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Remover app arrastando, novo visual: ao passar da borda da Pasta o ícone fica jateado (desfocado e levemente escurecido, sem mostrar o desenho) e a lixeira aparece clara, centrada e na metade do tamanho do ícone, com a legenda “Remover” embaixo.",
+        "en": "- Removing an app by dragging, new look: past the Folder’s edge the icon turns frosted (blurred and slightly darkened, hiding its artwork) and the trash can appears light, centered and at half the icon’s size, with the caption “Remove” below.",
+        "es": "- Quitar una app arrastrando, nuevo aspecto: al pasar el borde de la Carpeta el icono se vuelve esmerilado (desenfocado y algo oscurecido, sin mostrar el dibujo) y la papelera aparece clara, centrada y a la mitad del tamaño del icono, con la leyenda «Quitar» debajo.",
+        "fr": "- Retirer une app en la faisant glisser, nouveau visuel : au-delà du bord du Dossier, l’icône devient dépolie (floue et légèrement assombrie, sans montrer son dessin) et la corbeille apparaît claire, centrée et à la moitié de la taille de l’icône, avec la légende « Retirer » dessous.",
+        "de": "- App durch Ziehen entfernen, neues Aussehen: Hinter dem Rand des Ordners wird das Symbol mattiert (unscharf und leicht abgedunkelt, ohne sein Motiv zu zeigen), und der Papierkorb erscheint hell, zentriert und in halber Symbolgröße, mit der Beschriftung „Entfernen“ darunter.",
+        "it": "- Rimuovere un’app trascinandola, nuovo aspetto: oltre il bordo della Cartella l’icona diventa satinata (sfocata e leggermente scurita, senza mostrare il disegno) e il cestino appare chiaro, centrato e a metà della dimensione dell’icona, con la didascalia “Rimuovi” sotto.",
+        "ja": "- ドラッグでAppを削除する操作の新しい見た目：フォルダの縁を越えると、アイコンはすりガラス状（ぼかして少し暗くし、絵柄は見えない）になり、明るいゴミ箱がアイコンの半分の大きさで中央に表示され、下に「削除」の文字が付きます。",
+        "ko": "- 끌어서 앱 제거하기의 새로운 모습: 폴더의 가장자리를 넘으면 아이콘이 젖빛 유리처럼(흐리고 약간 어둡게, 그림이 보이지 않게) 바뀌고, 밝은 휴지통이 아이콘 크기의 절반으로 가운데에 나타나며, 아래에 ‘제거’ 문구가 표시됩니다.",
+        "zh-Hans": "- 拖移移除 App 的新外观：越过文件夹边缘后，图标变为磨砂效果（模糊并略微变暗，看不到原有图案），浅色废纸篓以图标一半的大小居中显示，下方带“移除”字样。",
+        "ru": "- Удаление приложения перетаскиванием, новый вид: за краем Папки значок становится матовым (размытым и слегка затемнённым, без видимого рисунка), а светлая корзина появляется по центру размером в половину значка, с подписью «Убрать» ниже."
+      }
+    },
+    {
       "version": "0.11.1",
       "date": "2026-10-29",
       "notes": {

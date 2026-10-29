@@ -1,0 +1,1 @@
+- Removing an app by dragging, new look: past the Folder’s edge the icon turns frosted (blurred and slightly darkened, hiding its artwork) and the trash can appears light, centered and at half the icon’s size, with the caption “Remove” below.

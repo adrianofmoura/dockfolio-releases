@@ -1,0 +1,1 @@
+- Retirer une app en la faisant glisser, nouveau visuel : au-delà du bord du Dossier, l’icône devient dépolie (floue et légèrement assombrie, sans montrer son dessin) et la corbeille apparaît claire, centrée et à la moitié de la taille de l’icône, avec la légende « Retirer » dessous.

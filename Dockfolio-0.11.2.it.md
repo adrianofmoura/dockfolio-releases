@@ -1,0 +1,1 @@
+- Rimuovere un’app trascinandola, nuovo aspetto: oltre il bordo della Cartella l’icona diventa satinata (sfocata e leggermente scurita, senza mostrare il disegno) e il cestino appare chiaro, centrato e a metà della dimensione dell’icona, con la didascalia “Rimuovi” sotto.

@@ -1,0 +1,1 @@
+- Remover app arrastando, novo visual: ao passar da borda da Pasta o ícone fica jateado (desfocado e levemente escurecido, sem mostrar o desenho) e a lixeira aparece clara, centrada e na metade do tamanho do ícone, com a legenda “Remover” embaixo.

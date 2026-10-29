@@ -1,0 +1,1 @@
+- Quitar una app arrastrando, nuevo aspecto: al pasar el borde de la Carpeta el icono se vuelve esmerilado (desenfocado y algo oscurecido, sin mostrar el dibujo) y la papelera aparece clara, centrada y a la mitad del tamaño del icono, con la leyenda «Quitar» debajo.

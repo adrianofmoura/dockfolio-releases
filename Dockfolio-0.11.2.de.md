@@ -1,0 +1,1 @@
+- App durch Ziehen entfernen, neues Aussehen: Hinter dem Rand des Ordners wird das Symbol mattiert (unscharf und leicht abgedunkelt, ohne sein Motiv zu zeigen), und der Papierkorb erscheint hell, zentriert und in halber Symbolgröße, mit der Beschriftung „Entfernen“ darunter.
