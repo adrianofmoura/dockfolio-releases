@@ -1,0 +1,1 @@
+- Nouvelle icône de Dockfolio, dans le style actuel de macOS : un Dossier de verre avec les apps mises en valeur, sur un fond qui va du clair (en haut à gauche) au sombre (en bas à droite), comme un verre qui capte la lumière, dans l’esprit de l’app Apps avec Liquid Glass.

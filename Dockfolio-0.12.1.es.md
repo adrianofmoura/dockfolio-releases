@@ -1,0 +1,1 @@
+- Nuevo icono de Dockfolio, con el aspecto actual de macOS: una Carpeta de vidrio con las apps en primer plano, sobre un fondo que va de claro (arriba a la izquierda) a oscuro (abajo a la derecha), como un vidrio que atrapa la luz, en la línea de la app Apps con Liquid Glass.

@@ -1,0 +1,1 @@
+- Neues Dockfolio-Symbol im aktuellen macOS-Look: ein gläserner Ordner mit den Apps im Mittelpunkt, vor einem Hintergrund, der von hell (oben links) zu dunkel (unten rechts) verläuft, wie Glas, das das Licht einfängt – ganz im Sinne der App „Apps“ mit Liquid Glass.

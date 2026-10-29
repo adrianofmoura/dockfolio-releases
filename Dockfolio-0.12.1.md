@@ -1,0 +1,1 @@
+- New Dockfolio icon, in the current macOS look: a glass Folder with the apps in the spotlight, over a background that runs from light (top left) to dark (bottom right), like glass catching the light, in the spirit of the Apps app with Liquid Glass.

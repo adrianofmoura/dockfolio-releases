@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.1",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Novo ícone do Dockfolio, no visual atual do macOS: uma Pasta de vidro com os apps em destaque, sobre um fundo que vai do claro (em cima, à esquerda) ao escuro (embaixo, à direita), como um vidro que pega a luz, na linha do app Apps com Liquid Glass.",
+        "en": "- New Dockfolio icon, in the current macOS look: a glass Folder with the apps in the spotlight, over a background that runs from light (top left) to dark (bottom right), like glass catching the light, in the spirit of the Apps app with Liquid Glass.",
+        "es": "- Nuevo icono de Dockfolio, con el aspecto actual de macOS: una Carpeta de vidrio con las apps en primer plano, sobre un fondo que va de claro (arriba a la izquierda) a oscuro (abajo a la derecha), como un vidrio que atrapa la luz, en la línea de la app Apps con Liquid Glass.",
+        "fr": "- Nouvelle icône de Dockfolio, dans le style actuel de macOS : un Dossier de verre avec les apps mises en valeur, sur un fond qui va du clair (en haut à gauche) au sombre (en bas à droite), comme un verre qui capte la lumière, dans l’esprit de l’app Apps avec Liquid Glass.",
+        "de": "- Neues Dockfolio-Symbol im aktuellen macOS-Look: ein gläserner Ordner mit den Apps im Mittelpunkt, vor einem Hintergrund, der von hell (oben links) zu dunkel (unten rechts) verläuft, wie Glas, das das Licht einfängt – ganz im Sinne der App „Apps“ mit Liquid Glass.",
+        "it": "- Nuova icona di Dockfolio, nell’aspetto attuale di macOS: una Cartella di vetro con le app in primo piano, su uno sfondo che va dal chiaro (in alto a sinistra) allo scuro (in basso a destra), come un vetro che cattura la luce, nello spirito dell’app Apps con Liquid Glass.",
+        "ja": "- Dockfolioの新しいアイコン：現在のmacOSらしい見た目で、アプリを前面に出したガラスのフォルダを、明るい（左上）から暗い（右下）へ変わる背景の上に置きました。光を受けるガラスのようで、Liquid Glassを使った「App」アプリの雰囲気に寄せています。",
+        "ko": "- Dockfolio의 새 아이콘: 현재 macOS의 모습에 맞춰, 앱이 돋보이는 유리 폴더를 밝은 곳(왼쪽 위)에서 어두운 곳(오른쪽 아래)으로 이어지는 배경 위에 놓았습니다. 빛을 받는 유리처럼 보이며, Liquid Glass를 쓴 앱(Apps) 앱의 분위기를 따랐습니다.",
+        "zh-Hans": "- Dockfolio 的新图标，采用当前 macOS 的风格：一个突出显示各 App 的玻璃文件夹，置于从浅色（左上）渐变到深色（右下）的背景上，就像捕捉光线的玻璃，风格贴近使用 Liquid Glass 的“App”应用。",
+        "ru": "- Новый значок Dockfolio в современном стиле macOS: стеклянная Папка с выделенными приложениями на фоне, переходящем от светлого (вверху слева) к тёмному (внизу справа), как стекло, ловящее свет, — в духе приложения «Приложения» с Liquid Glass."
+      }
+    },
+    {
       "version": "0.12.0",
       "date": "2026-10-29",
       "notes": {

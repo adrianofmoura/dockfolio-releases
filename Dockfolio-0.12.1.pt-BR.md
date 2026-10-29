@@ -1,0 +1,1 @@
+- Novo ícone do Dockfolio, no visual atual do macOS: uma Pasta de vidro com os apps em destaque, sobre um fundo que vai do claro (em cima, à esquerda) ao escuro (embaixo, à direita), como um vidro que pega a luz, na linha do app Apps com Liquid Glass.
