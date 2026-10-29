@@ -1,0 +1,1 @@
+- Mac con macOS 12: il pulsante per una nuova Cartella (+) ora sta accanto al pulsante della barra laterale e non più alla fine della barra degli strumenti accanto a “Salva e applica”, che ora appare in blu, come sui macOS più recenti.

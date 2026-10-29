@@ -1,0 +1,1 @@
+- Macs com macOS 12: o botão de nova Pasta (+) fica ao lado do botão da barra lateral, e não mais no fim da barra de ferramentas junto de “Salvar e aplicar”, que agora aparece em azul, como no macOS novo.

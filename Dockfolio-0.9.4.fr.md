@@ -1,0 +1,1 @@
+- Macs sous macOS 12 : le bouton de nouveau Dossier (+) se place à côté du bouton de la barre latérale, et non plus à la fin de la barre d’outils près de « Enregistrer et appliquer », qui s’affiche maintenant en bleu, comme sur macOS récent.

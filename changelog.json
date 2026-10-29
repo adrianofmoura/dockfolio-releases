@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.4",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Macs com macOS 12: o botão de nova Pasta (+) fica ao lado do botão da barra lateral, e não mais no fim da barra de ferramentas junto de “Salvar e aplicar”, que agora aparece em azul, como no macOS novo.",
+        "en": "- Macs on macOS 12: the new Folder button (+) now sits next to the sidebar button instead of at the end of the toolbar next to “Save and Apply”, which now shows in blue, as on newer macOS.",
+        "es": "- Macs con macOS 12: el botón de nueva Carpeta (+) queda junto al botón de la barra lateral y no al final de la barra de herramientas junto a «Guardar y aplicar», que ahora aparece en azul, como en macOS más reciente.",
+        "fr": "- Macs sous macOS 12 : le bouton de nouveau Dossier (+) se place à côté du bouton de la barre latérale, et non plus à la fin de la barre d’outils près de « Enregistrer et appliquer », qui s’affiche maintenant en bleu, comme sur macOS récent.",
+        "de": "- Macs mit macOS 12: Die Schaltfläche für einen neuen Ordner (+) sitzt jetzt neben der Seitenleisten-Schaltfläche statt am Ende der Symbolleiste neben „Sichern und anwenden“, das nun blau erscheint, wie unter neuerem macOS.",
+        "it": "- Mac con macOS 12: il pulsante per una nuova Cartella (+) ora sta accanto al pulsante della barra laterale e non più alla fine della barra degli strumenti accanto a “Salva e applica”, che ora appare in blu, come sui macOS più recenti.",
+        "ja": "- macOS 12のMac：新しいフォルダのボタン（＋）が、ツールバーの末尾の「保存して適用」の隣ではなく、サイドバーのボタンの隣に表示されます。「保存して適用」は新しいmacOSと同じく青で表示されます。",
+        "ko": "- macOS 12 Mac: 새 폴더 버튼(+)이 도구 막대 끝의 ‘저장하고 적용’ 옆이 아니라 사이드바 버튼 옆에 표시됩니다. ‘저장하고 적용’은 최신 macOS처럼 파란색으로 표시됩니다.",
+        "zh-Hans": "- macOS 12 的 Mac：新建文件夹按钮（+）现在位于边栏按钮旁边，而不是工具栏末尾的“存储并应用”旁边；“存储并应用”也像较新的 macOS 一样显示为蓝色。",
+        "ru": "- Mac с macOS 12: кнопка новой Папки (+) теперь рядом с кнопкой боковой панели, а не в конце панели инструментов возле «Сохранить и применить», которая теперь синяя, как в новых macOS."
+      }
+    },
+    {
       "version": "0.9.3",
       "date": "2026-10-29",
       "notes": {

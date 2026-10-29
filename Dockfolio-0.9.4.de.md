@@ -1,0 +1,1 @@
+- Macs mit macOS 12: Die Schaltfläche für einen neuen Ordner (+) sitzt jetzt neben der Seitenleisten-Schaltfläche statt am Ende der Symbolleiste neben „Sichern und anwenden“, das nun blau erscheint, wie unter neuerem macOS.

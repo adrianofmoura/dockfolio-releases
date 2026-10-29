@@ -1,0 +1,1 @@
+- Macs con macOS 12: el botón de nueva Carpeta (+) queda junto al botón de la barra lateral y no al final de la barra de herramientas junto a «Guardar y aplicar», que ahora aparece en azul, como en macOS más reciente.

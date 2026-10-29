@@ -1,0 +1,1 @@
+- Macs on macOS 12: the new Folder button (+) now sits next to the sidebar button instead of at the end of the toolbar next to “Save and Apply”, which now shows in blue, as on newer macOS.
