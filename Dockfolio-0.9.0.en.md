@@ -1,0 +1,6 @@
+- Full virtual Dock: every app in the Dock can be reordered by dragging, with the same animation as the apps inside a Folder. Clicking (or dragging) a Folder selects it in the left list; moving a regular app dims the Folder editing until you pick a Folder again. Changes go to the real Dock when you apply (“Apply to Dock” and “Discard” buttons, or “Save and Apply”).
+- The virtual Dock’s corner radius now follows the end icon’s (Finder), and the glass is more frosted and milky on macOS versions before Liquid Glass, in the virtual Dock and in the tour animation.
+- Wallpaper: Dockfolio keeps a reduced copy and asks for access to Documents, Desktop or Downloads only once, instead of on every update. There’s a button to refresh it in Settings > System.
+- Apps added with the virtual Folder’s + show up in the preview right away, before saving.
+- In the virtual Dock, next to the Trash, a dashed slot with + creates a new Folder (it opens the name window), one more way to create Folders.
+- “Save and Apply” now covers the whole app: it sits in the window bar, shows how many changes are waiting and applies the changes of every Folder (the orange dot still marks each Folder) and the new Dock order at once. There’s also “Discard All”.

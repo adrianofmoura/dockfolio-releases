@@ -1,0 +1,6 @@
+- Dock virtual completo: todos os apps do Dock podem ser reordenados arrastando, com a mesma animação dos apps dentro da Pasta. Clicar (ou arrastar) uma Pasta a escolhe na lista da esquerda; mexer num app comum esmaece a edição das Pastas até você escolher uma Pasta de novo. As mudanças vão para o Dock real quando você aplica (botões “Aplicar no Dock” e “Descartar”, ou “Salvar e aplicar”).
+- O raio das bordas do Dock virtual acompanha o do ícone da ponta (o Finder), e o vidro ficou mais jateado e leitoso no macOS anterior ao Liquid Glass, no Dock virtual e na animação do tour.
+- Papel de parede: o Dockfolio guarda uma cópia reduzida e só pede acesso a Documentos, Mesa ou Downloads uma vez, em vez de pedir a cada atualização. Há um botão para atualizá-la em Ajustes > Sistema.
+- Os apps adicionados pelo + da Pasta virtual aparecem na prévia na hora, antes de salvar.
+- No Dock virtual, ao lado da Lixeira, um espaço tracejado com + cria uma Pasta nova (abre a janela de nome), mais um caminho para criar Pastas.
+- “Salvar e aplicar” agora é do app todo: fica na barra da janela, mostra quantas alterações esperam e aplica de uma vez as mudanças de todas as Pastas (a bolinha laranja continua marcando cada Pasta) e a nova ordem do Dock. Há também “Descartar tudo”.
