@@ -1,0 +1,5 @@
+- The Folder in the preview now works like the real one: + adds apps, dragging reorders, and right-clicking an app offers “Remove from Folder”, all before saving.
+- “Panel” became “Folder” throughout the app (the “Folders” tab, the “Folder” section and every text), in all 10 languages.
+- Grid tab, Folder section: instead of “Columns” there is “Rows” (Auto, 1, 2, 3 or 4). With 1 row, all apps open in a single horizontal row; the columns follow from that, with no wasted space. New: “Alignment” (left or center) for the last row when it isn’t full.
+- The Folder’s width never exceeds the screen: if it doesn’t fit, the row wraps and the Folder gets more rows.
+- Right-click a Folder in the left list: “Delete” (with confirmation, if turned on in Settings).

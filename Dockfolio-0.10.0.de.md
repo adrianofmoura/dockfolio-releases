@@ -1,0 +1,5 @@
+- Der Ordner in der Vorschau funktioniert jetzt wie der echte: + fügt Apps hinzu, Ziehen ordnet um, und ein Rechtsklick auf eine App bietet „Aus dem Ordner entfernen“ – alles noch vor dem Sichern.
+- „Panel“ heißt jetzt überall in der App „Ordner“ (Tab „Ordner“, Abschnitt „Ordner“ und alle Texte), in allen 10 Sprachen.
+- Tab Raster, Abschnitt Ordner: Statt „Spalten“ gibt es „Reihen“ (Auto, 1, 2, 3 oder 4). Bei 1 Reihe öffnen sich alle Apps in einer einzigen waagerechten Reihe; die Spalten ergeben sich daraus, ohne Leerraum. Neu: „Ausrichtung“ (links oder Mitte) für die letzte Reihe, wenn sie nicht voll ist.
+- Die Breite des Ordners überschreitet nie den Bildschirm: Passt er nicht, wird die Reihe umgebrochen und der Ordner bekommt mehr Reihen.
+- Rechtsklick auf einen Ordner in der Liste links: „Löschen“ (mit Rückfrage, falls in den Einstellungen aktiviert).

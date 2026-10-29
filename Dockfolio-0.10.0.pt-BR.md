@@ -1,0 +1,5 @@
+- A Pasta da prévia agora funciona como a de verdade: o + adiciona apps, arrastar reordena e o botão direito em um app oferece “Remover da pasta”, tudo antes de salvar.
+- “Painel” virou “Pasta” em todo o app (aba “Pastas”, seção “Pasta” e todos os textos), nos 10 idiomas.
+- Aba Grade, seção Pasta: no lugar de “Colunas” há “Fileiras” (Auto, 1, 2, 3 ou 4). Com 1 fileira, todos os apps abrem numa única fileira horizontal; as colunas saem da conta, sem espaço sobrando. Novo: “Alinhamento” (esquerda ou centro) para a última fileira quando ela não está completa.
+- A largura da Pasta nunca passa da tela: se não couber, a linha quebra e a Pasta ganha mais fileiras.
+- Botão direito numa Pasta da lista da esquerda: “Excluir” (com confirmação, se estiver ligada nos Ajustes).

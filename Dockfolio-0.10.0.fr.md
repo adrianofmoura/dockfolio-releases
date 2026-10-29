@@ -1,0 +1,5 @@
+- Le Dossier de l’aperçu fonctionne maintenant comme le vrai : le + ajoute des apps, le glissement réorganise et le clic droit sur une app propose « Retirer du dossier », le tout avant d’enregistrer.
+- « Panneau » devient « Dossier » dans toute l’app (l’onglet « Dossiers », la section « Dossier » et tous les textes), dans les 10 langues.
+- Onglet Grille, section Dossier : à la place de « Colonnes » il y a « Rangées » (Auto, 1, 2, 3 ou 4). Avec 1 rangée, toutes les apps s’ouvrent sur une seule rangée horizontale ; les colonnes en découlent, sans espace perdu. Nouveau : « Alignement » (gauche ou centre) pour la dernière rangée quand elle n’est pas complète.
+- La largeur du Dossier ne dépasse jamais l’écran : s’il ne tient pas, la rangée passe à la ligne et le Dossier gagne des rangées.
+- Clic droit sur un Dossier de la liste de gauche : « Supprimer » (avec confirmation, si elle est activée dans les Réglages).

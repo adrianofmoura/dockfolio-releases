@@ -1,0 +1,5 @@
+- La Carpeta de la vista previa ahora funciona como la de verdad: el + añade apps, arrastrar reordena y el clic derecho en una app ofrece «Quitar de la carpeta», todo antes de guardar.
+- «Panel» pasó a ser «Carpeta» en toda la app (la pestaña «Carpetas», la sección «Carpeta» y todos los textos), en los 10 idiomas.
+- Pestaña Cuadrícula, sección Carpeta: en lugar de «Columnas» hay «Filas» (Auto, 1, 2, 3 o 4). Con 1 fila, todas las apps se abren en una sola fila horizontal; las columnas salen de la cuenta, sin espacio sobrante. Nuevo: «Alineación» (izquierda o centro) para la última fila cuando no está completa.
+- El ancho de la Carpeta nunca pasa del de la pantalla: si no cabe, la fila se divide y la Carpeta gana más filas.
+- Clic derecho en una Carpeta de la lista de la izquierda: «Eliminar» (con confirmación, si está activada en Ajustes).

@@ -1,0 +1,5 @@
+- La Cartella dell’anteprima ora funziona come quella vera: il + aggiunge app, trascinare riordina e il clic destro su un’app offre “Rimuovi dalla cartella”, tutto prima di salvare.
+- “Pannello” è diventato “Cartella” in tutta l’app (la scheda “Cartelle”, la sezione “Cartella” e tutti i testi), nelle 10 lingue.
+- Scheda Griglia, sezione Cartella: al posto di “Colonne” c’è “File” (Auto, 1, 2, 3 o 4). Con 1 fila, tutte le app si aprono in una sola fila orizzontale; le colonne ne derivano, senza spazio sprecato. Novità: “Allineamento” (sinistra o centro) per l’ultima fila quando non è completa.
+- La larghezza della Cartella non supera mai lo schermo: se non ci sta, la fila va a capo e la Cartella ottiene più file.
+- Clic destro su una Cartella nell’elenco a sinistra: “Elimina” (con conferma, se attiva nelle Impostazioni).
