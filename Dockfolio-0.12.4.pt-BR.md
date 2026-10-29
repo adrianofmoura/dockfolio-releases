@@ -1,0 +1,2 @@
+- Ao iniciar o Mac, o Dockfolio abre só na barra de menus, sem a janela principal.
+- Quando o tema do sistema muda (claro/escuro), os ícones das Pastas no Dock acompanham na hora, sem você precisar interagir com elas.

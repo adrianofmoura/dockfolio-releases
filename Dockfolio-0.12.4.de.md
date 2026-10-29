@@ -1,0 +1,2 @@
+- Beim Start des Macs öffnet sich Dockfolio nur in der Menüleiste, ohne das Hauptfenster.
+- Wechselt das Systemdesign (hell/dunkel), folgen die Ordner-Symbole im Dock sofort, ohne dass Sie sie anklicken müssen.

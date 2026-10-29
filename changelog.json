@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.4",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Ao iniciar o Mac, o Dockfolio abre só na barra de menus, sem a janela principal.\n- Quando o tema do sistema muda (claro/escuro), os ícones das Pastas no Dock acompanham na hora, sem você precisar interagir com elas.",
+        "en": "- When your Mac starts, Dockfolio opens in the menu bar only, without the main window.\n- When the system theme changes (light/dark), the Folder icons in the Dock follow right away, with no need to interact with them.",
+        "es": "- Al iniciar el Mac, Dockfolio se abre solo en la barra de menús, sin la ventana principal.\n- Cuando cambia el tema del sistema (claro/oscuro), los iconos de las Carpetas en el Dock lo siguen al instante, sin tener que interactuar con ellos.",
+        "fr": "- Au démarrage du Mac, Dockfolio s'ouvre uniquement dans la barre des menus, sans la fenêtre principale.\n- Quand le thème du système change (clair/sombre), les icônes des Dossiers dans le Dock suivent aussitôt, sans avoir à interagir avec elles.",
+        "de": "- Beim Start des Macs öffnet sich Dockfolio nur in der Menüleiste, ohne das Hauptfenster.\n- Wechselt das Systemdesign (hell/dunkel), folgen die Ordner-Symbole im Dock sofort, ohne dass Sie sie anklicken müssen.",
+        "it": "- All'avvio del Mac, Dockfolio si apre solo nella barra dei menu, senza la finestra principale.\n- Quando cambia il tema del sistema (chiaro/scuro), le icone delle Cartelle nel Dock lo seguono subito, senza doverci interagire.",
+        "ja": "- Macの起動時、Dockfolioはメインウインドウなしでメニューバーにだけ開きます。\n- システムのテーマ（ライト/ダーク）が変わると、Dockのフォルダのアイコンも操作しなくてもすぐに追従します。",
+        "ko": "- Mac를 시작하면 Dockfolio가 메인 창 없이 메뉴 막대에만 열립니다.\n- 시스템 테마(라이트/다크)가 바뀌면 Dock의 폴더 아이콘이 따로 조작하지 않아도 바로 따라 바뀝니다.",
+        "zh-Hans": "- 开机时，Dockfolio 只在菜单栏中打开，不显示主窗口。\n- 系统主题（浅色/深色）切换时，Dock 中的文件夹图标会立即跟随变化，无需任何操作。",
+        "ru": "- При запуске Mac Dockfolio открывается только в строке меню, без главного окна.\n- Когда меняется тема системы (светлая/тёмная), значки Папок в Dock сразу следуют за ней, без каких-либо действий с вашей стороны."
+      }
+    },
+    {
       "version": "0.12.3",
       "date": "2026-10-29",
       "notes": {

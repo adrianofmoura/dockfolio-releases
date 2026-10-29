@@ -1,0 +1,2 @@
+- Au démarrage du Mac, Dockfolio s'ouvre uniquement dans la barre des menus, sans la fenêtre principale.
+- Quand le thème du système change (clair/sombre), les icônes des Dossiers dans le Dock suivent aussitôt, sans avoir à interagir avec elles.

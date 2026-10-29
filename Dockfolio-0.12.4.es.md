@@ -1,0 +1,2 @@
+- Al iniciar el Mac, Dockfolio se abre solo en la barra de menús, sin la ventana principal.
+- Cuando cambia el tema del sistema (claro/oscuro), los iconos de las Carpetas en el Dock lo siguen al instante, sin tener que interactuar con ellos.

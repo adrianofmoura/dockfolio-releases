@@ -1,0 +1,2 @@
+- When your Mac starts, Dockfolio opens in the menu bar only, without the main window.
+- When the system theme changes (light/dark), the Folder icons in the Dock follow right away, with no need to interact with them.

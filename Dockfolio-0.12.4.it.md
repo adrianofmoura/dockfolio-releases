@@ -1,0 +1,2 @@
+- All'avvio del Mac, Dockfolio si apre solo nella barra dei menu, senza la finestra principale.
+- Quando cambia il tema del sistema (chiaro/scuro), le icone delle Cartelle nel Dock lo seguono subito, senza doverci interagire.
