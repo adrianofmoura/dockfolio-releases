@@ -1,0 +1,1 @@
+- Il selettore della lingua del tour torna esattamente com’era (le bandiere e il menu), perché la modifica recente lo rendeva non reattivo su un Mac con macOS 12.

@@ -1,0 +1,1 @@
+- Die Sprachauswahl der Tour ist wieder genau wie zuvor (die Flaggen und das Menü), weil die letzte Änderung sie auf einem Mac mit macOS 12 reaktionslos machte.

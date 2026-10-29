@@ -1,0 +1,1 @@
+- The tour’s language selector is back to exactly how it was (the flags and the menu), because the recent change left it unresponsive on a Mac with macOS 12.

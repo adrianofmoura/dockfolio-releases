@@ -1,0 +1,1 @@
+- O seletor de idioma do tour voltou a ser exatamente como era antes (as bandeiras e o menu), porque a mudança recente o deixou sem resposta no Mac com macOS 12.

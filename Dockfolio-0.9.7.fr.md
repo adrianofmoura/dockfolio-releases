@@ -1,0 +1,1 @@
+- Le sélecteur de langue de la visite revient exactement à ce qu’il était (les drapeaux et le menu), car le changement récent le rendait inactif sur un Mac sous macOS 12.

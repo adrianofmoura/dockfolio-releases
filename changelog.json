@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.7",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- O seletor de idioma do tour voltou a ser exatamente como era antes (as bandeiras e o menu), porque a mudança recente o deixou sem resposta no Mac com macOS 12.",
+        "en": "- The tour’s language selector is back to exactly how it was (the flags and the menu), because the recent change left it unresponsive on a Mac with macOS 12.",
+        "es": "- El selector de idioma del tour vuelve a ser exactamente como era (las banderas y el menú), porque el cambio reciente lo dejó sin respuesta en un Mac con macOS 12.",
+        "fr": "- Le sélecteur de langue de la visite revient exactement à ce qu’il était (les drapeaux et le menu), car le changement récent le rendait inactif sur un Mac sous macOS 12.",
+        "de": "- Die Sprachauswahl der Tour ist wieder genau wie zuvor (die Flaggen und das Menü), weil die letzte Änderung sie auf einem Mac mit macOS 12 reaktionslos machte.",
+        "it": "- Il selettore della lingua del tour torna esattamente com’era (le bandiere e il menu), perché la modifica recente lo rendeva non reattivo su un Mac con macOS 12.",
+        "ja": "- ツアーの言語選択を、以前とまったく同じ状態（旗とメニュー）に戻しました。最近の変更で、macOS 12のMacで反応しなくなったためです。",
+        "ko": "- 투어의 언어 선택을 이전과 똑같이(깃발과 메뉴) 되돌렸습니다. 최근 변경으로 macOS 12 Mac에서 반응하지 않았기 때문입니다.",
+        "zh-Hans": "- 导览的语言选择已恢复为原来的样子（旗帜和菜单），因为最近的改动导致它在 macOS 12 的 Mac 上没有响应。",
+        "ru": "- Выбор языка в туре снова точно такой, каким был (флаги и меню), потому что недавнее изменение сделало его неотзывчивым на Mac с macOS 12."
+      }
+    },
+    {
       "version": "0.9.6",
       "date": "2026-10-29",
       "notes": {
