@@ -1,0 +1,2 @@
+- Novità: suoni discreti, fatti di vetro e marimba, che danno vita all’app. Nel tour, ogni app che cade nella Cartella suona una nota che sale la scala, i clic, le aperture e le pagine hanno i loro tocchi, e il finale ha un piccolo campanello. Nell’uso: un suono quando apri e chiudi una Cartella, riordini, rimuovi e aggiungi app, crei una Cartella e salvi e applichi.
+- I suoni seguono il volume del Mac e suonano solo con Dockfolio in primo piano. Puoi disattivarli in Impostazioni > Sistema > Suoni.

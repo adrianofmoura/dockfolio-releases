@@ -1,0 +1,2 @@
+- Remover app arrastando: a legenda deixou de ser cortada na fronteira da Pasta (a margem da janela ficou maior e o texto agora é só “Remover”), e a lixeira ganhou destaque: ficou maior e o ícone do app fica quase transparente.
+- A lixeira ao remover um app ganhou uma base clara no formato do ícone, que combina com a legenda e a deixa legível sobre qualquer fundo.

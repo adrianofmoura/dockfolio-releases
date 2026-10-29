@@ -1,0 +1,2 @@
+- App durch Ziehen entfernen: Die Beschriftung wird an der Grenze des Ordners nicht mehr abgeschnitten (der Fensterrand ist größer und der Text lautet jetzt nur „Entfernen“), und der Papierkorb tritt stärker hervor: Er ist größer und das App-Symbol wird fast durchsichtig.
+- Der Papierkorb beim Entfernen einer App sitzt jetzt auf einer hellen, symbolförmigen Fläche, die zur Beschriftung passt und auf jedem Hintergrund gut lesbar bleibt.

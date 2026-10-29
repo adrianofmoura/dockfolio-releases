@@ -1,0 +1,2 @@
+- New: subtle sounds, made of glass and marimba, that bring the app to life. In the tour, each app that drops into the Folder plays a note climbing the scale, clicks, openings and pages have their own touches, and the ending has a little chime. In use: a sound when opening and closing a Folder, reordering, removing and adding apps, creating a Folder, and Save and Apply.
+- The sounds follow your Mac’s volume and only play while Dockfolio is in front. You can turn them off in Settings > System > Sounds.

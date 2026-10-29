@@ -1,0 +1,2 @@
+- Removing an app by dragging: the caption is no longer cut off at the Folder’s boundary (the window margin is larger and the text is now just “Remove”), and the trash can stands out more: it’s bigger and the app icon becomes almost transparent.
+- The trash can shown when removing an app now sits on a light, icon-shaped base that matches the caption and keeps it readable on any background.

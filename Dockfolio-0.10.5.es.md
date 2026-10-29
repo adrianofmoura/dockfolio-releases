@@ -1,0 +1,2 @@
+- Quitar una app arrastrando: la leyenda ya no se corta en la frontera de la Carpeta (el margen de la ventana es mayor y el texto es ahora solo «Quitar»), y la papelera destaca más: es más grande y el icono de la app queda casi transparente.
+- La papelera que aparece al quitar una app ahora tiene una base clara con la forma del icono, que combina con la leyenda y la mantiene legible sobre cualquier fondo.

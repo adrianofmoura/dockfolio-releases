@@ -1,0 +1,2 @@
+- Retirer une app en la faisant glisser : la légende n’est plus coupée à la frontière du Dossier (la marge de la fenêtre est plus grande et le texte est maintenant simplement « Retirer »), et la corbeille ressort davantage : elle est plus grande et l’icône de l’app devient presque transparente.
+- La corbeille affichée en retirant une app repose maintenant sur une base claire en forme d’icône, assortie à la légende, qui reste lisible sur n’importe quel fond.

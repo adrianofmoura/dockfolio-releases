@@ -1,0 +1,2 @@
+- Novedad: sonidos discretos, hechos de vidrio y marimba, que dan vida a la app. En el tour, cada app que cae en la Carpeta toca una nota que sube por la escala, los clics, las aperturas y las páginas tienen sus toques, y el final tiene una campanilla. Al usar la app: un sonido al abrir y cerrar una Carpeta, al reordenar, quitar y añadir apps, crear una Carpeta y guardar y aplicar.
+- Los sonidos respetan el volumen del Mac y solo suenan con Dockfolio al frente. Puedes desactivarlos en Ajustes > Sistema > Sonidos.

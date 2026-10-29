@@ -1,0 +1,2 @@
+- Rimuovere un’app trascinandola: la didascalia non viene più tagliata al confine della Cartella (il margine della finestra è più grande e il testo ora è solo “Rimuovi”), e il cestino risalta di più: è più grande e l’icona dell’app diventa quasi trasparente.
+- Il cestino mostrato rimuovendo un’app ora poggia su una base chiara a forma di icona, coordinata con la didascalia e leggibile su qualsiasi sfondo.

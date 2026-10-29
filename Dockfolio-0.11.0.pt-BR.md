@@ -1,0 +1,2 @@
+- Novo: sons discretos, feitos de vidro e marimba, que dão vida ao app. No tour, cada app que cai na Pasta toca uma nota que sobe a escala, os cliques, as aberturas e as páginas têm seus toques, e o final tem um sininho. Ao usar: um som ao abrir e fechar uma Pasta, ao reordenar, remover, adicionar apps, criar uma Pasta e salvar e aplicar.
+- Os sons respeitam o volume do Mac e só tocam com o Dockfolio na frente. Dá para desligá-los em Ajustes > Sistema > Sons.
