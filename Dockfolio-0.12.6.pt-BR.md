@@ -1,0 +1,1 @@
+- Corrigido: os ícones das Pastas no Dock apareciam com o tema ao contrário depois da troca claro/escuro. Agora o Dockfolio faz o Dock esquecer o cache de ícones e mostrar a versão certa.

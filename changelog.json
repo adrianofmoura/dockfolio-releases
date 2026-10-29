@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.6",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Corrigido: os ícones das Pastas no Dock apareciam com o tema ao contrário depois da troca claro/escuro. Agora o Dockfolio faz o Dock esquecer o cache de ícones e mostrar a versão certa.",
+        "en": "- Fixed: Folder icons in the Dock showed the opposite theme after switching between light and dark. Dockfolio now makes the Dock drop its icon cache and show the right version.",
+        "es": "- Corregido: los iconos de las Carpetas en el Dock aparecían con el tema al revés tras cambiar entre claro y oscuro. Ahora Dockfolio hace que el Dock olvide su caché de iconos y muestre la versión correcta.",
+        "fr": "- Corrigé : les icônes des Dossiers dans le Dock s'affichaient avec le thème inverse après le passage clair/sombre. Dockfolio fait désormais oublier au Dock son cache d'icônes et afficher la bonne version.",
+        "de": "- Behoben: Die Ordner-Symbole im Dock erschienen nach dem Wechsel zwischen hell und dunkel mit dem falschen Design. Dockfolio sorgt jetzt dafür, dass das Dock seinen Symbol-Cache verwirft und die richtige Version zeigt.",
+        "it": "- Corretto: le icone delle Cartelle nel Dock apparivano con il tema opposto dopo il passaggio chiaro/scuro. Ora Dockfolio fa dimenticare al Dock la cache delle icone e mostrare la versione giusta.",
+        "ja": "- 修正：ライト/ダークを切り替えた後、Dockのフォルダのアイコンのテーマが逆に表示されることがありました。DockfolioがDockのアイコンキャッシュを破棄させ、正しいものを表示するようにしました。",
+        "ko": "- 수정: 라이트/다크를 전환한 뒤 Dock의 폴더 아이콘이 반대 테마로 보이던 문제를 고쳤습니다. 이제 Dockfolio가 Dock의 아이콘 캐시를 비우게 해 올바른 버전을 보여 줍니다.",
+        "zh-Hans": "- 已修复：切换浅色/深色后，Dock 中的文件夹图标有时显示为相反的主题。现在 Dockfolio 会让 Dock 清除图标缓存并显示正确的版本。",
+        "ru": "- Исправлено: после смены светлой/тёмной темы значки Папок в Dock отображались с противоположной темой. Теперь Dockfolio заставляет Dock сбросить кэш значков и показать правильную версию."
+      }
+    },
+    {
       "version": "0.12.5",
       "date": "2026-10-29",
       "notes": {

@@ -1,0 +1,1 @@
+- Corretto: le icone delle Cartelle nel Dock apparivano con il tema opposto dopo il passaggio chiaro/scuro. Ora Dockfolio fa dimenticare al Dock la cache delle icone e mostrare la versione giusta.

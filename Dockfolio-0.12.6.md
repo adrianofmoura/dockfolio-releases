@@ -1,0 +1,1 @@
+- Fixed: Folder icons in the Dock showed the opposite theme after switching between light and dark. Dockfolio now makes the Dock drop its icon cache and show the right version.

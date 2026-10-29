@@ -1,0 +1,1 @@
+- Corrigé : les icônes des Dossiers dans le Dock s'affichaient avec le thème inverse après le passage clair/sombre. Dockfolio fait désormais oublier au Dock son cache d'icônes et afficher la bonne version.

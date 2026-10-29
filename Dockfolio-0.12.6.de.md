@@ -1,0 +1,1 @@
+- Behoben: Die Ordner-Symbole im Dock erschienen nach dem Wechsel zwischen hell und dunkel mit dem falschen Design. Dockfolio sorgt jetzt dafür, dass das Dock seinen Symbol-Cache verwirft und die richtige Version zeigt.

@@ -1,0 +1,1 @@
+- Corregido: los iconos de las Carpetas en el Dock aparecían con el tema al revés tras cambiar entre claro y oscuro. Ahora Dockfolio hace que el Dock olvide su caché de iconos y muestre la versión correcta.
