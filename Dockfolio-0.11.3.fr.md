@@ -1,0 +1,1 @@
+- Quand vous enregistrez un Dossier pour la première fois, il rejoint maintenant le Dock en silence : l’animation du Dossier qui file vers le Dock et les encadrés d’instructions qui l’accompagnaient ont disparu. Le bouton « Revoir l’astuce du Dock » a aussi été retiré des Réglages.

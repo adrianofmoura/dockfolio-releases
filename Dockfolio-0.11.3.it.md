@@ -1,0 +1,1 @@
+- Salvando una Cartella per la prima volta, ora entra nel Dock in silenzio: sono state tolte l’animazione della Cartella che vola nel Dock e le finestre di istruzioni che comparivano con essa. Dalle Impostazioni è stato rimosso anche il pulsante “Rivedi il suggerimento del Dock”.

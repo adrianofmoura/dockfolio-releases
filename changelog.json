@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.11.3",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Ao salvar uma Pasta pela primeira vez, ela entra no Dock em silêncio: saíram a animação da Pasta voando para o Dock e as caixas de instrução que apareciam junto dela. O botão “Rever a dica do Dock” também saiu dos Ajustes.",
+        "en": "- When you save a Folder for the first time, it now joins the Dock quietly: the animation of the Folder flying to the Dock and the instruction boxes that appeared with it are gone. The “Replay the Dock tip” button was also removed from Settings.",
+        "es": "- Al guardar una Carpeta por primera vez, ahora entra en el Dock en silencio: se quitaron la animación de la Carpeta volando al Dock y los cuadros de instrucciones que aparecían con ella. También se quitó de Ajustes el botón «Ver de nuevo el consejo del Dock».",
+        "fr": "- Quand vous enregistrez un Dossier pour la première fois, il rejoint maintenant le Dock en silence : l’animation du Dossier qui file vers le Dock et les encadrés d’instructions qui l’accompagnaient ont disparu. Le bouton « Revoir l’astuce du Dock » a aussi été retiré des Réglages.",
+        "de": "- Beim ersten Sichern eines Ordners kommt er jetzt still ins Dock: Die Animation des zum Dock fliegenden Ordners und die dazugehörigen Anleitungsfenster sind entfallen. Die Schaltfläche „Dock-Tipp erneut ansehen“ wurde ebenfalls aus den Einstellungen entfernt.",
+        "it": "- Salvando una Cartella per la prima volta, ora entra nel Dock in silenzio: sono state tolte l’animazione della Cartella che vola nel Dock e le finestre di istruzioni che comparivano con essa. Dalle Impostazioni è stato rimosso anche il pulsante “Rivedi il suggerimento del Dock”.",
+        "ja": "- フォルダを初めて保存すると、静かにDockに追加されます。フォルダがDockへ飛んでいくアニメーションと、それに伴う説明のウインドウを廃止しました。設定から「Dockのヒントをもう一度見る」ボタンも削除しました。",
+        "ko": "- 폴더를 처음 저장하면 이제 조용히 Dock에 들어갑니다. 폴더가 Dock으로 날아가는 애니메이션과 함께 나타나던 안내 창을 없앴습니다. 설정에서 ‘Dock 팁 다시 보기’ 버튼도 제거했습니다.",
+        "zh-Hans": "- 首次存储文件夹时，它现在会静默加入程序坞：已移除文件夹飞向程序坞的动画，以及随之出现的说明框。“设置”中的“重新查看 Dock 提示”按钮也已移除。",
+        "ru": "- При первом сохранении Папки она теперь тихо появляется в Dock: убраны анимация полёта Папки в Dock и сопровождавшие её окна с инструкциями. Кнопка «Показать подсказку о Dock снова» тоже удалена из настроек."
+      }
+    },
+    {
       "version": "0.11.2",
       "date": "2026-10-29",
       "notes": {

@@ -1,0 +1,1 @@
+- Ao salvar uma Pasta pela primeira vez, ela entra no Dock em silêncio: saíram a animação da Pasta voando para o Dock e as caixas de instrução que apareciam junto dela. O botão “Rever a dica do Dock” também saiu dos Ajustes.

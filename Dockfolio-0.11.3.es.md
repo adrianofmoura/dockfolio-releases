@@ -1,0 +1,1 @@
+- Al guardar una Carpeta por primera vez, ahora entra en el Dock en silencio: se quitaron la animación de la Carpeta volando al Dock y los cuadros de instrucciones que aparecían con ella. También se quitó de Ajustes el botón «Ver de nuevo el consejo del Dock».

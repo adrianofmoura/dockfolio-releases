@@ -1,0 +1,1 @@
+- When you save a Folder for the first time, it now joins the Dock quietly: the animation of the Folder flying to the Dock and the instruction boxes that appeared with it are gone. The “Replay the Dock tip” button was also removed from Settings.

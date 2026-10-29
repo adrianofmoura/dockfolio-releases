@@ -1,0 +1,1 @@
+- Beim ersten Sichern eines Ordners kommt er jetzt still ins Dock: Die Animation des zum Dock fliegenden Ordners und die dazugehörigen Anleitungsfenster sind entfallen. Die Schaltfläche „Dock-Tipp erneut ansehen“ wurde ebenfalls aus den Einstellungen entfernt.
