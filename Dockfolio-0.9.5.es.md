@@ -1,0 +1,2 @@
+- «Guardar y aplicar» y «Descartar todo» ahora están en una franja dentro de la propia ventana, en la parte superior del área principal, en lugar de la barra de herramientas del sistema: en macOS 12 la barra ocultaba el botón y se veía desordenada.
+- Tour: el selector de idioma ahora muestra el nombre del idioma actual junto al menú, y las banderas responden mejor al clic en macOS más recientes.

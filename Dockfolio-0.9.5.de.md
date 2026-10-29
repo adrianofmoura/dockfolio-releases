@@ -1,0 +1,2 @@
+- „Sichern und anwenden“ und „Alle verwerfen“ sitzen jetzt in einer Leiste im Fenster selbst, oben im Hauptbereich, statt in der System-Symbolleiste: Unter macOS 12 versteckte die Symbolleiste die Schaltfläche und sah unordentlich aus.
+- Tour: Die Sprachauswahl zeigt jetzt den Namen der aktuellen Sprache neben dem Menü, und die Flaggen reagieren unter neuerem macOS besser auf Klicks.

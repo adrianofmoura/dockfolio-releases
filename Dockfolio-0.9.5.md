@@ -1,0 +1,2 @@
+- “Save and Apply” and “Discard All” now sit in a strip inside the window, at the top of the main area, instead of the system toolbar: on macOS 12 the toolbar hid the button and looked messy.
+- Tour: the language selector now shows the current language’s name next to the menu, and the flags respond better to clicks on newer macOS.

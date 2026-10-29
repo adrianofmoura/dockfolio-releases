@@ -1,0 +1,2 @@
+- « Enregistrer et appliquer » et « Tout annuler » se trouvent maintenant dans une bande à l’intérieur de la fenêtre, en haut de la zone principale, au lieu de la barre d’outils du système : sous macOS 12 la barre masquait le bouton et semblait désordonnée.
+- Visite : le sélecteur de langue affiche maintenant le nom de la langue actuelle à côté du menu, et les drapeaux répondent mieux au clic sur les macOS récents.

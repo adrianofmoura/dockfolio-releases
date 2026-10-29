@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.5",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- “Salvar e aplicar” e “Descartar tudo” agora ficam numa faixa dentro da própria janela, no alto da área principal, em vez da barra de ferramentas do sistema: no macOS 12 a barra escondia o botão e ficava desorganizada.\n- Tour: o seletor de idioma passou a mostrar o nome do idioma atual junto do menu, e as bandeiras responderam melhor ao clique no macOS mais novo.",
+        "en": "- “Save and Apply” and “Discard All” now sit in a strip inside the window, at the top of the main area, instead of the system toolbar: on macOS 12 the toolbar hid the button and looked messy.\n- Tour: the language selector now shows the current language’s name next to the menu, and the flags respond better to clicks on newer macOS.",
+        "es": "- «Guardar y aplicar» y «Descartar todo» ahora están en una franja dentro de la propia ventana, en la parte superior del área principal, en lugar de la barra de herramientas del sistema: en macOS 12 la barra ocultaba el botón y se veía desordenada.\n- Tour: el selector de idioma ahora muestra el nombre del idioma actual junto al menú, y las banderas responden mejor al clic en macOS más recientes.",
+        "fr": "- « Enregistrer et appliquer » et « Tout annuler » se trouvent maintenant dans une bande à l’intérieur de la fenêtre, en haut de la zone principale, au lieu de la barre d’outils du système : sous macOS 12 la barre masquait le bouton et semblait désordonnée.\n- Visite : le sélecteur de langue affiche maintenant le nom de la langue actuelle à côté du menu, et les drapeaux répondent mieux au clic sur les macOS récents.",
+        "de": "- „Sichern und anwenden“ und „Alle verwerfen“ sitzen jetzt in einer Leiste im Fenster selbst, oben im Hauptbereich, statt in der System-Symbolleiste: Unter macOS 12 versteckte die Symbolleiste die Schaltfläche und sah unordentlich aus.\n- Tour: Die Sprachauswahl zeigt jetzt den Namen der aktuellen Sprache neben dem Menü, und die Flaggen reagieren unter neuerem macOS besser auf Klicks.",
+        "it": "- “Salva e applica” e “Scarta tutto” ora stanno in una fascia dentro la finestra, in alto nell’area principale, invece che nella barra degli strumenti di sistema: su macOS 12 la barra nascondeva il pulsante e appariva disordinata.\n- Tour: il selettore della lingua ora mostra il nome della lingua attuale accanto al menu, e le bandiere rispondono meglio al clic sui macOS più recenti.",
+        "ja": "- 「保存して適用」と「すべて破棄」を、システムのツールバーではなく、ウインドウ内のメイン領域上部の帯に移しました。macOS 12ではツールバーがボタンを隠し、表示が崩れていました。\n- ツアー：言語の選択に現在の言語名がメニューの横に表示されるようになり、新しいmacOSでも旗がクリックに反応しやすくなりました。",
+        "ko": "- ‘저장하고 적용’과 ‘모두 취소’를 시스템 도구 막대 대신 창 안 메인 영역 위쪽의 띠로 옮겼습니다. macOS 12에서는 도구 막대가 버튼을 가리고 어수선하게 보였습니다.\n- 투어: 언어 선택에 현재 언어 이름이 메뉴 옆에 표시되며, 최신 macOS에서 깃발이 클릭에 더 잘 반응합니다.",
+        "zh-Hans": "- “存储并应用”和“全部放弃”现在位于窗口内主区域顶部的一条栏里，而不是系统工具栏：在 macOS 12 上，工具栏会遮住按钮，看起来很乱。\n- 导览：语言选择现在会在菜单旁显示当前语言的名称，旗帜在较新的 macOS 上也更能响应点按。",
+        "ru": "- «Сохранить и применить» и «Отменить всё» теперь находятся в полосе внутри самого окна, вверху основной области, а не на системной панели инструментов: в macOS 12 панель скрывала кнопку и выглядела беспорядочно.\n- Тур: выбор языка теперь показывает название текущего языка рядом с меню, а флаги лучше реагируют на щелчок в новых macOS."
+      }
+    },
+    {
       "version": "0.9.4",
       "date": "2026-10-29",
       "notes": {

@@ -1,0 +1,2 @@
+- “Salva e applica” e “Scarta tutto” ora stanno in una fascia dentro la finestra, in alto nell’area principale, invece che nella barra degli strumenti di sistema: su macOS 12 la barra nascondeva il pulsante e appariva disordinata.
+- Tour: il selettore della lingua ora mostra il nome della lingua attuale accanto al menu, e le bandiere rispondono meglio al clic sui macOS più recenti.
