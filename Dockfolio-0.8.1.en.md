@@ -1,0 +1,3 @@
+- Virtual Dock: dragging the Folder is now smooth (no lag when swapping places with another app), and the Dock and the Folder follow the real Dock’s proportions: with many apps the icons shrink to fit the screen and the Dock gets lower.
+- In the virtual Folder you can now reorder the apps and click + to add apps. The hint about the Folder’s place in the Dock moved above the preview.
+- Fixed: “Replay the welcome tour” showed only what’s new, and the selected Folder row in the menu bar menu (in the tour) wasn’t blue.

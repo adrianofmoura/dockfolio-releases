@@ -1,0 +1,3 @@
+- Dock virtuale: trascinare la Cartella ora è fluido (niente ritardo quando si scambia posto con un’altra app), e il Dock e la Cartella seguono le proporzioni del Dock vero: con molte app le icone si riducono per stare nello schermo e il Dock diventa più basso.
+- Nella Cartella virtuale ora puoi riordinare le app e fare clic su + per aggiungerne. L’indicazione sul posto della Cartella nel Dock è passata sopra l’anteprima.
+- Corretto: “Rivedi il tour di benvenuto” mostrava solo le novità, e la riga della Cartella scelta nel menu della barra dei menu (nel tour) non diventava blu.

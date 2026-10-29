@@ -1,0 +1,3 @@
+- Dock virtuel : faire glisser le Dossier est maintenant fluide (plus de retard en échangeant avec une autre app), et le Dock et le Dossier suivent les proportions du vrai Dock : avec beaucoup d’apps, les icônes rétrécissent pour tenir à l’écran et le Dock devient plus bas.
+- Dans le Dossier virtuel, vous pouvez maintenant réordonner les apps et cliquer sur + pour en ajouter. L’indication sur la place du Dossier dans le Dock est passée au-dessus de l’aperçu.
+- Corrigé : « Revoir la visite de bienvenue » n’affichait que les nouveautés, et la ligne du Dossier choisi dans le menu de la barre des menus (dans la visite) ne devenait pas bleue.

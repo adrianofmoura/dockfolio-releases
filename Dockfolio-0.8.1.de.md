@@ -1,0 +1,3 @@
+- Virtuelles Dock: Das Ziehen des Ordners ist jetzt flüssig (keine Verzögerung beim Platztausch mit einer anderen App), und Dock und Ordner folgen den Proportionen des echten Docks: Bei vielen Apps schrumpfen die Symbole, damit alles auf den Bildschirm passt, und das Dock wird niedriger.
+- Im virtuellen Ordner kannst du jetzt die Apps neu anordnen und mit + Apps hinzufügen. Der Hinweis zum Platz des Ordners im Dock steht jetzt über der Vorschau.
+- Behoben: „Willkommenstour erneut ansehen“ zeigte nur die Neuheiten, und die gewählte Ordnerzeile im Menüleistenmenü (in der Tour) wurde nicht blau.

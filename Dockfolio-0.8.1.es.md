@@ -1,0 +1,3 @@
+- Dock virtual: arrastrar la Carpeta ahora es fluido (sin retraso al cambiar de lugar con otra app), y el Dock y la Carpeta siguen las proporciones del Dock real: con muchas apps los iconos se encogen para caber en la pantalla y el Dock se hace más bajo.
+- En la Carpeta virtual ahora puedes reordenar las apps y hacer clic en + para añadir apps. La indicación sobre el lugar de la Carpeta en el Dock pasó encima de la vista previa.
+- Corregido: «Ver de nuevo el tour de bienvenida» mostraba solo las novedades, y la fila de la Carpeta elegida en el menú de la barra de menús (en el tour) no se ponía azul.

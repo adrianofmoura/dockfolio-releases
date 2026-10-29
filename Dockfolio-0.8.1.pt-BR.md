@@ -1,0 +1,3 @@
+- Dock virtual: arrastar a Pasta ficou fluido (sem o atraso ao trocar de lugar com outro app), e o Dock e a Pasta seguem as proporções do Dock real: com muitos apps os ícones encolhem para caber na tela e o Dock fica mais baixo.
+- Na Pasta virtual agora dá para reordenar os apps e clicar no + para adicionar apps. A dica sobre o lugar da Pasta no Dock passou para cima da prévia.
+- Corrigido: “Rever o tour de boas-vindas” mostrava só as novidades, e a linha da Pasta escolhida no menu da barra de menus (no tour) não ficava azul.
