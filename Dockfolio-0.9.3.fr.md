@@ -1,0 +1,3 @@
+- L’écran « Aucun dossier sélectionné » n’apparaît que s’il n’existe aucun Dossier ; sinon le premier est sélectionné (aussi après la suppression du Dossier ouvert).
+- Visite : les drapeaux de langue répondent de nouveau au clic sur les macOS récents (la zone de clic est maintenant tout le cercle).
+- « Copier les informations de diagnostic » inclut désormais un test de dessin de la visite, pour étudier les différences entre Mac.

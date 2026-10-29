@@ -1,0 +1,3 @@
+- The “No folder selected” screen only appears when no Folder has been created; when Folders exist, the first one is selected (also after deleting the open Folder).
+- Tour: the language flags respond to clicks again on newer macOS (the click area is now the whole circle).
+- “Copy Diagnostic Information” now includes a tour drawing test, to investigate differences between Macs.

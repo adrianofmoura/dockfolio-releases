@@ -1,0 +1,3 @@
+- Der Bildschirm „Kein Ordner ausgewählt“ erscheint nur, wenn kein Ordner existiert; sonst wird der erste ausgewählt (auch nach dem Löschen des geöffneten Ordners).
+- Tour: Die Sprachflaggen reagieren unter neuerem macOS wieder auf Klicks (die Klickfläche ist jetzt der ganze Kreis).
+- „Diagnoseinformationen kopieren“ enthält jetzt einen Zeichentest der Tour, um Unterschiede zwischen Macs zu untersuchen.

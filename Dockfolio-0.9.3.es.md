@@ -1,0 +1,3 @@
+- La pantalla «Ninguna carpeta seleccionada» solo aparece cuando no hay ninguna Carpeta creada; si las hay, se elige la primera (también al eliminar la Carpeta abierta).
+- Tour: las banderas de idioma vuelven a responder al clic en macOS más recientes (el área de clic es ahora todo el círculo).
+- «Copiar información de diagnóstico» ahora incluye una prueba de dibujo del tour, para investigar diferencias entre Macs.

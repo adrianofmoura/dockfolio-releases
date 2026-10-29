@@ -1,0 +1,3 @@
+- La schermata “Nessuna cartella selezionata” compare solo quando non esiste nessuna Cartella; se ce ne sono, viene scelta la prima (anche dopo aver eliminato quella aperta).
+- Tour: le bandiere delle lingue rispondono di nuovo al clic sui macOS più recenti (l’area di clic ora è tutto il cerchio).
+- “Copia informazioni di diagnostica” ora include un test di disegno del tour, per indagare le differenze tra Mac.

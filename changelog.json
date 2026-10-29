@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.3",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- A tela “Nenhuma pasta selecionada” só aparece quando não há nenhuma Pasta criada; havendo Pastas, a primeira é escolhida (também ao excluir a Pasta que estava aberta).\n- Tour: as bandeiras de idioma voltaram a responder ao clique no macOS mais novo (a área de clique agora é o círculo inteiro).\n- “Copiar informações de diagnóstico” agora inclui um teste de desenho do tour, para investigar diferenças entre Macs.",
+        "en": "- The “No folder selected” screen only appears when no Folder has been created; when Folders exist, the first one is selected (also after deleting the open Folder).\n- Tour: the language flags respond to clicks again on newer macOS (the click area is now the whole circle).\n- “Copy Diagnostic Information” now includes a tour drawing test, to investigate differences between Macs.",
+        "es": "- La pantalla «Ninguna carpeta seleccionada» solo aparece cuando no hay ninguna Carpeta creada; si las hay, se elige la primera (también al eliminar la Carpeta abierta).\n- Tour: las banderas de idioma vuelven a responder al clic en macOS más recientes (el área de clic es ahora todo el círculo).\n- «Copiar información de diagnóstico» ahora incluye una prueba de dibujo del tour, para investigar diferencias entre Macs.",
+        "fr": "- L’écran « Aucun dossier sélectionné » n’apparaît que s’il n’existe aucun Dossier ; sinon le premier est sélectionné (aussi après la suppression du Dossier ouvert).\n- Visite : les drapeaux de langue répondent de nouveau au clic sur les macOS récents (la zone de clic est maintenant tout le cercle).\n- « Copier les informations de diagnostic » inclut désormais un test de dessin de la visite, pour étudier les différences entre Mac.",
+        "de": "- Der Bildschirm „Kein Ordner ausgewählt“ erscheint nur, wenn kein Ordner existiert; sonst wird der erste ausgewählt (auch nach dem Löschen des geöffneten Ordners).\n- Tour: Die Sprachflaggen reagieren unter neuerem macOS wieder auf Klicks (die Klickfläche ist jetzt der ganze Kreis).\n- „Diagnoseinformationen kopieren“ enthält jetzt einen Zeichentest der Tour, um Unterschiede zwischen Macs zu untersuchen.",
+        "it": "- La schermata “Nessuna cartella selezionata” compare solo quando non esiste nessuna Cartella; se ce ne sono, viene scelta la prima (anche dopo aver eliminato quella aperta).\n- Tour: le bandiere delle lingue rispondono di nuovo al clic sui macOS più recenti (l’area di clic ora è tutto il cerchio).\n- “Copia informazioni di diagnostica” ora include un test di disegno del tour, per indagare le differenze tra Mac.",
+        "ja": "- 「フォルダが選択されていません」の画面は、フォルダが1つもないときだけ表示されます。フォルダがあるときは最初のものが選ばれます（開いていたフォルダを削除した後も同様です）。\n- ツアー：新しいmacOSで言語の旗がクリックに反応しない問題を修正しました（クリック領域が円全体になりました）。\n- 「診断情報をコピー」に、Mac間の違いを調べるためのツアー描画テストを追加しました。",
+        "ko": "- ‘선택된 폴더 없음’ 화면은 만든 폴더가 하나도 없을 때만 나타납니다. 폴더가 있으면 첫 번째가 선택됩니다(열려 있던 폴더를 삭제한 뒤에도 마찬가지입니다).\n- 투어: 최신 macOS에서 언어 깃발이 클릭에 반응하지 않던 문제를 고쳤습니다(클릭 영역이 이제 원 전체입니다).\n- ‘진단 정보 복사’에 Mac 간 차이를 조사하기 위한 투어 그리기 테스트가 포함됩니다.",
+        "zh-Hans": "- “未选择文件夹”界面只在没有创建任何文件夹时出现；有文件夹时会选中第一个（删除正在打开的文件夹后也是如此）。\n- 导览：在较新的 macOS 上，语言旗帜又能响应点按了（点按区域现在是整个圆）。\n- “拷贝诊断信息”现在包含导览的绘制测试，用于排查不同 Mac 之间的差异。",
+        "ru": "- Экран «Папка не выбрана» появляется только когда не создано ни одной Папки; если Папки есть, выбирается первая (в том числе после удаления открытой Папки).\n- Тур: флаги языков снова реагируют на щелчок в новых macOS (область нажатия теперь весь круг).\n- «Скопировать диагностическую информацию» теперь включает тест отрисовки тура для изучения различий между Mac."
+      }
+    },
+    {
       "version": "0.9.2",
       "date": "2026-10-29",
       "notes": {

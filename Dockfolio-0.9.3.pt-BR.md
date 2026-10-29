@@ -1,0 +1,3 @@
+- A tela “Nenhuma pasta selecionada” só aparece quando não há nenhuma Pasta criada; havendo Pastas, a primeira é escolhida (também ao excluir a Pasta que estava aberta).
+- Tour: as bandeiras de idioma voltaram a responder ao clique no macOS mais novo (a área de clique agora é o círculo inteiro).
+- “Copiar informações de diagnóstico” agora inclui um teste de desenho do tour, para investigar diferenças entre Macs.
