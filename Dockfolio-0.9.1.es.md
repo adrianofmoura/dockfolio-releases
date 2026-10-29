@@ -1,0 +1,2 @@
+- El fondo de pantalla de la vista previa y del tour ahora queda con su base pegada abajo, donde está el Dock, y el recorte ocurre arriba, como en una pantalla real.
+- Se quitaron la animación de la Carpeta yendo al Dock y los cuadros de diálogo que aparecían tras el primer guardado: como el Dock virtual ya muestra dónde quedará la Carpeta, ahora se fija en silencio. También se quitó de Ajustes el botón «Ver de nuevo el consejo del Dock».

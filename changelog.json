@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.1",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- O papel de parede da prévia e do tour agora fica com a base colada embaixo, onde está o Dock, e o corte acontece em cima, como numa tela de verdade.\n- A animação da Pasta indo para o Dock e as caixas de diálogo que apareciam depois de salvar pela primeira vez saíram: como o Dock virtual já mostra onde a Pasta vai ficar, ela agora é fixada em silêncio. O botão “Rever a dica do Dock” também saiu dos Ajustes.",
+        "en": "- The wallpaper in the preview and in the tour now sits with its bottom edge at the bottom, where the Dock is, and any cropping happens at the top, like on a real screen.\n- The animation of the Folder flying to the Dock and the dialog boxes that showed up after the first save are gone: since the virtual Dock already shows where the Folder will go, it is now pinned silently. The “Replay the Dock tip” button was also removed from Settings.",
+        "es": "- El fondo de pantalla de la vista previa y del tour ahora queda con su base pegada abajo, donde está el Dock, y el recorte ocurre arriba, como en una pantalla real.\n- Se quitaron la animación de la Carpeta yendo al Dock y los cuadros de diálogo que aparecían tras el primer guardado: como el Dock virtual ya muestra dónde quedará la Carpeta, ahora se fija en silencio. También se quitó de Ajustes el botón «Ver de nuevo el consejo del Dock».",
+        "fr": "- Le fond d’écran de l’aperçu et de la visite est maintenant calé en bas, là où se trouve le Dock, et le rognage se fait en haut, comme sur un vrai écran.\n- L’animation du Dossier qui file vers le Dock et les boîtes de dialogue qui apparaissaient après le premier enregistrement ont disparu : le Dock virtuel montrant déjà où ira le Dossier, il est désormais épinglé en silence. Le bouton « Revoir l’astuce du Dock » a aussi été retiré des Réglages.",
+        "de": "- Das Hintergrundbild in Vorschau und Tour sitzt jetzt mit seiner Unterkante unten, wo das Dock ist, und beschnitten wird oben, wie auf einem echten Bildschirm.\n- Die Animation, in der der Ordner zum Dock fliegt, und die Dialoge nach dem ersten Sichern sind entfallen: Da das virtuelle Dock schon zeigt, wo der Ordner landet, wird er jetzt stillschweigend angeheftet. Die Schaltfläche „Dock-Tipp erneut ansehen“ wurde ebenfalls aus den Einstellungen entfernt.",
+        "it": "- Lo sfondo dell’anteprima e del tour ora ha la base attaccata in basso, dove c’è il Dock, e il ritaglio avviene in alto, come su uno schermo vero.\n- Sono state tolte l’animazione della Cartella che vola nel Dock e le finestre di dialogo che comparivano dopo il primo salvataggio: poiché il Dock virtuale mostra già dove andrà la Cartella, ora viene fissata in silenzio. Dalle Impostazioni è stato rimosso anche il pulsante “Rivedi il suggerimento del Dock”.",
+        "ja": "- プレビューとツアーの壁紙は、下端がDockのある下側に揃い、切り取りは上側で行われるようになりました（実際の画面と同じです）。\n- フォルダがDockへ飛んでいくアニメーションと、初めて保存した後に表示されていたダイアログを廃止しました。仮想Dockですでにフォルダの位置がわかるため、フォルダは静かに固定されます。設定から「Dockのヒントをもう一度見る」ボタンも削除しました。",
+        "ko": "- 미리보기와 투어의 배경화면이 이제 아래쪽(Dock이 있는 곳)에 맞춰지고, 잘리는 부분은 위쪽입니다. 실제 화면과 같습니다.\n- 폴더가 Dock으로 날아가는 애니메이션과 처음 저장한 뒤 나타나던 대화상자를 없앴습니다. 가상 Dock이 이미 폴더가 들어갈 위치를 보여 주므로 이제 조용히 고정됩니다. 설정에서 ‘Dock 팁 다시 보기’ 버튼도 제거했습니다.",
+        "zh-Hans": "- 预览和导览中的桌面背景现在底边贴着下方（Dock 所在的位置），需要裁切时在上方裁掉，和真实屏幕一样。\n- 已移除文件夹飞向 Dock 的动画，以及首次存储后出现的对话框：虚拟 Dock 已经显示了文件夹的位置，所以现在会静默固定。“设置”中的“重新查看 Dock 提示”按钮也已移除。",
+        "ru": "- Обои в предпросмотре и туре теперь прижаты нижним краем вниз, где находится Dock, а обрезка происходит сверху, как на настоящем экране.\n- Убраны анимация полёта Папки в Dock и диалоговые окна после первого сохранения: виртуальный Dock уже показывает, куда попадёт Папка, поэтому теперь она закрепляется молча. Кнопка «Показать подсказку о Dock снова» тоже удалена из настроек."
+      }
+    },
+    {
       "version": "0.9.0",
       "date": "2026-10-29",
       "notes": {

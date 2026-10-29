@@ -1,0 +1,2 @@
+- Le fond d’écran de l’aperçu et de la visite est maintenant calé en bas, là où se trouve le Dock, et le rognage se fait en haut, comme sur un vrai écran.
+- L’animation du Dossier qui file vers le Dock et les boîtes de dialogue qui apparaissaient après le premier enregistrement ont disparu : le Dock virtuel montrant déjà où ira le Dossier, il est désormais épinglé en silence. Le bouton « Revoir l’astuce du Dock » a aussi été retiré des Réglages.

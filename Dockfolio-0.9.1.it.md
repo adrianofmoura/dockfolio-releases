@@ -1,0 +1,2 @@
+- Lo sfondo dell’anteprima e del tour ora ha la base attaccata in basso, dove c’è il Dock, e il ritaglio avviene in alto, come su uno schermo vero.
+- Sono state tolte l’animazione della Cartella che vola nel Dock e le finestre di dialogo che comparivano dopo il primo salvataggio: poiché il Dock virtuale mostra già dove andrà la Cartella, ora viene fissata in silenzio. Dalle Impostazioni è stato rimosso anche il pulsante “Rivedi il suggerimento del Dock”.

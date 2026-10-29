@@ -1,0 +1,2 @@
+- O papel de parede da prévia e do tour agora fica com a base colada embaixo, onde está o Dock, e o corte acontece em cima, como numa tela de verdade.
+- A animação da Pasta indo para o Dock e as caixas de diálogo que apareciam depois de salvar pela primeira vez saíram: como o Dock virtual já mostra onde a Pasta vai ficar, ela agora é fixada em silêncio. O botão “Rever a dica do Dock” também saiu dos Ajustes.

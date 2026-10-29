@@ -1,0 +1,2 @@
+- The wallpaper in the preview and in the tour now sits with its bottom edge at the bottom, where the Dock is, and any cropping happens at the top, like on a real screen.
+- The animation of the Folder flying to the Dock and the dialog boxes that showed up after the first save are gone: since the virtual Dock already shows where the Folder will go, it is now pinned silently. The “Replay the Dock tip” button was also removed from Settings.

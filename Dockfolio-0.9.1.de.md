@@ -1,0 +1,2 @@
+- Das Hintergrundbild in Vorschau und Tour sitzt jetzt mit seiner Unterkante unten, wo das Dock ist, und beschnitten wird oben, wie auf einem echten Bildschirm.
+- Die Animation, in der der Ordner zum Dock fliegt, und die Dialoge nach dem ersten Sichern sind entfallen: Da das virtuelle Dock schon zeigt, wo der Ordner landet, wird er jetzt stillschweigend angeheftet. Die Schaltfläche „Dock-Tipp erneut ansehen“ wurde ebenfalls aus den Einstellungen entfernt.
