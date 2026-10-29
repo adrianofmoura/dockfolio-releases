@@ -1,0 +1,4 @@
+- Al arrastrar una app dentro de la Carpeta, el icono ahora se detiene en el borde del vidrio en lugar de desaparecer cortado tras un «muro invisible» (el límite de la ventana de la Carpeta).
+- Novedad: arrastrar una app fuera del vidrio de la Carpeta la convierte en «Quitar de la carpeta» (el icono se atenúa y recibe una etiqueta roja). Al soltarla ahí, la app sale de la Carpeta, como en el Dock del Mac; la app sigue en tu Mac.
+- En la pestaña Cuadrícula, la opción «Automática» del icono ahora también se llama «Auto», como en las Filas de la Carpeta.
+- Una Carpeta ancha en una sola fila, con su icono cerca de los extremos del Dock y la ampliación activada: ya no queda pegada al borde de la pantalla. La Carpeta se desplaza un poco hacia el centro y sigue al icono, a menor escala, hasta que este llega a la mitad del Dock.

@@ -1,0 +1,4 @@
+- When dragging an app inside the Folder, the icon now stops at the edge of the glass instead of vanishing, cut off, behind an “invisible wall” (the limit of the Folder’s window).
+- New: dragging an app out of the Folder’s glass turns it into “Remove from Folder” (the icon fades and gets a red label). Releasing there takes the app out of the Folder, like in the Mac Dock; the app stays on your Mac.
+- In the Grid tab, the icon’s “Automatic” option is now also called “Auto”, like the Folder’s Rows.
+- A wide Folder in a single row, with its icon near the Dock’s ends and magnification on: it no longer sticks to the screen edge. The Folder sits slightly shifted toward the center and keeps following the icon, at a smaller scale, until the icon reaches the middle of the Dock.

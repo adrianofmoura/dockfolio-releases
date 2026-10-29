@@ -1,0 +1,4 @@
+- Beim Ziehen einer App im Ordner bleibt das Symbol jetzt am Rand des Glases stehen, statt abgeschnitten hinter einer „unsichtbaren Wand“ (der Grenze des Ordnerfensters) zu verschwinden.
+- Neu: Zieht man eine App aus dem Glas des Ordners, wird sie zu „Aus dem Ordner entfernen“ (das Symbol wird blasser und bekommt ein rotes Etikett). Lässt man sie dort los, verlässt die App den Ordner, wie im Dock des Mac; die App bleibt auf deinem Mac.
+- Im Tab Raster heißt die Option „Automatisch“ des Symbols jetzt ebenfalls „Auto“, wie bei den Reihen des Ordners.
+- Ein breiter Ordner in einer einzigen Reihe, dessen Symbol nahe den Enden des Docks liegt, bei aktivierter Vergrößerung: Er klebt nicht mehr am Bildschirmrand. Der Ordner sitzt leicht zur Mitte versetzt und folgt dem Symbol in kleinerem Maßstab, bis es die Mitte des Docks erreicht.

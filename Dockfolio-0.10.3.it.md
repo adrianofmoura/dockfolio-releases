@@ -1,0 +1,4 @@
+- Trascinando un’app nella Cartella, l’icona ora si ferma al bordo del vetro invece di sparire tagliata dietro un “muro invisibile” (il limite della finestra della Cartella).
+- Novità: trascinare un’app fuori dal vetro della Cartella la trasforma in “Rimuovi dalla cartella” (l’icona sbiadisce e riceve un’etichetta rossa). Rilasciarla lì toglie l’app dalla Cartella, come nel Dock del Mac; l’app resta sul tuo Mac.
+- Nella scheda Griglia, l’opzione “Automatico” dell’icona ora si chiama anche “Auto”, come nelle File della Cartella.
+- Una Cartella larga in una sola fila, con l’icona vicina alle estremità del Dock e l’ingrandimento attivo: non resta più incollata al bordo dello schermo. La Cartella è leggermente spostata verso il centro e continua a seguire l’icona, in scala minore, finché l’icona non raggiunge il centro del Dock.

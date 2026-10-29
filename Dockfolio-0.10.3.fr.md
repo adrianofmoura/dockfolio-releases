@@ -1,0 +1,4 @@
+- En faisant glisser une app dans le Dossier, l’icône s’arrête maintenant au bord du verre au lieu de disparaître, coupée, derrière un « mur invisible » (la limite de la fenêtre du Dossier).
+- Nouveau : faire glisser une app hors du verre du Dossier la transforme en « Retirer du dossier » (l’icône s’estompe et reçoit une étiquette rouge). La lâcher là retire l’app du Dossier, comme dans le Dock du Mac ; l’app reste sur votre Mac.
+- Dans l’onglet Grille, l’option « Automatique » de l’icône s’appelle maintenant aussi « Auto », comme pour les Rangées du Dossier.
+- Un Dossier large sur une seule rangée, avec son icône près des extrémités du Dock et l’agrandissement activé : il ne reste plus collé au bord de l’écran. Le Dossier est légèrement décalé vers le centre et continue de suivre l’icône, à plus petite échelle, jusqu’à ce que l’icône atteigne le milieu du Dock.

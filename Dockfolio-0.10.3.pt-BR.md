@@ -1,0 +1,4 @@
+- Ao arrastar um app dentro da Pasta, o ícone agora para na borda do vidro em vez de sumir cortado atrás de um “muro invisível” (o limite da janela da Pasta).
+- Novo: arrastar um app para fora do vidro da Pasta o transforma em “Remover da pasta” (o ícone esmaece e ganha uma etiqueta vermelha). Soltar ali tira o app da Pasta, como no Dock do Mac; o app continua no seu Mac.
+- Na aba Grade, a opção “Automática” do ícone agora também se chama “Auto”, como nas Fileiras da Pasta.
+- Pasta larga numa fileira só, com o ícone perto das pontas do Dock e a ampliação ligada: ela não fica mais colada na borda da tela. O painel fica um pouco deslocado para o centro e continua acompanhando o ícone, numa escala menor, até o ícone chegar ao meio do Dock.
