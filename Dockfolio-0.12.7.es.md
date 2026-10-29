@@ -1,0 +1,1 @@
+- El cambio de tema es más rápido: el Dock se reinicia una sola vez (antes dos) y ya muestra los iconos correctos de las Carpetas.

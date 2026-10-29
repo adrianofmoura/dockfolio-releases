@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.7",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- A troca de tema ficou mais rápida: o Dock reinicia uma vez só (antes duas) e já mostra os ícones das Pastas certos.",
+        "en": "- Theme switching is faster: the Dock now restarts only once (it used to be twice) and already shows the right Folder icons.",
+        "es": "- El cambio de tema es más rápido: el Dock se reinicia una sola vez (antes dos) y ya muestra los iconos correctos de las Carpetas.",
+        "fr": "- Le changement de thème est plus rapide : le Dock ne redémarre plus qu'une fois (au lieu de deux) et affiche déjà les bonnes icônes des Dossiers.",
+        "de": "- Der Designwechsel ist schneller: Das Dock startet nur noch einmal neu (vorher zweimal) und zeigt sofort die richtigen Ordner-Symbole.",
+        "it": "- Il cambio di tema è più veloce: il Dock si riavvia una volta sola (prima due) e mostra subito le icone giuste delle Cartelle.",
+        "ja": "- テーマの切り替えが速くなりました。Dockの再起動は1回だけ（以前は2回）で、フォルダのアイコンも正しく表示されます。",
+        "ko": "- 테마 전환이 더 빨라졌습니다. Dock이 한 번만 다시 시작되고(이전에는 두 번), 폴더 아이콘도 바로 올바르게 표시됩니다.",
+        "zh-Hans": "- 主题切换更快了：Dock 现在只重启一次（之前是两次），并直接显示正确的文件夹图标。",
+        "ru": "- Смена темы стала быстрее: Dock перезапускается один раз (раньше дважды) и сразу показывает правильные значки Папок."
+      }
+    },
+    {
       "version": "0.12.6",
       "date": "2026-10-29",
       "notes": {

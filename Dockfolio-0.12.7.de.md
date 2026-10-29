@@ -1,0 +1,1 @@
+- Der Designwechsel ist schneller: Das Dock startet nur noch einmal neu (vorher zweimal) und zeigt sofort die richtigen Ordner-Symbole.

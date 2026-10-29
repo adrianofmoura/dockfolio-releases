@@ -1,0 +1,1 @@
+- Le changement de thème est plus rapide : le Dock ne redémarre plus qu'une fois (au lieu de deux) et affiche déjà les bonnes icônes des Dossiers.

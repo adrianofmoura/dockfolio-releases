@@ -1,0 +1,1 @@
+- Il cambio di tema è più veloce: il Dock si riavvia una volta sola (prima due) e mostra subito le icone giuste delle Cartelle.

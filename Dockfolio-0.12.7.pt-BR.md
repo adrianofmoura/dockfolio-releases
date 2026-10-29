@@ -1,0 +1,1 @@
+- A troca de tema ficou mais rápida: o Dock reinicia uma vez só (antes duas) e já mostra os ícones das Pastas certos.

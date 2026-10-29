@@ -1,0 +1,1 @@
+- Theme switching is faster: the Dock now restarts only once (it used to be twice) and already shows the right Folder icons.
