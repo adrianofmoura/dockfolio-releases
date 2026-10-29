@@ -1,0 +1,6 @@
+- Clic destro su una Cartella nell’elenco a sinistra: “Elimina”. Clic destro su un’app nella Cartella virtuale: “Rimuovi dalla cartella”.
+- Solo il “Salva e applica” globale, nella barra della finestra: ho tolto l’avviso e il pulsante “Scarta” dentro ogni Cartella (il pallino arancione nell’elenco continua a segnare le Cartelle modificate) e il pulsante con tre puntini.
+- Corretto: dopo aver spostato un’app normale nel Dock virtuale, fare di nuovo clic sulla Cartella non sempre riportava la modifica.
+- Il pulsante “Ripristina il Dock precedente” è stato rimosso dalle Impostazioni.
+- Dockfolio ora aggiorna in silenzio, in background, lo sfondo dell’anteprima e l’elenco delle Cartelle quando si apre una Cartella, quando si usa l’icona nella barra dei menu e quando la finestra di Dockfolio diventa attiva.
+- Tour: la riga della Cartella scelta nel menu della barra dei menu ora è blu anche su macOS 12 (l’evidenziazione usa un blu fisso invece del colore di sistema).

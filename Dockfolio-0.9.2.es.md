@@ -1,0 +1,6 @@
+- Clic derecho en una Carpeta de la lista de la izquierda: «Eliminar». Clic derecho en una app de la Carpeta virtual: «Quitar de la carpeta».
+- Solo el «Guardar y aplicar» global, en la barra de la ventana: quité el aviso y el botón «Descartar» dentro de cada Carpeta (el punto naranja de la lista sigue marcando las Carpetas modificadas) y el botón de tres puntos.
+- Corregido: tras mover una app normal del Dock virtual, volver a hacer clic en la Carpeta no siempre devolvía la edición.
+- El botón «Volver al Dock anterior» salió de Ajustes.
+- Dockfolio actualiza solo, en segundo plano, el fondo de pantalla de la vista previa y la lista de Carpetas cuando se abre una Carpeta, cuando se usa el icono de la barra de menús y cuando la ventana de Dockfolio se activa.
+- Tour: la fila de la Carpeta elegida en el menú de la barra de menús ahora también es azul en macOS 12 (el resaltado usa un azul fijo en lugar del color del sistema).

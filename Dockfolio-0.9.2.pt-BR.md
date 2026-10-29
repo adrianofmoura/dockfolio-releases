@@ -1,0 +1,6 @@
+- Botão direito numa Pasta da lista da esquerda: “Excluir”. Botão direito num app da Pasta virtual: “Remover da pasta”.
+- Só o “Salvar e aplicar” global, na barra da janela: tirei o aviso e o botão de “Descartar” de dentro de cada Pasta (a bolinha laranja na lista continua marcando as Pastas alteradas) e o botão de três pontinhos.
+- Corrigido: depois de mexer num app comum do Dock virtual, clicar de volta na Pasta nem sempre voltava a edição.
+- O botão “Voltar ao Dock anterior” saiu dos Ajustes.
+- O Dockfolio atualiza sozinho, em segundo plano, o papel de parede da prévia e a lista de Pastas quando uma Pasta é aberta, quando o ícone da barra de menus é usado e quando a janela do Dockfolio fica ativa.
+- Tour: a linha da Pasta escolhida no menu da barra de menus agora fica azul também no macOS 12 (o realce usa um azul fixo, e não mais a cor do sistema).

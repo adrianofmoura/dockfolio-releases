@@ -1,0 +1,6 @@
+- Right-click a Folder in the left list: “Delete”. Right-click an app in the virtual Folder: “Remove from Folder”.
+- Only the global “Save and Apply”, in the window bar: I removed the notice and the “Discard” button from inside each Folder (the orange dot in the list still marks changed Folders) and the three-dots button.
+- Fixed: after moving a regular app in the virtual Dock, clicking back on the Folder didn’t always bring editing back.
+- The “Restore the previous Dock” button was removed from Settings.
+- Dockfolio now quietly refreshes, in the background, the preview wallpaper and the list of Folders when a Folder is opened, when the menu bar icon is used and when the Dockfolio window becomes active.
+- Tour: the selected Folder row in the menu bar menu is now blue on macOS 12 too (the highlight uses a fixed blue instead of the system color).

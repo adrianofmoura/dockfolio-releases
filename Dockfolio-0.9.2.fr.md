@@ -1,0 +1,6 @@
+- Clic droit sur un Dossier de la liste de gauche : « Supprimer ». Clic droit sur une app du Dossier virtuel : « Retirer du dossier ».
+- Seul le « Enregistrer et appliquer » global, dans la barre de la fenêtre : j’ai retiré l’avis et le bouton « Annuler » à l’intérieur de chaque Dossier (le point orange de la liste continue de marquer les Dossiers modifiés) et le bouton à trois points.
+- Corrigé : après avoir déplacé une app ordinaire du Dock virtuel, recliquer sur le Dossier ne rétablissait pas toujours la modification.
+- Le bouton « Revenir au Dock précédent » a été retiré des Réglages.
+- Dockfolio actualise maintenant discrètement, en arrière-plan, le fond d’écran de l’aperçu et la liste des Dossiers quand un Dossier est ouvert, quand l’icône de la barre des menus est utilisée et quand la fenêtre de Dockfolio devient active.
+- Visite : la ligne du Dossier choisi dans le menu de la barre des menus est désormais bleue aussi sur macOS 12 (la surbrillance utilise un bleu fixe au lieu de la couleur du système).

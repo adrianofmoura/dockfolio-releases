@@ -1,0 +1,6 @@
+- Rechtsklick auf einen Ordner in der Liste links: „Löschen“. Rechtsklick auf eine App im virtuellen Ordner: „Aus dem Ordner entfernen“.
+- Nur noch das globale „Sichern und anwenden“ in der Fensterleiste: Ich habe den Hinweis und die Schaltfläche „Verwerfen“ in jedem Ordner (der orange Punkt in der Liste markiert weiterhin geänderte Ordner) sowie die Drei-Punkte-Schaltfläche entfernt.
+- Behoben: Nach dem Verschieben einer normalen App im virtuellen Dock brachte ein Klick zurück auf den Ordner die Bearbeitung nicht immer zurück.
+- Die Schaltfläche „Vorheriges Dock wiederherstellen“ wurde aus den Einstellungen entfernt.
+- Dockfolio aktualisiert jetzt unauffällig im Hintergrund das Hintergrundbild der Vorschau und die Ordnerliste, wenn ein Ordner geöffnet wird, das Menüleistensymbol benutzt wird und das Dockfolio-Fenster aktiv wird.
+- Tour: Die gewählte Ordnerzeile im Menüleistenmenü ist jetzt auch unter macOS 12 blau (die Hervorhebung nutzt ein festes Blau statt der Systemfarbe).
