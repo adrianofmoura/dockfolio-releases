@@ -1,0 +1,2 @@
+- Corrigido: as bandeiras de idioma do tour não respondiam ao clique do mouse (no Intel e no Apple silicon). A causa era a animação, redesenhada 60 vezes por segundo dentro da mesma árvore da janela, que cancelava o clique; agora ela roda num componente separado.
+- Trocar o idioma com o tour parado agora também traduz os textos da animação na hora.

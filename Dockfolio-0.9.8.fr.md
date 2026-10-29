@@ -1,0 +1,2 @@
+- Corrigé : les drapeaux de langue de la visite ne répondaient pas au clic de la souris (sur Intel et Apple silicon). La cause était l’animation, redessinée 60 fois par seconde dans le même arbre que la fenêtre, qui annulait le clic ; elle tourne maintenant dans un composant séparé.
+- Changer de langue quand la visite est en pause traduit désormais aussi tout de suite les textes de l’animation.

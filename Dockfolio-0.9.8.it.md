@@ -1,0 +1,2 @@
+- Corretto: le bandiere delle lingue del tour non rispondevano al clic del mouse (su Intel e Apple silicon). La causa era l’animazione, ridisegnata 60 volte al secondo nello stesso albero della finestra, che annullava il clic; ora gira in un componente separato.
+- Cambiare lingua con il tour in pausa ora traduce subito anche i testi dell’animazione.

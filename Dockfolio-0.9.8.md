@@ -1,0 +1,2 @@
+- Fixed: the tour’s language flags didn’t respond to mouse clicks (on Intel and Apple silicon). The cause was the animation, redrawn 60 times per second inside the same tree as the window, which cancelled the click; it now runs in a separate component.
+- Switching the language while the tour is paused now also translates the animation’s texts right away.

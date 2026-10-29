@@ -1,0 +1,2 @@
+- Behoben: Die Sprachflaggen der Tour reagierten nicht auf Mausklicks (bei Intel und Apple silicon). Ursache war die Animation, die 60-mal pro Sekunde im selben Baum wie das Fenster neu gezeichnet wurde und den Klick abbrach; sie läuft jetzt in einer eigenen Komponente.
+- Beim Wechsel der Sprache bei pausierter Tour werden jetzt auch die Texte der Animation sofort übersetzt.

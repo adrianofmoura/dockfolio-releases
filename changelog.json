@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.8",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Corrigido: as bandeiras de idioma do tour não respondiam ao clique do mouse (no Intel e no Apple silicon). A causa era a animação, redesenhada 60 vezes por segundo dentro da mesma árvore da janela, que cancelava o clique; agora ela roda num componente separado.\n- Trocar o idioma com o tour parado agora também traduz os textos da animação na hora.",
+        "en": "- Fixed: the tour’s language flags didn’t respond to mouse clicks (on Intel and Apple silicon). The cause was the animation, redrawn 60 times per second inside the same tree as the window, which cancelled the click; it now runs in a separate component.\n- Switching the language while the tour is paused now also translates the animation’s texts right away.",
+        "es": "- Corregido: las banderas de idioma del tour no respondían al clic del ratón (en Intel y Apple silicon). La causa era la animación, redibujada 60 veces por segundo dentro del mismo árbol de la ventana, que cancelaba el clic; ahora funciona en un componente aparte.\n- Cambiar el idioma con el tour en pausa ahora también traduce al instante los textos de la animación.",
+        "fr": "- Corrigé : les drapeaux de langue de la visite ne répondaient pas au clic de la souris (sur Intel et Apple silicon). La cause était l’animation, redessinée 60 fois par seconde dans le même arbre que la fenêtre, qui annulait le clic ; elle tourne maintenant dans un composant séparé.\n- Changer de langue quand la visite est en pause traduit désormais aussi tout de suite les textes de l’animation.",
+        "de": "- Behoben: Die Sprachflaggen der Tour reagierten nicht auf Mausklicks (bei Intel und Apple silicon). Ursache war die Animation, die 60-mal pro Sekunde im selben Baum wie das Fenster neu gezeichnet wurde und den Klick abbrach; sie läuft jetzt in einer eigenen Komponente.\n- Beim Wechsel der Sprache bei pausierter Tour werden jetzt auch die Texte der Animation sofort übersetzt.",
+        "it": "- Corretto: le bandiere delle lingue del tour non rispondevano al clic del mouse (su Intel e Apple silicon). La causa era l’animazione, ridisegnata 60 volte al secondo nello stesso albero della finestra, che annullava il clic; ora gira in un componente separato.\n- Cambiare lingua con il tour in pausa ora traduce subito anche i testi dell’animazione.",
+        "ja": "- 修正：ツアーの言語の旗が、マウスのクリックに反応しない問題（IntelとApple silicon）。原因は、ウインドウと同じ階層で毎秒60回描き直されていたアニメーションがクリックを取り消していたことで、現在は別のコンポーネントで動いています。\n- ツアーが停止中に言語を切り替えると、アニメーション内のテキストもすぐに翻訳されます。",
+        "ko": "- 수정: 투어의 언어 깃발이 마우스 클릭에 반응하지 않던 문제(Intel과 Apple silicon). 원인은 창과 같은 구조 안에서 초당 60번 다시 그려지던 애니메이션이 클릭을 취소하던 것이며, 이제 별도의 구성 요소에서 실행됩니다.\n- 투어가 멈춘 상태에서 언어를 바꾸면 애니메이션의 텍스트도 즉시 번역됩니다.",
+        "zh-Hans": "- 修复：导览中的语言旗帜无法响应鼠标点按（Intel 和 Apple 芯片上都有）。原因是动画在与窗口相同的层级里每秒重绘 60 次，导致点按被取消；现在它运行在单独的组件中。\n- 导览暂停时切换语言，动画中的文字现在也会立即翻译。",
+        "ru": "- Исправлено: флаги языков в туре не реагировали на щелчок мыши (на Intel и Apple silicon). Причиной была анимация, перерисовывавшаяся 60 раз в секунду в том же дереве, что и окно, и отменявшая щелчок; теперь она работает в отдельном компоненте.\n- Смена языка при приостановленном туре теперь сразу переводит и тексты анимации."
+      }
+    },
+    {
       "version": "0.9.7",
       "date": "2026-10-29",
       "notes": {
