@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.10.1",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Removido o controle “Alinhamento” da seção Pasta (aba Grade): a última fileira sempre começa pela esquerda.",
+        "en": "- Removed the “Alignment” control from the Folder section (Grid tab): the last row always starts from the left.",
+        "es": "- Se quitó el control «Alineación» de la sección Carpeta (pestaña Cuadrícula): la última fila siempre empieza por la izquierda.",
+        "fr": "- Le réglage « Alignement » de la section Dossier (onglet Grille) a été retiré : la dernière rangée commence toujours par la gauche.",
+        "de": "- Die Einstellung „Ausrichtung“ im Abschnitt Ordner (Tab Raster) wurde entfernt: Die letzte Reihe beginnt immer links.",
+        "it": "- Rimosso il controllo “Allineamento” dalla sezione Cartella (scheda Griglia): l’ultima fila parte sempre da sinistra.",
+        "ja": "- グリッドタブのフォルダのセクションから「配置」を削除しました。最後の行は常に左から始まります。",
+        "ko": "- 격자 탭의 폴더 섹션에서 ‘정렬’ 컨트롤을 없앴습니다. 마지막 줄은 항상 왼쪽에서 시작합니다.",
+        "zh-Hans": "- 已从“网格”标签页的文件夹部分移除“对齐”控件：最后一行始终从左侧开始。",
+        "ru": "- Убрано управление «Выравнивание» из раздела «Папка» (вкладка «Сетка»): последний ряд всегда начинается слева."
+      }
+    },
+    {
       "version": "0.10.0",
       "date": "2026-10-29",
       "notes": {

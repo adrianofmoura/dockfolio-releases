@@ -1,0 +1,1 @@
+- Removed the “Alignment” control from the Folder section (Grid tab): the last row always starts from the left.

@@ -1,0 +1,1 @@
+- Removido o controle “Alinhamento” da seção Pasta (aba Grade): a última fileira sempre começa pela esquerda.

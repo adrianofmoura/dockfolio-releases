@@ -1,0 +1,1 @@
+- Se quitó el control «Alineación» de la sección Carpeta (pestaña Cuadrícula): la última fila siempre empieza por la izquierda.

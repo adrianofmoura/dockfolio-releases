@@ -1,0 +1,1 @@
+- Die Einstellung „Ausrichtung“ im Abschnitt Ordner (Tab Raster) wurde entfernt: Die letzte Reihe beginnt immer links.

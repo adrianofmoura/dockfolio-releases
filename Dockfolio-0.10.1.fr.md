@@ -1,0 +1,1 @@
+- Le réglage « Alignement » de la section Dossier (onglet Grille) a été retiré : la dernière rangée commence toujours par la gauche.

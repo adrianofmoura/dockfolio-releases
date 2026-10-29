@@ -1,0 +1,1 @@
+- Rimosso il controllo “Allineamento” dalla sezione Cartella (scheda Griglia): l’ultima fila parte sempre da sinistra.
