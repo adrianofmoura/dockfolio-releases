@@ -1,0 +1,2 @@
+- L’éditeur revient à ce qu’il était avant le Dock virtuel : l’aperçu est de nouveau le Bureau fictif (sans votre Dock ni votre fond d’écran), et les boutons « Enregistrer et appliquer », « Annuler » et le menu sont dans l’en-tête de chaque Dossier.
+- Conservés : la visite de bienvenue animée et ses corrections, et le premier Dossier toujours sélectionné quand des Dossiers existent.

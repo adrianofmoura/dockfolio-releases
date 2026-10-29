@@ -1,0 +1,2 @@
+- L’editor torna com’era prima del Dock virtuale: l’anteprima è di nuovo la Scrivania fittizia (senza il tuo Dock e il tuo sfondo), e i pulsanti “Salva e applica”, “Scarta” e il menu stanno nell’intestazione di ogni Cartella.
+- Mantenuti: il tour di benvenuto animato e le sue correzioni, e la prima Cartella sempre selezionata quando esistono Cartelle.

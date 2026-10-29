@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.9.6",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- O editor voltou ao jeito de antes do Dock virtual: a prévia é de novo a Mesa fictícia (sem o seu Dock e o seu papel de parede), e os botões “Salvar e aplicar”, “Descartar” e o menu ficam no cabeçalho de cada Pasta.\n- Mantidos: o tour de boas-vindas animado e suas correções, e a primeira Pasta sempre selecionada quando existem Pastas.",
+        "en": "- The editor is back to how it was before the virtual Dock: the preview is the fictional Desk again (without your Dock and your wallpaper), and the “Save and Apply”, “Discard” buttons and the menu are in each Folder’s header.\n- Kept: the animated welcome tour and its fixes, and the first Folder always being selected when Folders exist.",
+        "es": "- El editor vuelve a ser como antes del Dock virtual: la vista previa es de nuevo el Escritorio ficticio (sin tu Dock ni tu fondo de pantalla), y los botones «Guardar y aplicar», «Descartar» y el menú están en el encabezado de cada Carpeta.\n- Se mantienen: el tour de bienvenida animado y sus correcciones, y que la primera Carpeta quede siempre elegida cuando hay Carpetas.",
+        "fr": "- L’éditeur revient à ce qu’il était avant le Dock virtuel : l’aperçu est de nouveau le Bureau fictif (sans votre Dock ni votre fond d’écran), et les boutons « Enregistrer et appliquer », « Annuler » et le menu sont dans l’en-tête de chaque Dossier.\n- Conservés : la visite de bienvenue animée et ses corrections, et le premier Dossier toujours sélectionné quand des Dossiers existent.",
+        "de": "- Der Editor ist wieder wie vor dem virtuellen Dock: Die Vorschau ist wieder der fiktive Schreibtisch (ohne dein Dock und dein Hintergrundbild), und die Schaltflächen „Sichern und anwenden“, „Verwerfen“ sowie das Menü stehen in der Kopfzeile jedes Ordners.\n- Beibehalten: die animierte Willkommenstour samt Korrekturen und dass immer der erste Ordner gewählt ist, wenn Ordner existieren.",
+        "it": "- L’editor torna com’era prima del Dock virtuale: l’anteprima è di nuovo la Scrivania fittizia (senza il tuo Dock e il tuo sfondo), e i pulsanti “Salva e applica”, “Scarta” e il menu stanno nell’intestazione di ogni Cartella.\n- Mantenuti: il tour di benvenuto animato e le sue correzioni, e la prima Cartella sempre selezionata quando esistono Cartelle.",
+        "ja": "- 編集画面を、仮想Dockより前の状態に戻しました。プレビューは再び架空のデスクトップ（あなたのDockや壁紙は使いません）で、「保存して適用」「破棄」ボタンとメニューは各フォルダの見出しにあります。\n- そのまま残したもの：アニメーションのウェルカムツアーとその修正、およびフォルダがあるときは最初のフォルダを常に選択する動作。",
+        "ko": "- 편집 화면을 가상 Dock 이전 상태로 되돌렸습니다. 미리보기는 다시 가상의 데스크(내 Dock과 배경화면은 사용하지 않음)이고, ‘저장하고 적용’, ‘취소’ 버튼과 메뉴는 각 폴더의 머리글에 있습니다.\n- 유지한 것: 애니메이션 환영 투어와 그 수정 사항, 그리고 폴더가 있을 때 항상 첫 번째 폴더가 선택되는 동작.",
+        "zh-Hans": "- 编辑界面已恢复到虚拟 Dock 之前的样子：预览又是虚构的桌面（不使用你的 Dock 和桌面背景），“存储并应用”“放弃”按钮和菜单位于每个文件夹的标题栏中。\n- 保留的内容：动画欢迎导览及其修复，以及有文件夹时始终选中第一个文件夹。",
+        "ru": "- Редактор снова такой, каким был до виртуального Dock: предпросмотр — снова вымышленный стол (без вашего Dock и ваших обоев), а кнопки «Сохранить и применить», «Отменить» и меню находятся в заголовке каждой Папки.\n- Сохранено: анимированный приветственный тур с исправлениями и то, что при наличии Папок всегда выбрана первая."
+      }
+    },
+    {
       "version": "0.9.5",
       "date": "2026-10-29",
       "notes": {

@@ -1,0 +1,2 @@
+- Der Editor ist wieder wie vor dem virtuellen Dock: Die Vorschau ist wieder der fiktive Schreibtisch (ohne dein Dock und dein Hintergrundbild), und die Schaltflächen „Sichern und anwenden“, „Verwerfen“ sowie das Menü stehen in der Kopfzeile jedes Ordners.
+- Beibehalten: die animierte Willkommenstour samt Korrekturen und dass immer der erste Ordner gewählt ist, wenn Ordner existieren.

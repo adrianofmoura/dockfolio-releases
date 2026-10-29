@@ -1,0 +1,2 @@
+- O editor voltou ao jeito de antes do Dock virtual: a prévia é de novo a Mesa fictícia (sem o seu Dock e o seu papel de parede), e os botões “Salvar e aplicar”, “Descartar” e o menu ficam no cabeçalho de cada Pasta.
+- Mantidos: o tour de boas-vindas animado e suas correções, e a primeira Pasta sempre selecionada quando existem Pastas.

@@ -1,0 +1,2 @@
+- El editor vuelve a ser como antes del Dock virtual: la vista previa es de nuevo el Escritorio ficticio (sin tu Dock ni tu fondo de pantalla), y los botones «Guardar y aplicar», «Descartar» y el menú están en el encabezado de cada Carpeta.
+- Se mantienen: el tour de bienvenida animado y sus correcciones, y que la primera Carpeta quede siempre elegida cuando hay Carpetas.

@@ -1,0 +1,2 @@
+- The editor is back to how it was before the virtual Dock: the preview is the fictional Desk again (without your Dock and your wallpaper), and the “Save and Apply”, “Discard” buttons and the menu are in each Folder’s header.
+- Kept: the animated welcome tour and its fixes, and the first Folder always being selected when Folders exist.
