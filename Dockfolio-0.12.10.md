@@ -1,0 +1,2 @@
+- The tour follows your Mac's appearance: the windows and menus in the animation turn dark when your Mac is in dark mode.
+- Simpler wording: "Open when you log in" and "Name your Folder".

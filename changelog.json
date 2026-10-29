@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.10",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- O tour acompanha o tema do Mac: as janelas e menus da animação ficam escuros quando o Mac está no modo escuro.\n- Textos mais simples: \"Abrir ao iniciar o Mac\" e \"Dê um nome à sua Pasta\".",
+        "en": "- The tour follows your Mac's appearance: the windows and menus in the animation turn dark when your Mac is in dark mode.\n- Simpler wording: \"Open when you log in\" and \"Name your Folder\".",
+        "es": "- El tour sigue el tema del Mac: las ventanas y menús de la animación se ven oscuros cuando el Mac está en modo oscuro.\n- Textos más simples: «Abrir al iniciar el Mac» y «Ponle un nombre a tu Carpeta».",
+        "fr": "- Le tour suit l'apparence du Mac : les fenêtres et menus de l'animation passent en sombre quand le Mac est en mode sombre.\n- Textes simplifiés : « Ouvrir au démarrage du Mac » et « Donnez un nom à votre Dossier ».",
+        "de": "- Die Tour folgt dem Erscheinungsbild des Macs: Fenster und Menüs in der Animation werden dunkel, wenn der Mac im Dunkelmodus ist.\n- Einfachere Texte: „Beim Anmelden öffnen“ und „Gib deinem Ordner einen Namen“.",
+        "it": "- Il tour segue l'aspetto del Mac: le finestre e i menu dell'animazione diventano scuri quando il Mac è in modalità scura.\n- Testi più semplici: «Apri all'avvio del Mac» e «Dai un nome alla tua Cartella».",
+        "ja": "- ツアーがMacの外観に合わせます。Macがダークモードのとき、アニメーション内のウインドウとメニューも暗くなります。\n- 文言をシンプルにしました：「Mac の起動時に開く」「フォルダに名前を付けましょう」。",
+        "ko": "- 투어가 Mac의 화면 모드를 따릅니다. Mac이 다크 모드이면 애니메이션 속 창과 메뉴도 어두워집니다.\n- 문구를 간단하게 다듬었습니다: \"Mac를 시작할 때 열기\", \"폴더 이름을 지어 주세요\".",
+        "zh-Hans": "- 导览会跟随 Mac 的外观：Mac 处于深色模式时，动画中的窗口和菜单也会变为深色。\n- 文案更简洁：“开机时打开”“为你的文件夹命名”。",
+        "ru": "- Обучение следует теме Mac: окна и меню в анимации становятся тёмными, когда на Mac включён тёмный режим.\n- Более простые тексты: «Открывать при входе» и «Назовите свою папку»."
+      }
+    },
+    {
       "version": "0.12.9",
       "date": "2026-10-29",
       "notes": {

@@ -1,0 +1,2 @@
+- Die Tour folgt dem Erscheinungsbild des Macs: Fenster und Menüs in der Animation werden dunkel, wenn der Mac im Dunkelmodus ist.
+- Einfachere Texte: „Beim Anmelden öffnen“ und „Gib deinem Ordner einen Namen“.

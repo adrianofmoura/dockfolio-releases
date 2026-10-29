@@ -1,0 +1,2 @@
+- O tour acompanha o tema do Mac: as janelas e menus da animação ficam escuros quando o Mac está no modo escuro.
+- Textos mais simples: "Abrir ao iniciar o Mac" e "Dê um nome à sua Pasta".

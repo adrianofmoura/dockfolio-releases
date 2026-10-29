@@ -1,0 +1,2 @@
+- Le tour suit l'apparence du Mac : les fenêtres et menus de l'animation passent en sombre quand le Mac est en mode sombre.
+- Textes simplifiés : « Ouvrir au démarrage du Mac » et « Donnez un nom à votre Dossier ».

@@ -1,0 +1,2 @@
+- Il tour segue l'aspetto del Mac: le finestre e i menu dell'animazione diventano scuri quando il Mac è in modalità scura.
+- Testi più semplici: «Apri all'avvio del Mac» e «Dai un nome alla tua Cartella».

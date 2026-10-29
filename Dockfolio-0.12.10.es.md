@@ -1,0 +1,2 @@
+- El tour sigue el tema del Mac: las ventanas y menús de la animación se ven oscuros cuando el Mac está en modo oscuro.
+- Textos más simples: «Abrir al iniciar el Mac» y «Ponle un nombre a tu Carpeta».
