@@ -1,0 +1,1 @@
+- Nuova icona di Dockfolio: una cartella aperta di vetro smerigliato con app all'interno, nelle versioni chiara e scura.

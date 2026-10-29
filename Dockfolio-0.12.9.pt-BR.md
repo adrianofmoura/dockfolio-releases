@@ -1,0 +1,1 @@
+- Novo ícone do Dockfolio: uma pasta aberta de vidro fosco com apps dentro, nas versões clara e escura.

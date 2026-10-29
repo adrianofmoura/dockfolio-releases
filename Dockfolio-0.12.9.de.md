@@ -1,0 +1,1 @@
+- Neues Dockfolio-Symbol: ein offener Ordner aus Milchglas mit Apps darin, in hellen und dunklen Varianten.

@@ -1,0 +1,1 @@
+- Nouvelle icône de Dockfolio : un dossier ouvert en verre dépoli avec des apps à l'intérieur, en versions claire et sombre.

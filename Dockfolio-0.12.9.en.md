@@ -1,0 +1,1 @@
+- New Dockfolio icon: an open frosted-glass folder with apps inside, in light and dark versions.

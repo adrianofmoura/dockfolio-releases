@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.9",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Novo ícone do Dockfolio: uma pasta aberta de vidro fosco com apps dentro, nas versões clara e escura.",
+        "en": "- New Dockfolio icon: an open frosted-glass folder with apps inside, in light and dark versions.",
+        "es": "- Nuevo icono de Dockfolio: una carpeta abierta de vidrio esmerilado con apps dentro, en versiones clara y oscura.",
+        "fr": "- Nouvelle icône de Dockfolio : un dossier ouvert en verre dépoli avec des apps à l'intérieur, en versions claire et sombre.",
+        "de": "- Neues Dockfolio-Symbol: ein offener Ordner aus Milchglas mit Apps darin, in hellen und dunklen Varianten.",
+        "it": "- Nuova icona di Dockfolio: una cartella aperta di vetro smerigliato con app all'interno, nelle versioni chiara e scura.",
+        "ja": "- 新しいDockfolioアイコン：Appが入った、すりガラスの開いたフォルダ。ライト版とダーク版があります。",
+        "ko": "- 새 Dockfolio 아이콘: 앱이 들어 있는 불투명 유리 질감의 열린 폴더입니다. 라이트·다크 버전이 있습니다.",
+        "zh-Hans": "- 全新的 Dockfolio 图标：一个磨砂玻璃的打开的文件夹，里面有 App，提供浅色和深色版本。",
+        "ru": "- Новый значок Dockfolio: открытая папка из матового стекла с приложениями внутри, в светлой и тёмной версиях."
+      }
+    },
+    {
       "version": "0.12.8",
       "date": "2026-10-29",
       "notes": {
