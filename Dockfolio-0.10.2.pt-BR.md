@@ -1,0 +1,1 @@
+- Corrigido: os botões de “Fileiras” (1, 2, 3, 4) não faziam nada e voltavam para “Auto”. Agora a escolha vale na hora, na prévia e ao salvar.

@@ -1,0 +1,1 @@
+- Corrigé : les boutons « Rangées » (1, 2, 3, 4) ne faisaient rien et revenaient à « Auto ». Le choix s’applique maintenant tout de suite, dans l’aperçu et à l’enregistrement.

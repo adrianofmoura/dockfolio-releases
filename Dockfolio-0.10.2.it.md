@@ -1,0 +1,1 @@
+- Corretto: i pulsanti “File” (1, 2, 3, 4) non facevano nulla e tornavano su “Auto”. Ora la scelta vale subito, nell’anteprima e al salvataggio.

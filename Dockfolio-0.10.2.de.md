@@ -1,0 +1,1 @@
+- Behoben: Die Schaltflächen „Reihen“ (1, 2, 3, 4) taten nichts und sprangen auf „Auto“ zurück. Die Auswahl gilt jetzt sofort, in der Vorschau und beim Sichern.

@@ -1,0 +1,1 @@
+- Fixed: the “Rows” buttons (1, 2, 3, 4) did nothing and jumped back to “Auto”. The choice now applies right away, in the preview and when saving.

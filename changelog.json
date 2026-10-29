@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.10.2",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Corrigido: os botões de “Fileiras” (1, 2, 3, 4) não faziam nada e voltavam para “Auto”. Agora a escolha vale na hora, na prévia e ao salvar.",
+        "en": "- Fixed: the “Rows” buttons (1, 2, 3, 4) did nothing and jumped back to “Auto”. The choice now applies right away, in the preview and when saving.",
+        "es": "- Corregido: los botones de «Filas» (1, 2, 3, 4) no hacían nada y volvían a «Auto». Ahora la elección se aplica al instante, en la vista previa y al guardar.",
+        "fr": "- Corrigé : les boutons « Rangées » (1, 2, 3, 4) ne faisaient rien et revenaient à « Auto ». Le choix s’applique maintenant tout de suite, dans l’aperçu et à l’enregistrement.",
+        "de": "- Behoben: Die Schaltflächen „Reihen“ (1, 2, 3, 4) taten nichts und sprangen auf „Auto“ zurück. Die Auswahl gilt jetzt sofort, in der Vorschau und beim Sichern.",
+        "it": "- Corretto: i pulsanti “File” (1, 2, 3, 4) non facevano nulla e tornavano su “Auto”. Ora la scelta vale subito, nell’anteprima e al salvataggio.",
+        "ja": "- 修正：「行数」のボタン（1、2、3、4）が何も起こさず「自動」に戻ってしまう問題を直しました。選択がすぐにプレビューに反映され、保存時にも有効になります。",
+        "ko": "- 수정: ‘줄 수’ 버튼(1, 2, 3, 4)이 아무 반응 없이 ‘자동’으로 돌아가던 문제를 고쳤습니다. 이제 선택이 즉시 미리보기에 반영되고 저장할 때도 적용됩니다.",
+        "zh-Hans": "- 修复：“行数”按钮（1、2、3、4）点按后没有反应并跳回“自动”。现在选择会立即生效，预览和存储时都适用。",
+        "ru": "- Исправлено: кнопки «Ряды» (1, 2, 3, 4) ничего не делали и возвращались на «Авто». Теперь выбор применяется сразу — в предпросмотре и при сохранении."
+      }
+    },
+    {
       "version": "0.10.1",
       "date": "2026-10-29",
       "notes": {

@@ -1,0 +1,1 @@
+- Corregido: los botones de «Filas» (1, 2, 3, 4) no hacían nada y volvían a «Auto». Ahora la elección se aplica al instante, en la vista previa y al guardar.
