@@ -1,0 +1,3 @@
+- Novità: il Dock virtuale dell’editor ora è il tuo Dock vero. Mostra le app fissate, in ordine, sul tuo sfondo, e la Cartella compare accanto al Cestino.
+- Trascina la Cartella dove vuoi tra le app. Il posto vale quando salvi e applichi: cambia solo la posizione della Cartella, gli altri elementi del Dock restano come sono.
+- Impostazioni > Avanzate > Dock: “Ripristina il Dock precedente”. Dockfolio conserva una copia del Dock prima di ogni modifica.

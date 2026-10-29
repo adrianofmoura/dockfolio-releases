@@ -1,0 +1,3 @@
+- Neu: Das virtuelle Dock im Editor ist jetzt dein echtes Dock. Es zeigt deine angehefteten Apps in Reihenfolge auf deinem Hintergrund, und der Ordner erscheint neben dem Papierkorb.
+- Ziehe den Ordner an eine beliebige Stelle zwischen die Apps. Der Platz gilt beim Sichern und Anwenden: Nur die Position des Ordners ändert sich, die übrigen Dock-Objekte bleiben unverändert.
+- Einstellungen > Erweitert > Dock: „Vorheriges Dock wiederherstellen“. Dockfolio sichert vor jeder Änderung eine Kopie des Docks.

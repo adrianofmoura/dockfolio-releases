@@ -1,0 +1,3 @@
+- Novo: o Dock virtual da edição agora é o seu Dock de verdade. Mostra os apps fixados, na ordem em que estão, com o seu papel de parede, e a Pasta aparece ao lado da Lixeira.
+- Arraste a Pasta para qualquer lugar entre os apps. O lugar vale quando você salva e aplica: só a posição da Pasta muda, os outros itens do Dock ficam como estão.
+- Ajustes > Avançado > Dock: “Voltar ao Dock anterior”. O Dockfolio guarda uma cópia do Dock antes de cada mudança.

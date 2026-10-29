@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.8.0",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Novo: o Dock virtual da edição agora é o seu Dock de verdade. Mostra os apps fixados, na ordem em que estão, com o seu papel de parede, e a Pasta aparece ao lado da Lixeira.\n- Arraste a Pasta para qualquer lugar entre os apps. O lugar vale quando você salva e aplica: só a posição da Pasta muda, os outros itens do Dock ficam como estão.\n- Ajustes > Avançado > Dock: “Voltar ao Dock anterior”. O Dockfolio guarda uma cópia do Dock antes de cada mudança.",
+        "en": "- New: the virtual Dock in the editor is now your real Dock. It shows your pinned apps, in order, over your wallpaper, and the Folder appears next to the Trash.\n- Drag the Folder anywhere between the apps. The place applies when you save and apply: only the Folder’s position changes, the other Dock items stay as they are.\n- Settings > Advanced > Dock: “Restore the previous Dock”. Dockfolio keeps a copy of the Dock before every change.",
+        "es": "- Novedad: el Dock virtual del editor ahora es tu Dock real. Muestra tus apps fijadas, en orden, sobre tu fondo de pantalla, y la Carpeta aparece junto a la Papelera.\n- Arrastra la Carpeta a cualquier lugar entre las apps. El lugar se aplica al guardar y aplicar: solo cambia la posición de la Carpeta, los demás elementos del Dock quedan como están.\n- Ajustes > Avanzado > Dock: «Volver al Dock anterior». Dockfolio guarda una copia del Dock antes de cada cambio.",
+        "fr": "- Nouveau : le Dock virtuel de l’édition est maintenant votre vrai Dock. Il montre vos apps épinglées, dans l’ordre, sur votre fond d’écran, et le Dossier apparaît à côté de la Corbeille.\n- Faites glisser le Dossier où vous voulez entre les apps. La place s’applique quand vous enregistrez et appliquez : seule la position du Dossier change, les autres éléments du Dock restent tels quels.\n- Réglages > Avancé > Dock : « Revenir au Dock précédent ». Dockfolio garde une copie du Dock avant chaque changement.",
+        "de": "- Neu: Das virtuelle Dock im Editor ist jetzt dein echtes Dock. Es zeigt deine angehefteten Apps in Reihenfolge auf deinem Hintergrund, und der Ordner erscheint neben dem Papierkorb.\n- Ziehe den Ordner an eine beliebige Stelle zwischen die Apps. Der Platz gilt beim Sichern und Anwenden: Nur die Position des Ordners ändert sich, die übrigen Dock-Objekte bleiben unverändert.\n- Einstellungen > Erweitert > Dock: „Vorheriges Dock wiederherstellen“. Dockfolio sichert vor jeder Änderung eine Kopie des Docks.",
+        "it": "- Novità: il Dock virtuale dell’editor ora è il tuo Dock vero. Mostra le app fissate, in ordine, sul tuo sfondo, e la Cartella compare accanto al Cestino.\n- Trascina la Cartella dove vuoi tra le app. Il posto vale quando salvi e applichi: cambia solo la posizione della Cartella, gli altri elementi del Dock restano come sono.\n- Impostazioni > Avanzate > Dock: “Ripristina il Dock precedente”. Dockfolio conserva una copia del Dock prima di ogni modifica.",
+        "ja": "- 新機能：編集画面の仮想Dockが、あなたの本物のDockになりました。固定したアプリを実際の順番で、壁紙の上に表示し、フォルダはゴミ箱の隣に現れます。\n- フォルダをアプリの間の好きな場所へドラッグできます。位置は保存して適用したときに反映され、変わるのはフォルダの位置だけで、ほかのDockの項目はそのままです。\n- 「設定」>「詳細」>「Dock」に「以前のDockに戻す」を追加。Dockfolioは変更のたびにDockのコピーを保存します。",
+        "ko": "- 새 기능: 편집 화면의 가상 Dock이 이제 실제 Dock입니다. 고정한 앱을 실제 순서대로 배경화면 위에 보여 주고, 폴더는 휴지통 옆에 나타납니다.\n- 폴더를 앱 사이 원하는 곳으로 드래그하세요. 위치는 저장하고 적용할 때 반영되며, 폴더의 위치만 바뀌고 다른 Dock 항목은 그대로입니다.\n- 설정 > 고급 > Dock: ‘이전 Dock으로 되돌리기’. Dockfolio는 변경할 때마다 Dock의 사본을 보관합니다.",
+        "zh-Hans": "- 新功能：编辑界面里的虚拟 Dock 现在就是你真实的 Dock。它按顺序显示你固定的 App，铺在你的桌面背景上，文件夹出现在废纸篓旁边。\n- 把文件夹拖到 App 之间的任意位置。位置会在你存储并应用时生效：只有文件夹的位置会变，Dock 中的其他项目保持不变。\n- “设置”>“高级”>“Dock”：“恢复到之前的 Dock”。Dockfolio 会在每次更改之前保存一份 Dock 的副本。",
+        "ru": "- Новое: виртуальный Dock в редакторе теперь — ваш настоящий Dock. Он показывает закреплённые приложения по порядку на ваших обоях, а Папка появляется рядом с Корзиной.\n- Перетащите Папку в любое место между приложениями. Место применяется при сохранении и применении: меняется только положение Папки, остальные элементы Dock остаются как есть.\n- «Настройки» > «Дополнительно» > Dock: «Вернуть прежний Dock». Dockfolio сохраняет копию Dock перед каждым изменением."
+      }
+    },
+    {
       "version": "0.7.4",
       "date": "2026-10-28",
       "notes": {

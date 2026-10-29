@@ -1,0 +1,3 @@
+- Nouveau : le Dock virtuel de l’édition est maintenant votre vrai Dock. Il montre vos apps épinglées, dans l’ordre, sur votre fond d’écran, et le Dossier apparaît à côté de la Corbeille.
+- Faites glisser le Dossier où vous voulez entre les apps. La place s’applique quand vous enregistrez et appliquez : seule la position du Dossier change, les autres éléments du Dock restent tels quels.
+- Réglages > Avancé > Dock : « Revenir au Dock précédent ». Dockfolio garde une copie du Dock avant chaque changement.

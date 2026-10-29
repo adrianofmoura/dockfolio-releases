@@ -1,0 +1,3 @@
+- Novedad: el Dock virtual del editor ahora es tu Dock real. Muestra tus apps fijadas, en orden, sobre tu fondo de pantalla, y la Carpeta aparece junto a la Papelera.
+- Arrastra la Carpeta a cualquier lugar entre las apps. El lugar se aplica al guardar y aplicar: solo cambia la posición de la Carpeta, los demás elementos del Dock quedan como están.
+- Ajustes > Avanzado > Dock: «Volver al Dock anterior». Dockfolio guarda una copia del Dock antes de cada cambio.

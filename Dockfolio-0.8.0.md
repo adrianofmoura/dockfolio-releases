@@ -1,0 +1,3 @@
+- New: the virtual Dock in the editor is now your real Dock. It shows your pinned apps, in order, over your wallpaper, and the Folder appears next to the Trash.
+- Drag the Folder anywhere between the apps. The place applies when you save and apply: only the Folder’s position changes, the other Dock items stay as they are.
+- Settings > Advanced > Dock: “Restore the previous Dock”. Dockfolio keeps a copy of the Dock before every change.
