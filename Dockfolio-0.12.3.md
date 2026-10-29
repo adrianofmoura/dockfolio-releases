@@ -1,0 +1,1 @@
+- New Dockfolio icon, designed in Apple's Icon Composer, with light and dark versions that follow the system theme (macOS 26 or later).

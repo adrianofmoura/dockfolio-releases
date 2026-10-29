@@ -1,0 +1,1 @@
+- AppleのIcon Composerで作った新しいDockfolioアイコン。ライト版とダーク版があり、システムのテーマに合わせて切り替わります（macOS 26以降）。

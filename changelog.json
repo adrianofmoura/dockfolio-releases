@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.3",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Novo ícone do Dockfolio, desenhado no Icon Composer da Apple, com versões clara e escura que acompanham o tema do sistema (macOS 26 ou mais novo).",
+        "en": "- New Dockfolio icon, designed in Apple's Icon Composer, with light and dark versions that follow the system theme (macOS 26 or later).",
+        "es": "- Nuevo icono de Dockfolio, diseñado en el Icon Composer de Apple, con versiones clara y oscura que siguen el tema del sistema (macOS 26 o posterior).",
+        "fr": "- Nouvelle icône de Dockfolio, conçue dans l'Icon Composer d'Apple, avec des versions claire et sombre qui suivent le thème du système (macOS 26 ou version ultérieure).",
+        "de": "- Neues Dockfolio-Symbol, gestaltet im Icon Composer von Apple, mit hellen und dunklen Varianten, die dem Systemthema folgen (ab macOS 26).",
+        "it": "- Nuova icona di Dockfolio, progettata con l'Icon Composer di Apple, con versioni chiara e scura che seguono il tema del sistema (macOS 26 o successivo).",
+        "ja": "- AppleのIcon Composerで作った新しいDockfolioアイコン。ライト版とダーク版があり、システムのテーマに合わせて切り替わります（macOS 26以降）。",
+        "ko": "- Apple의 Icon Composer로 만든 새 Dockfolio 아이콘입니다. 라이트·다크 버전이 시스템 테마를 따릅니다(macOS 26 이상).",
+        "zh-Hans": "- 使用 Apple 的 Icon Composer 设计的新 Dockfolio 图标，提供浅色和深色版本，并跟随系统主题切换（macOS 26 或更高版本）。",
+        "ru": "- Новый значок Dockfolio, созданный в Icon Composer от Apple, со светлой и тёмной версиями, которые следуют теме системы (macOS 26 и новее)."
+      }
+    },
+    {
       "version": "0.12.2",
       "date": "2026-10-29",
       "notes": {

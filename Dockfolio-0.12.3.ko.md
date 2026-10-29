@@ -1,0 +1,1 @@
+- Apple의 Icon Composer로 만든 새 Dockfolio 아이콘입니다. 라이트·다크 버전이 시스템 테마를 따릅니다(macOS 26 이상).

@@ -1,0 +1,1 @@
+- Nouvelle icône de Dockfolio, conçue dans l'Icon Composer d'Apple, avec des versions claire et sombre qui suivent le thème du système (macOS 26 ou version ultérieure).

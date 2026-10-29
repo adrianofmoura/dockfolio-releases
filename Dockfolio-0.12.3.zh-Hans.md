@@ -1,0 +1,1 @@
+- 使用 Apple 的 Icon Composer 设计的新 Dockfolio 图标，提供浅色和深色版本，并跟随系统主题切换（macOS 26 或更高版本）。

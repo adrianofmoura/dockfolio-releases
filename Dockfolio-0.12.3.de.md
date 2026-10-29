@@ -1,0 +1,1 @@
+- Neues Dockfolio-Symbol, gestaltet im Icon Composer von Apple, mit hellen und dunklen Varianten, die dem Systemthema folgen (ab macOS 26).
