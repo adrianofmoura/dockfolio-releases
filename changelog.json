@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.8",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Novo ícone do Dockfolio: uma pasta de vidro com uma fila de apps recuando em perspectiva, nas versões clara e escura.",
+        "en": "- New Dockfolio icon: a glass folder with a row of apps receding in perspective, in light and dark versions.",
+        "es": "- Nuevo icono de Dockfolio: una carpeta de vidrio con una fila de apps que se aleja en perspectiva, en versiones clara y oscura.",
+        "fr": "- Nouvelle icône de Dockfolio : un dossier de verre avec une rangée d'apps qui s'éloigne en perspective, en versions claire et sombre.",
+        "de": "- Neues Dockfolio-Symbol: ein gläserner Ordner mit einer Reihe von Apps, die perspektivisch zurücktreten, in hellen und dunklen Varianten.",
+        "it": "- Nuova icona di Dockfolio: una cartella di vetro con una fila di app che si allontana in prospettiva, nelle versioni chiara e scura.",
+        "ja": "- 新しいDockfolioアイコン：遠近感をつけて奥へ並ぶAppの列を収めたガラスのフォルダ。ライト版とダーク版があります。",
+        "ko": "- 새 Dockfolio 아이콘: 원근감 있게 뒤로 물러나는 앱 줄을 담은 유리 폴더입니다. 라이트·다크 버전이 있습니다.",
+        "zh-Hans": "- 全新的 Dockfolio 图标：一个玻璃文件夹，里面是按透视向后排列的一行 App，提供浅色和深色版本。",
+        "ru": "- Новый значок Dockfolio: стеклянная папка с рядом приложений, уходящим вдаль в перспективе, в светлой и тёмной версиях."
+      }
+    },
+    {
       "version": "0.12.7",
       "date": "2026-10-29",
       "notes": {

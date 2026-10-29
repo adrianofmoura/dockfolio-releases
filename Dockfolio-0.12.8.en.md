@@ -1,0 +1,1 @@
+- New Dockfolio icon: a glass folder with a row of apps receding in perspective, in light and dark versions.

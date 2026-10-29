@@ -1,0 +1,1 @@
+- Nuevo icono de Dockfolio: una carpeta de vidrio con una fila de apps que se aleja en perspectiva, en versiones clara y oscura.

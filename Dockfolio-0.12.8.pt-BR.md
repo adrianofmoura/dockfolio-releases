@@ -1,0 +1,1 @@
+- Novo ícone do Dockfolio: uma pasta de vidro com uma fila de apps recuando em perspectiva, nas versões clara e escura.

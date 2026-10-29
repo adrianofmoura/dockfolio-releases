@@ -1,0 +1,1 @@
+- Neues Dockfolio-Symbol: ein gläserner Ordner mit einer Reihe von Apps, die perspektivisch zurücktreten, in hellen und dunklen Varianten.
