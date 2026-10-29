@@ -1,0 +1,1 @@
+- Trascinare un’app fuori dalla Cartella è ora più elegante: l’icona arriva fino al confine della Cartella (il bordo del vetro) e rimpicciolisce lungo il percorso, senza mai essere tagliata. Fuori dal vetro sbiadisce e riceve un cestino vuoto grigio scuro, con la didascalia “Rimuovi dalla cartella” sotto. Rilasciarla lì toglie l’app dalla Cartella.

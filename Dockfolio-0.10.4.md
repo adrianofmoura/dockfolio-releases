@@ -1,0 +1,1 @@
+- Dragging an app out of the Folder is more elegant now: the icon travels to the Folder’s boundary (the edge of the glass) and shrinks along the way, never getting cut off. Outside the glass it fades and gets a hollow dark-gray trash can, with the caption “Remove from Folder” below. Releasing there takes the app out of the Folder.

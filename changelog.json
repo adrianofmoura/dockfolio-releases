@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.10.4",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Arrastar um app para fora da Pasta ficou mais elegante: o ícone vai até a fronteira da Pasta (a borda do vidro) e, no caminho, vai encolhendo, sem nunca ser cortado. Fora do vidro ele esmaece e ganha uma lixeira vazada em cinza escuro, com a legenda “Remover da pasta” embaixo. Soltar ali tira o app da Pasta.",
+        "en": "- Dragging an app out of the Folder is more elegant now: the icon travels to the Folder’s boundary (the edge of the glass) and shrinks along the way, never getting cut off. Outside the glass it fades and gets a hollow dark-gray trash can, with the caption “Remove from Folder” below. Releasing there takes the app out of the Folder.",
+        "es": "- Arrastrar una app fuera de la Carpeta es ahora más elegante: el icono llega hasta la frontera de la Carpeta (el borde del vidrio) y va encogiéndose por el camino, sin que se corte. Fuera del vidrio se atenúa y recibe una papelera hueca en gris oscuro, con la leyenda «Quitar de la carpeta» debajo. Al soltarlo ahí, la app sale de la Carpeta.",
+        "fr": "- Faire glisser une app hors du Dossier est plus élégant : l’icône va jusqu’à la frontière du Dossier (le bord du verre) en rétrécissant en chemin, sans jamais être coupée. Hors du verre, elle s’estompe et reçoit une corbeille ajourée gris foncé, avec la légende « Retirer du dossier » en dessous. La lâcher là retire l’app du Dossier.",
+        "de": "- Das Herausziehen einer App aus dem Ordner ist jetzt eleganter: Das Symbol bewegt sich bis zur Grenze des Ordners (dem Rand des Glases) und wird unterwegs kleiner, ohne je abgeschnitten zu werden. Außerhalb des Glases verblasst es und erhält einen dunkelgrauen Papierkorb als Umriss mit der Beschriftung „Aus dem Ordner entfernen“ darunter. Lässt man es dort los, verlässt die App den Ordner.",
+        "it": "- Trascinare un’app fuori dalla Cartella è ora più elegante: l’icona arriva fino al confine della Cartella (il bordo del vetro) e rimpicciolisce lungo il percorso, senza mai essere tagliata. Fuori dal vetro sbiadisce e riceve un cestino vuoto grigio scuro, con la didascalia “Rimuovi dalla cartella” sotto. Rilasciarla lì toglie l’app dalla Cartella.",
+        "ja": "- アプリをフォルダの外へドラッグする操作を、より洗練させました。アイコンはフォルダの境界（ガラスの端）まで進み、その途中で小さくなるので、切れて見えなくなることはありません。ガラスの外では薄くなり、濃いグレーの線画のゴミ箱と、その下に「フォルダから削除」の文字が表示されます。そこで離すと、アプリがフォルダから外れます。",
+        "ko": "- 앱을 폴더 밖으로 끄는 동작이 더 세련되어졌습니다. 아이콘이 폴더의 경계(유리의 가장자리)까지 가면서 점점 작아져 잘리는 일이 없습니다. 유리 밖에서는 아이콘이 흐려지고 짙은 회색의 윤곽선 휴지통과 그 아래 ‘폴더에서 제거’ 문구가 나타납니다. 거기서 놓으면 앱이 폴더에서 빠집니다.",
+        "zh-Hans": "- 把 App 拖出文件夹的体验更优雅了：图标会移动到文件夹的边界（玻璃边缘），沿途逐渐缩小，不会被截断。在玻璃之外，它会变淡，并出现深灰色的镂空废纸篓，下方显示“从文件夹中移除”。在那里松开，就会把 App 从文件夹中移除。",
+        "ru": "- Вытаскивание приложения из Папки стало изящнее: значок доходит до границы Папки (края стекла) и по пути уменьшается, не обрезаясь. За пределами стекла он бледнеет, а поверх появляется контурная тёмно-серая корзина с подписью «Убрать из папки» ниже. Если отпустить там, приложение уходит из Папки."
+      }
+    },
+    {
       "version": "0.10.3",
       "date": "2026-10-29",
       "notes": {

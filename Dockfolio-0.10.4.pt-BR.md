@@ -1,0 +1,1 @@
+- Arrastar um app para fora da Pasta ficou mais elegante: o ícone vai até a fronteira da Pasta (a borda do vidro) e, no caminho, vai encolhendo, sem nunca ser cortado. Fora do vidro ele esmaece e ganha uma lixeira vazada em cinza escuro, com a legenda “Remover da pasta” embaixo. Soltar ali tira o app da Pasta.

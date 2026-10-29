@@ -1,0 +1,1 @@
+- Arrastrar una app fuera de la Carpeta es ahora más elegante: el icono llega hasta la frontera de la Carpeta (el borde del vidrio) y va encogiéndose por el camino, sin que se corte. Fuera del vidrio se atenúa y recibe una papelera hueca en gris oscuro, con la leyenda «Quitar de la carpeta» debajo. Al soltarlo ahí, la app sale de la Carpeta.

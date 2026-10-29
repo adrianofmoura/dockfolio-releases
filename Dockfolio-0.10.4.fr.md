@@ -1,0 +1,1 @@
+- Faire glisser une app hors du Dossier est plus élégant : l’icône va jusqu’à la frontière du Dossier (le bord du verre) en rétrécissant en chemin, sans jamais être coupée. Hors du verre, elle s’estompe et reçoit une corbeille ajourée gris foncé, avec la légende « Retirer du dossier » en dessous. La lâcher là retire l’app du Dossier.
