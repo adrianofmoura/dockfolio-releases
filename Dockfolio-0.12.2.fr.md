@@ -1,0 +1,1 @@
+- Nouvelle icône de Dockfolio, conçue dans l'Icon Composer d'Apple : un Dossier de verre avec des apps aux couleurs vives sur un fond bleu.

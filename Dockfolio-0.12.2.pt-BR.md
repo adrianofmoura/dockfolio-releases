@@ -1,0 +1,1 @@
+- Novo ícone do Dockfolio, desenhado no Icon Composer da Apple: Pasta de vidro com os apps em cores vivas sobre um fundo azul.

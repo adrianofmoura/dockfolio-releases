@@ -1,0 +1,1 @@
+- Apple의 Icon Composer로 만든 새 Dockfolio 아이콘입니다. 파란 배경 위에 선명한 앱이 놓인 유리 폴더입니다.

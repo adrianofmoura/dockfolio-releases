@@ -1,0 +1,1 @@
+- 使用 Apple 的 Icon Composer 设计的新 Dockfolio 图标：蓝色背景上，玻璃文件夹中放着色彩鲜艳的 App。

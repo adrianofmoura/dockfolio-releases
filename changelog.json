@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.2",
+      "date": "2026-10-29",
+      "notes": {
+        "pt-BR": "- Novo ícone do Dockfolio, desenhado no Icon Composer da Apple: Pasta de vidro com os apps em cores vivas sobre um fundo azul.",
+        "en": "- New Dockfolio icon, designed in Apple's Icon Composer: a glass Folder with vivid apps over a blue background.",
+        "es": "- Nuevo icono de Dockfolio, diseñado en el Icon Composer de Apple: una Carpeta de vidrio con apps de colores vivos sobre un fondo azul.",
+        "fr": "- Nouvelle icône de Dockfolio, conçue dans l'Icon Composer d'Apple : un Dossier de verre avec des apps aux couleurs vives sur un fond bleu.",
+        "de": "- Neues Dockfolio-Symbol, gestaltet im Icon Composer von Apple: ein gläserner Ordner mit leuchtenden Apps auf blauem Hintergrund.",
+        "it": "- Nuova icona di Dockfolio, progettata con l'Icon Composer di Apple: una Cartella di vetro con app dai colori vivaci su sfondo blu.",
+        "ja": "- AppleのIcon Composerで作った新しいDockfolioアイコン。青い背景の上に、鮮やかなAppを並べたガラスのフォルダです。",
+        "ko": "- Apple의 Icon Composer로 만든 새 Dockfolio 아이콘입니다. 파란 배경 위에 선명한 앱이 놓인 유리 폴더입니다.",
+        "zh-Hans": "- 使用 Apple 的 Icon Composer 设计的新 Dockfolio 图标：蓝色背景上，玻璃文件夹中放着色彩鲜艳的 App。",
+        "ru": "- Новый значок Dockfolio, созданный в Icon Composer от Apple: стеклянная Папка с яркими приложениями на синем фоне."
+      }
+    },
+    {
       "version": "0.12.1",
       "date": "2026-10-29",
       "notes": {

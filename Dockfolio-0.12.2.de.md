@@ -1,0 +1,1 @@
+- Neues Dockfolio-Symbol, gestaltet im Icon Composer von Apple: ein gläserner Ordner mit leuchtenden Apps auf blauem Hintergrund.

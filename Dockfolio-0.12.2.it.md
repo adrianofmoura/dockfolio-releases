@@ -1,0 +1,1 @@
+- Nuova icona di Dockfolio, progettata con l'Icon Composer di Apple: una Cartella di vetro con app dai colori vivaci su sfondo blu.

@@ -1,0 +1,1 @@
+- New Dockfolio icon, designed in Apple's Icon Composer: a glass Folder with vivid apps over a blue background.

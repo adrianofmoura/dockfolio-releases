@@ -1,0 +1,1 @@
+- AppleのIcon Composerで作った新しいDockfolioアイコン。青い背景の上に、鮮やかなAppを並べたガラスのフォルダです。

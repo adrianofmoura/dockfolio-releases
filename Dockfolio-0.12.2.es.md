@@ -1,0 +1,1 @@
+- Nuevo icono de Dockfolio, diseñado en el Icon Composer de Apple: una Carpeta de vidrio con apps de colores vivos sobre un fondo azul.
