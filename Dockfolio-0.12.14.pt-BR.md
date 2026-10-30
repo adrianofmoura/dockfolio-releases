@@ -1,0 +1,2 @@
+- Corrigido: depois de mover as Pastas, "Mostrar no Finder" e outras ações usavam o caminho antigo; agora acompanham o lugar novo (e consertam sozinhas as configurações já afetadas).
+- "Fixar no Dock" passou para o menu da Pasta (botão ⋯ e botão direito), no lugar do botão no cabeçalho.

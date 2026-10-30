@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.14",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- Corrigido: depois de mover as Pastas, \"Mostrar no Finder\" e outras ações usavam o caminho antigo; agora acompanham o lugar novo (e consertam sozinhas as configurações já afetadas).\n- \"Fixar no Dock\" passou para o menu da Pasta (botão ⋯ e botão direito), no lugar do botão no cabeçalho.",
+        "en": "- Fixed: after moving the Folders, \"Show in Finder\" and other actions used the old path; they now follow the new location (and repair settings already affected).\n- \"Pin to Dock\" moved into the Folder's menu (the ⋯ button and right-click), instead of a button in the header.",
+        "es": "- Corregido: tras mover las Carpetas, «Mostrar en el Finder» y otras acciones usaban la ruta antigua; ahora siguen la nueva (y reparan solos los ajustes afectados).\n- «Fijar en el Dock» pasó al menú de la Carpeta (botón ⋯ y clic derecho), en lugar del botón del encabezado.",
+        "fr": "- Corrigé : après le déplacement des Dossiers, « Afficher dans le Finder » et d'autres actions utilisaient l'ancien chemin ; elles suivent maintenant le nouvel emplacement (et réparent seules les réglages touchés).\n- « Épingler au Dock » passe dans le menu du Dossier (bouton ⋯ et clic droit), à la place du bouton de l'en-tête.",
+        "de": "- Behoben: Nach dem Verschieben der Ordner nutzten „Im Finder zeigen“ und andere Aktionen den alten Pfad; sie folgen jetzt dem neuen Ort (und reparieren betroffene Einstellungen von selbst).\n- „Im Dock sichern“ steht jetzt im Menü des Ordners (⋯-Taste und Rechtsklick) statt als Taste in der Kopfzeile.",
+        "it": "- Corretto: dopo lo spostamento delle Cartelle, «Mostra nel Finder» e altre azioni usavano il percorso vecchio; ora seguono quello nuovo (e riparano da sole le impostazioni interessate).\n- «Fissa nel Dock» è passato nel menu della Cartella (pulsante ⋯ e clic destro), al posto del pulsante nell'intestazione.",
+        "ja": "- 修正：フォルダを移動した後、「Finderで表示」などの操作が古い場所を参照していました。新しい場所に従うようになり、影響を受けた設定も自動で修復されます。\n- 「Dockに固定」を、ヘッダーのボタンからフォルダのメニュー（⋯ボタンと右クリック）に移しました。",
+        "ko": "- 수정: 폴더를 옮긴 뒤 ‘Finder에서 보기’ 등이 예전 경로를 사용하던 문제를 고쳤습니다. 이제 새 위치를 따르며, 영향을 받은 설정도 자동으로 복구됩니다.\n- ‘Dock에 고정’을 머리말 버튼에서 폴더 메뉴(⋯ 버튼과 오른쪽 클릭)로 옮겼습니다.",
+        "zh-Hans": "- 修复：移动文件夹后，“在访达中显示”等操作仍使用旧路径；现在会跟随新位置（并自动修复已受影响的设置）。\n- “固定到程序坞”移到了文件夹菜单（⋯ 按钮和右键）中，不再是标题栏里的按钮。",
+        "ru": "- Исправлено: после переноса папок «Показать в Finder» и другие действия использовали старый путь; теперь они следуют новому месту (и сами исправляют затронутые настройки).\n- «Закрепить в Dock» перенесено в меню папки (кнопка ⋯ и правый клик) вместо кнопки в заголовке."
+      }
+    },
+    {
       "version": "0.12.13",
       "date": "2026-10-30",
       "notes": {

@@ -1,0 +1,2 @@
+- Corrigé : après le déplacement des Dossiers, « Afficher dans le Finder » et d'autres actions utilisaient l'ancien chemin ; elles suivent maintenant le nouvel emplacement (et réparent seules les réglages touchés).
+- « Épingler au Dock » passe dans le menu du Dossier (bouton ⋯ et clic droit), à la place du bouton de l'en-tête.

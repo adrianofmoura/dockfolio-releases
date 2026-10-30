@@ -1,0 +1,2 @@
+- Corretto: dopo lo spostamento delle Cartelle, «Mostra nel Finder» e altre azioni usavano il percorso vecchio; ora seguono quello nuovo (e riparano da sole le impostazioni interessate).
+- «Fissa nel Dock» è passato nel menu della Cartella (pulsante ⋯ e clic destro), al posto del pulsante nell'intestazione.

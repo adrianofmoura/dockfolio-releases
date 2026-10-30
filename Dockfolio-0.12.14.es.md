@@ -1,0 +1,2 @@
+- Corregido: tras mover las Carpetas, «Mostrar en el Finder» y otras acciones usaban la ruta antigua; ahora siguen la nueva (y reparan solos los ajustes afectados).
+- «Fijar en el Dock» pasó al menú de la Carpeta (botón ⋯ y clic derecho), en lugar del botón del encabezado.

@@ -1,0 +1,2 @@
+- Fixed: after moving the Folders, "Show in Finder" and other actions used the old path; they now follow the new location (and repair settings already affected).
+- "Pin to Dock" moved into the Folder's menu (the ⋯ button and right-click), instead of a button in the header.

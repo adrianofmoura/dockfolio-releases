@@ -1,0 +1,2 @@
+- Behoben: Nach dem Verschieben der Ordner nutzten „Im Finder zeigen“ und andere Aktionen den alten Pfad; sie folgen jetzt dem neuen Ort (und reparieren betroffene Einstellungen von selbst).
+- „Im Dock sichern“ steht jetzt im Menü des Ordners (⋯-Taste und Rechtsklick) statt als Taste in der Kopfzeile.
