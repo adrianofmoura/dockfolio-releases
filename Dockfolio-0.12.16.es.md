@@ -1,0 +1,1 @@
+- Ajustes de apariencia alineados con las otras apps: Tema y Cristal con «Sistema» primero, «Teñir el cristal» con sin tinte al inicio y «Personalizar» (rueda de colores) al final.

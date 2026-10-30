@@ -1,0 +1,1 @@
+- Ajustes de aparência no padrão dos outros apps: Tema e Vidro com “Sistema” primeiro, “Tingir o vidro” com sem tinta no início e “Personalizar” (roda de cores) no fim.

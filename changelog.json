@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.16",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- Ajustes de aparência no padrão dos outros apps: Tema e Vidro com “Sistema” primeiro, “Tingir o vidro” com sem tinta no início e “Personalizar” (roda de cores) no fim.",
+        "en": "- Appearance settings aligned with the other apps: Theme and Glass with “System” first, “Tint the glass” with no tint first and “Customize” (color wheel) last.",
+        "es": "- Ajustes de apariencia alineados con las otras apps: Tema y Cristal con «Sistema» primero, «Teñir el cristal» con sin tinte al inicio y «Personalizar» (rueda de colores) al final.",
+        "fr": "- Réglages d’apparence alignés sur les autres apps : Thème et Verre avec « Système » en premier, « Teinter le verre » avec sans teinte au début et « Personnaliser » (roue des couleurs) à la fin.",
+        "de": "- Darstellungseinstellungen an die anderen Apps angeglichen: Erscheinungsbild und Glas mit „System“ zuerst, „Glas tönen“ mit „Keine Tönung“ am Anfang und „Anpassen“ (Farbrad) am Ende.",
+        "it": "- Impostazioni di aspetto allineate alle altre app: Tema e Vetro con «Sistema» per primo, «Colora il vetro» con nessuna tinta all’inizio e «Personalizza» (ruota dei colori) alla fine.",
+        "ja": "- 外観設定を他のアプリに合わせました。テーマとガラスは「システム」が先頭、「ガラスに色をつける」は先頭が色なし、末尾が「カスタマイズ」（カラーホイール）です。",
+        "ko": "- 외관 설정을 다른 앱과 맞췄습니다. 테마와 유리는 ‘시스템’이 먼저, ‘유리에 색조 입히기’는 처음이 색조 없음, 마지막이 ‘사용자 지정’(색상환)입니다.",
+        "zh-Hans": "- 外观设置与其他 App 保持一致：主题和玻璃以“系统”为首，“为玻璃着色”以无色调开头、以“自定”（色轮）结尾。",
+        "ru": "- Настройки внешнего вида приведены к виду других приложений: «Тема» и «Стекло» начинаются с «Система», «Оттенок стекла» — сначала без оттенка, в конце «Настроить» (цветовой круг)."
+      }
+    },
+    {
       "version": "0.12.15",
       "date": "2026-10-30",
       "notes": {

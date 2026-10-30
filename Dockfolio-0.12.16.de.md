@@ -1,0 +1,1 @@
+- Darstellungseinstellungen an die anderen Apps angeglichen: Erscheinungsbild und Glas mit „System“ zuerst, „Glas tönen“ mit „Keine Tönung“ am Anfang und „Anpassen“ (Farbrad) am Ende.

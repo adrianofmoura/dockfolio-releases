@@ -1,0 +1,1 @@
+- Appearance settings aligned with the other apps: Theme and Glass with “System” first, “Tint the glass” with no tint first and “Customize” (color wheel) last.

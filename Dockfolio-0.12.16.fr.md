@@ -1,0 +1,1 @@
+- Réglages d’apparence alignés sur les autres apps : Thème et Verre avec « Système » en premier, « Teinter le verre » avec sans teinte au début et « Personnaliser » (roue des couleurs) à la fin.

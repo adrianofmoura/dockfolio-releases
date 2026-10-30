@@ -1,0 +1,1 @@
+- Impostazioni di aspetto allineate alle altre app: Tema e Vetro con «Sistema» per primo, «Colora il vetro» con nessuna tinta all’inizio e «Personalizza» (ruota dei colori) alla fine.
