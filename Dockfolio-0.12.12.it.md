@@ -1,0 +1,1 @@
+- Tour: la scena di aggiunta delle app torna allo stile della simulazione — la Cartella parte vuota, le app ci cadono dentro e compaiono in un elenco sotto il pulsante, e l'anteprima resta nello stesso punto nella pagina di personalizzazione del vetro.

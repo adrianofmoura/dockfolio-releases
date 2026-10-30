@@ -1,0 +1,1 @@
+- Tour: Die Szene „Apps hinzufügen“ hat wieder den Look der Simulation – der Ordner startet leer, die Apps fallen hinein und erscheinen in einer Liste unter der Schaltfläche, und die Vorschau bleibt auf der Seite zur Glasanpassung an derselben Stelle.

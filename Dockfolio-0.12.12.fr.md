@@ -1,0 +1,1 @@
+- Visite : la scène d'ajout d'apps retrouve le style de la simulation — le Dossier commence vide, les apps y tombent et apparaissent dans une liste sous le bouton, et l'aperçu reste au même endroit sur la page de personnalisation du verre.

@@ -1,0 +1,1 @@
+- Tour: a cena de adicionar apps volta ao visual da simulação — a Pasta começa vazia, os apps caem nela e aparecem numa lista abaixo do botão, e a prévia segue no mesmo lugar na página de personalizar o vidro.

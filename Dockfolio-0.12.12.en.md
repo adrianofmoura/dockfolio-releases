@@ -1,0 +1,1 @@
+- Tour: the add-apps scene is back to the simulation look — the Folder starts empty, the apps drop into it and appear in a list below the button, and the preview stays in place on the glass customization page.

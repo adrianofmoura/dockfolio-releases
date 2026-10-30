@@ -1,0 +1,1 @@
+- Tour: la escena de añadir apps vuelve al aspecto de la simulación: la Carpeta empieza vacía, los apps caen en ella y aparecen en una lista bajo el botón, y la vista previa sigue en el mismo lugar en la página de personalizar el vidrio.

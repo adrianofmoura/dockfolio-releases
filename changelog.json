@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.12",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- Tour: a cena de adicionar apps volta ao visual da simulação — a Pasta começa vazia, os apps caem nela e aparecem numa lista abaixo do botão, e a prévia segue no mesmo lugar na página de personalizar o vidro.",
+        "en": "- Tour: the add-apps scene is back to the simulation look — the Folder starts empty, the apps drop into it and appear in a list below the button, and the preview stays in place on the glass customization page.",
+        "es": "- Tour: la escena de añadir apps vuelve al aspecto de la simulación: la Carpeta empieza vacía, los apps caen en ella y aparecen en una lista bajo el botón, y la vista previa sigue en el mismo lugar en la página de personalizar el vidrio.",
+        "fr": "- Visite : la scène d'ajout d'apps retrouve le style de la simulation — le Dossier commence vide, les apps y tombent et apparaissent dans une liste sous le bouton, et l'aperçu reste au même endroit sur la page de personnalisation du verre.",
+        "de": "- Tour: Die Szene „Apps hinzufügen“ hat wieder den Look der Simulation – der Ordner startet leer, die Apps fallen hinein und erscheinen in einer Liste unter der Schaltfläche, und die Vorschau bleibt auf der Seite zur Glasanpassung an derselben Stelle.",
+        "it": "- Tour: la scena di aggiunta delle app torna allo stile della simulazione — la Cartella parte vuota, le app ci cadono dentro e compaiono in un elenco sotto il pulsante, e l'anteprima resta nello stesso punto nella pagina di personalizzazione del vetro.",
+        "ja": "- ツアー：Appを追加する場面をシミュレーション調に戻しました。フォルダは空から始まり、Appが落ちてボタンの下のリストに表示され、ガラスのカスタマイズのページでもプレビューは同じ位置にあります。",
+        "ko": "- 투어: 앱 추가 장면을 시뮬레이션 스타일로 되돌렸습니다. 폴더는 빈 상태로 시작하고, 앱이 떨어져 들어가며 버튼 아래 목록에 나타나고, 유리 설정 페이지에서도 미리보기가 같은 자리에 있습니다.",
+        "zh-Hans": "- 导览：添加 App 的场景恢复为模拟风格——文件夹从空开始，App 落入其中并显示在按钮下方的列表里，进入玻璃自定义页面时预览保持在同一位置。",
+        "ru": "- Обучение: сцена добавления приложений снова в стиле симуляции — папка начинается пустой, приложения падают в неё и появляются в списке под кнопкой, а превью остаётся на месте на странице настройки стекла."
+      }
+    },
+    {
       "version": "0.12.11",
       "date": "2026-10-30",
       "notes": {
