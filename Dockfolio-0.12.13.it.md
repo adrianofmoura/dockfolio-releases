@@ -1,0 +1,2 @@
+- Le Cartelle ora sono conservate nei dati di Dockfolio e non compaiono più in Launchpad, solo nel Dock. Quelle esistenti vengono spostate automaticamente.
+- Nuovo pulsante “Fissa nel Dock” sulla cartella, per rimetterla se la togli dal Dock.

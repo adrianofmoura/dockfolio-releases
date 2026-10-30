@@ -1,0 +1,2 @@
+- Les Dossiers sont désormais rangés dans les données de Dockfolio et n'apparaissent plus dans Launchpad, seulement dans le Dock. Les existants sont déplacés automatiquement.
+- Nouveau bouton « Épingler au Dock » sur le dossier, pour le remettre si vous le retirez du Dock.

@@ -1,0 +1,2 @@
+- As Pastas agora ficam guardadas dentro dos dados do Dockfolio e não aparecem mais no Launchpad: só no Dock. As que já existiam são movidas sozinhas.
+- Novo botão "Fixar no Dock" na pasta, para colocá-la de volta se você a tirar do Dock.

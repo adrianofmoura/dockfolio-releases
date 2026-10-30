@@ -1,0 +1,2 @@
+- Folders are now stored inside Dockfolio's data and no longer show up in Launchpad — only in the Dock. Existing ones are moved automatically.
+- New "Pin to Dock" button on the folder, to put it back if you remove it from the Dock.

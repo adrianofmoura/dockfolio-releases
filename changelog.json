@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.13",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- As Pastas agora ficam guardadas dentro dos dados do Dockfolio e não aparecem mais no Launchpad: só no Dock. As que já existiam são movidas sozinhas.\n- Novo botão \"Fixar no Dock\" na pasta, para colocá-la de volta se você a tirar do Dock.",
+        "en": "- Folders are now stored inside Dockfolio's data and no longer show up in Launchpad — only in the Dock. Existing ones are moved automatically.\n- New \"Pin to Dock\" button on the folder, to put it back if you remove it from the Dock.",
+        "es": "- Las Carpetas ahora se guardan dentro de los datos de Dockfolio y ya no aparecen en Launchpad, solo en el Dock. Las existentes se mueven solas.\n- Nuevo botón «Fijar en el Dock» en la carpeta, para volver a ponerla si la quitas del Dock.",
+        "fr": "- Les Dossiers sont désormais rangés dans les données de Dockfolio et n'apparaissent plus dans Launchpad, seulement dans le Dock. Les existants sont déplacés automatiquement.\n- Nouveau bouton « Épingler au Dock » sur le dossier, pour le remettre si vous le retirez du Dock.",
+        "de": "- Ordner liegen jetzt in den Daten von Dockfolio und erscheinen nicht mehr im Launchpad, nur noch im Dock. Vorhandene werden automatisch verschoben.\n- Neue Taste „Im Dock sichern“ am Ordner, um ihn wieder einzusetzen, wenn du ihn aus dem Dock entfernt hast.",
+        "it": "- Le Cartelle ora sono conservate nei dati di Dockfolio e non compaiono più in Launchpad, solo nel Dock. Quelle esistenti vengono spostate automaticamente.\n- Nuovo pulsante “Fissa nel Dock” sulla cartella, per rimetterla se la togli dal Dock.",
+        "ja": "- フォルダはDockfolioのデータ内に保存されるようになり、Launchpadには表示されず、Dockにだけ表示されます。既存のフォルダは自動で移動されます。\n- フォルダに「Dockに固定」ボタンを追加しました。Dockから外した場合に元に戻せます。",
+        "ko": "- 폴더가 이제 Dockfolio 데이터 안에 보관되어 Launchpad에는 나타나지 않고 Dock에만 표시됩니다. 기존 폴더는 자동으로 옮겨집니다.\n- 폴더에 ‘Dock에 고정’ 버튼을 추가했습니다. Dock에서 제거했을 때 다시 넣을 수 있습니다.",
+        "zh-Hans": "- 文件夹现在保存在 Dockfolio 的数据中，不再出现在启动台里，只显示在程序坞。已有的文件夹会自动移动。\n- 文件夹上新增“固定到程序坞”按钮，被移出程序坞时可以放回去。",
+        "ru": "- Папки теперь хранятся внутри данных Dockfolio и больше не показываются в Launchpad, только в Dock. Существующие переносятся автоматически.\n- На папке появилась кнопка «Закрепить в Dock», чтобы вернуть её, если вы убрали её из Dock."
+      }
+    },
+    {
       "version": "0.12.12",
       "date": "2026-10-30",
       "notes": {

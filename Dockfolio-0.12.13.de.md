@@ -1,0 +1,2 @@
+- Ordner liegen jetzt in den Daten von Dockfolio und erscheinen nicht mehr im Launchpad, nur noch im Dock. Vorhandene werden automatisch verschoben.
+- Neue Taste „Im Dock sichern“ am Ordner, um ihn wieder einzusetzen, wenn du ihn aus dem Dock entfernt hast.

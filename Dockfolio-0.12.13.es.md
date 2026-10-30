@@ -1,0 +1,2 @@
+- Las Carpetas ahora se guardan dentro de los datos de Dockfolio y ya no aparecen en Launchpad, solo en el Dock. Las existentes se mueven solas.
+- Nuevo botón «Fijar en el Dock» en la carpeta, para volver a ponerla si la quitas del Dock.
