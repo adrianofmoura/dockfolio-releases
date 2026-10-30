@@ -1,0 +1,3 @@
+- Nouvelle icône par défaut de la barre des menus : la tuile à grille évidée.
+- Nouveau dossier : « Donnez un nom à votre Dossier », avec la précision que le nom apparaît comme étiquette du Dossier dans le Dock.
+- Visite : l'ajout d'apps montre maintenant un Dossier dessiné qui les reçoit, puis devient l'aperçu de la page suivante ; le curseur démarre sans délai, sort par la droite à la fin, et le Dock et le Dossier deviennent sombres (fumé) en mode sombre.

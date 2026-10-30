@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.11",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- Ícone da barra de menus padrão novo: o ladrilho com a grade vazada.\n- Nova pasta: \"Dê um nome à sua Pasta\", com a observação de que o nome aparece na etiqueta da Pasta no Dock.\n- Tour: a animação de adicionar apps agora mostra uma Pasta de desenho recebendo os apps, que depois vira a prévia da página seguinte; o cursor parte sem atraso, sai pela lateral no final e o Dock e a Pasta ficam escuros (fumê) no modo escuro.",
+        "en": "- New default menu bar icon: the tile with the cut-out grid.\n- New folder: \"Name your Folder\", with a note that the name appears as the Folder's label in the Dock.\n- Tour: adding apps now shows a cartoon Folder receiving the apps, which then turns into the next page's preview; the cursor starts moving without delay, leaves through the right edge at the end, and the Dock and Folder turn smoky dark in dark mode.",
+        "es": "- Nuevo icono predeterminado de la barra de menús: el azulejo con la cuadrícula vaciada.\n- Nueva carpeta: «Ponle un nombre a tu Carpeta», con la nota de que el nombre aparece como etiqueta de la Carpeta en el Dock.\n- Tour: al añadir apps ahora se ve una Carpeta de dibujo que los recibe y luego se convierte en la vista previa de la página siguiente; el cursor arranca sin demora, sale por el lado derecho al final y el Dock y la Carpeta se oscurecen (humo) en modo oscuro.",
+        "fr": "- Nouvelle icône par défaut de la barre des menus : la tuile à grille évidée.\n- Nouveau dossier : « Donnez un nom à votre Dossier », avec la précision que le nom apparaît comme étiquette du Dossier dans le Dock.\n- Visite : l'ajout d'apps montre maintenant un Dossier dessiné qui les reçoit, puis devient l'aperçu de la page suivante ; le curseur démarre sans délai, sort par la droite à la fin, et le Dock et le Dossier deviennent sombres (fumé) en mode sombre.",
+        "de": "- Neues Standard-Symbol der Menüleiste: die Kachel mit ausgesparten Raster.\n- Neuer Ordner: „Gib deinem Ordner einen Namen“, mit dem Hinweis, dass der Name als Beschriftung des Ordners im Dock erscheint.\n- Tour: Beim Hinzufügen von Apps nimmt jetzt ein gezeichneter Ordner die Apps auf und wird danach zur Vorschau der nächsten Seite; der Cursor startet ohne Verzögerung, verlässt am Ende den Bildschirm nach rechts, und Dock und Ordner werden im Dunkelmodus rauchig dunkel.",
+        "it": "- Nuova icona predefinita della barra dei menu: la tessera con la griglia vuota.\n- Nuova cartella: «Dai un nome alla tua Cartella», con la nota che il nome appare come etichetta della Cartella nel Dock.\n- Tour: aggiungendo app ora una Cartella disegnata le riceve e poi diventa l'anteprima della pagina successiva; il cursore parte senza ritardo, esce dal lato destro alla fine, e Dock e Cartella diventano scuri (fumé) in modalità scura.",
+        "ja": "- メニューバーの標準アイコンを、グリッドが抜けたタイル型に変更しました。\n- 新規フォルダ：「フォルダに名前を付けましょう」と、名前がDockのフォルダのラベルとして表示されるという補足を追加しました。\n- ツアー：Appを追加する場面で、イラスト風のフォルダがAppを受け取り、次のページのプレビューにつながるようになりました。カーソルは遅れずに動き出し、最後は右端から出ていきます。ダークモードではDockとフォルダもスモーク調の暗い色になります。",
+        "ko": "- 메뉴 막대 기본 아이콘을 격자가 뚫린 타일 모양으로 바꿨습니다.\n- 새 폴더: \"폴더 이름을 지어 주세요\"와 함께, 이름이 Dock에서 폴더의 레이블로 표시된다는 안내를 추가했습니다.\n- 투어: 앱을 추가하는 장면에서 만화 같은 폴더가 앱을 받고, 이어서 다음 페이지의 미리보기로 이어집니다. 커서는 지연 없이 움직이기 시작하고 마지막에 오른쪽으로 빠져나가며, 다크 모드에서는 Dock과 폴더도 짙은 스모크 톤이 됩니다.",
+        "zh-Hans": "- 菜单栏默认图标改为镂空网格的方块样式。\n- 新建文件夹：“为你的文件夹命名”，并说明该名称会作为文件夹标签显示在程序坞中。\n- 导览：添加 App 时，现在会有一个卡通风格的文件夹接收这些 App，随后变成下一页的预览；光标起步不再延迟，结尾从右侧移出，深色模式下程序坞和文件夹也变为烟灰色深色。",
+        "ru": "- Новый значок в строке меню по умолчанию: плитка с вырезанной сеткой.\n- Новая папка: «Назовите свою папку» с пояснением, что имя отображается как подпись папки в Dock.\n- Обучение: при добавлении приложений их теперь принимает нарисованная папка, которая затем становится превью следующей страницы; курсор начинает движение без задержки, в конце уходит за правый край, а Dock и папка в тёмном режиме становятся дымчато-тёмными."
+      }
+    },
+    {
       "version": "0.12.10",
       "date": "2026-10-29",
       "notes": {

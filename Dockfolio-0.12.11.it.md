@@ -1,0 +1,3 @@
+- Nuova icona predefinita della barra dei menu: la tessera con la griglia vuota.
+- Nuova cartella: «Dai un nome alla tua Cartella», con la nota che il nome appare come etichetta della Cartella nel Dock.
+- Tour: aggiungendo app ora una Cartella disegnata le riceve e poi diventa l'anteprima della pagina successiva; il cursore parte senza ritardo, esce dal lato destro alla fine, e Dock e Cartella diventano scuri (fumé) in modalità scura.

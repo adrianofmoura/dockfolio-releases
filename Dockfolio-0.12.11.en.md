@@ -1,0 +1,3 @@
+- New default menu bar icon: the tile with the cut-out grid.
+- New folder: "Name your Folder", with a note that the name appears as the Folder's label in the Dock.
+- Tour: adding apps now shows a cartoon Folder receiving the apps, which then turns into the next page's preview; the cursor starts moving without delay, leaves through the right edge at the end, and the Dock and Folder turn smoky dark in dark mode.

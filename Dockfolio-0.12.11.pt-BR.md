@@ -1,0 +1,3 @@
+- Ícone da barra de menus padrão novo: o ladrilho com a grade vazada.
+- Nova pasta: "Dê um nome à sua Pasta", com a observação de que o nome aparece na etiqueta da Pasta no Dock.
+- Tour: a animação de adicionar apps agora mostra uma Pasta de desenho recebendo os apps, que depois vira a prévia da página seguinte; o cursor parte sem atraso, sai pela lateral no final e o Dock e a Pasta ficam escuros (fumê) no modo escuro.

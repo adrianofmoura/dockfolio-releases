@@ -1,0 +1,3 @@
+- Nuevo icono predeterminado de la barra de menús: el azulejo con la cuadrícula vaciada.
+- Nueva carpeta: «Ponle un nombre a tu Carpeta», con la nota de que el nombre aparece como etiqueta de la Carpeta en el Dock.
+- Tour: al añadir apps ahora se ve una Carpeta de dibujo que los recibe y luego se convierte en la vista previa de la página siguiente; el cursor arranca sin demora, sale por el lado derecho al final y el Dock y la Carpeta se oscurecen (humo) en modo oscuro.

@@ -1,0 +1,3 @@
+- Neues Standard-Symbol der Menüleiste: die Kachel mit ausgesparten Raster.
+- Neuer Ordner: „Gib deinem Ordner einen Namen“, mit dem Hinweis, dass der Name als Beschriftung des Ordners im Dock erscheint.
+- Tour: Beim Hinzufügen von Apps nimmt jetzt ein gezeichneter Ordner die Apps auf und wird danach zur Vorschau der nächsten Seite; der Cursor startet ohne Verzögerung, verlässt am Ende den Bildschirm nach rechts, und Dock und Ordner werden im Dunkelmodus rauchig dunkel.
