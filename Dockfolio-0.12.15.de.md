@@ -1,0 +1,1 @@
+- Die ⋯-Taste in der Kopfzeile des Ordners wurde entfernt: Im Dock sichern, Im Finder zeigen und Löschen findest du per Rechtsklick auf den Ordner in der Liste links.

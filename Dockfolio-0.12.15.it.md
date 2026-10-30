@@ -1,0 +1,1 @@
+- Rimosso il pulsante ⋯ dall'intestazione della Cartella: Fissa nel Dock, Mostra nel Finder ed Elimina si trovano con il clic destro sulla Cartella, nell'elenco a sinistra.

@@ -1,0 +1,1 @@
+- Removed the ⋯ button from the Folder header: Pin to Dock, Show in Finder and Delete are in the right-click menu on the Folder in the left list.

@@ -1,0 +1,1 @@
+- Le bouton ⋯ de l'en-tête du Dossier est supprimé : Épingler au Dock, Afficher dans le Finder et Supprimer sont dans le clic droit sur le Dossier, dans la liste de gauche.

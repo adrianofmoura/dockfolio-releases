@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.15",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- Removido o botão ⋯ do cabeçalho da Pasta: Fixar no Dock, Mostrar no Finder e Excluir ficam no botão direito sobre a Pasta, na lista da esquerda.",
+        "en": "- Removed the ⋯ button from the Folder header: Pin to Dock, Show in Finder and Delete are in the right-click menu on the Folder in the left list.",
+        "es": "- Se quitó el botón ⋯ del encabezado de la Carpeta: Fijar en el Dock, Mostrar en el Finder y Eliminar están en el clic derecho sobre la Carpeta, en la lista de la izquierda.",
+        "fr": "- Le bouton ⋯ de l'en-tête du Dossier est supprimé : Épingler au Dock, Afficher dans le Finder et Supprimer sont dans le clic droit sur le Dossier, dans la liste de gauche.",
+        "de": "- Die ⋯-Taste in der Kopfzeile des Ordners wurde entfernt: Im Dock sichern, Im Finder zeigen und Löschen findest du per Rechtsklick auf den Ordner in der Liste links.",
+        "it": "- Rimosso il pulsante ⋯ dall'intestazione della Cartella: Fissa nel Dock, Mostra nel Finder ed Elimina si trovano con il clic destro sulla Cartella, nell'elenco a sinistra.",
+        "ja": "- フォルダのヘッダーから⋯ボタンを削除しました。「Dockに固定」「Finderで表示」「削除」は、左のリストのフォルダを右クリックして使えます。",
+        "ko": "- 폴더 머리말의 ⋯ 버튼을 없앴습니다. ‘Dock에 고정’, ‘Finder에서 보기’, 삭제는 왼쪽 목록의 폴더를 오른쪽 클릭해서 사용할 수 있습니다.",
+        "zh-Hans": "- 移除了文件夹标题栏中的 ⋯ 按钮：“固定到程序坞”“在访达中显示”和删除功能，现在可在左侧列表中右键点按文件夹使用。",
+        "ru": "- Кнопка ⋯ в заголовке папки удалена: «Закрепить в Dock», «Показать в Finder» и удаление доступны по правому клику на папке в списке слева."
+      }
+    },
+    {
       "version": "0.12.14",
       "date": "2026-10-30",
       "notes": {

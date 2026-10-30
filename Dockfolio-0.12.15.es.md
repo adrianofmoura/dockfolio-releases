@@ -1,0 +1,1 @@
+- Se quitó el botón ⋯ del encabezado de la Carpeta: Fijar en el Dock, Mostrar en el Finder y Eliminar están en el clic derecho sobre la Carpeta, en la lista de la izquierda.

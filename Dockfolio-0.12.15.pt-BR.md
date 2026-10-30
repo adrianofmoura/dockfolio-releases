@@ -1,0 +1,1 @@
+- Removido o botão ⋯ do cabeçalho da Pasta: Fixar no Dock, Mostrar no Finder e Excluir ficam no botão direito sobre a Pasta, na lista da esquerda.
