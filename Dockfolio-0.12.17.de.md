@@ -1,0 +1,1 @@
+- Die Tönungspalette liegt jetzt in einer einzigen Reihe, der Kreis „Anpassen“ ist so groß wie die anderen.

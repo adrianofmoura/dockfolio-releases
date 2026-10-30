@@ -1,0 +1,1 @@
+- A paleta de tinta ficou numa única fileira, com a bolinha “Personalizar” do mesmo tamanho das demais.

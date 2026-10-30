@@ -1,6 +1,22 @@
 {
   "versions": [
     {
+      "version": "0.12.17",
+      "date": "2026-10-30",
+      "notes": {
+        "pt-BR": "- A paleta de tinta ficou numa única fileira, com a bolinha “Personalizar” do mesmo tamanho das demais.",
+        "en": "- The tint palette is now a single row, with the “Customize” swatch the same size as the others.",
+        "es": "- La paleta de tinte queda en una sola fila, con el círculo «Personalizar» del mismo tamaño que los demás.",
+        "fr": "- La palette de teinte tient sur une seule ligne, avec la pastille « Personnaliser » de la même taille que les autres.",
+        "de": "- Die Tönungspalette liegt jetzt in einer einzigen Reihe, der Kreis „Anpassen“ ist so groß wie die anderen.",
+        "it": "- La tavolozza delle tinte è su un’unica riga, con il cerchio «Personalizza» della stessa dimensione degli altri.",
+        "ja": "- 色の選択肢を1列にまとめ、「カスタマイズ」の丸も他と同じ大きさにしました。",
+        "ko": "- 색조 팔레트를 한 줄로 정리하고 ‘사용자 지정’ 원도 다른 원과 같은 크기로 맞췄습니다.",
+        "zh-Hans": "- 色调调色板改为单行显示，“自定”圆点与其他圆点大小一致。",
+        "ru": "- Палитра оттенков теперь в одну строку, кружок «Настроить» того же размера, что и остальные."
+      }
+    },
+    {
       "version": "0.12.16",
       "date": "2026-10-30",
       "notes": {

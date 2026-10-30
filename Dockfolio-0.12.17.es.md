@@ -1,0 +1,1 @@
+- La paleta de tinte queda en una sola fila, con el círculo «Personalizar» del mismo tamaño que los demás.

@@ -1,0 +1,1 @@
+- La palette de teinte tient sur une seule ligne, avec la pastille « Personnaliser » de la même taille que les autres.

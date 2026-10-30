@@ -1,0 +1,1 @@
+- La tavolozza delle tinte è su un’unica riga, con il cerchio «Personalizza» della stessa dimensione degli altri.

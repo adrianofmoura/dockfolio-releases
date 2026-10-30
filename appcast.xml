@@ -3,6 +3,30 @@
     <channel>
         <title>Dockfolio</title>
         <item>
+            <title>0.12.17</title>
+            <pubDate>Fri, 30 Oct 2026 17:50:21 -0300</pubDate>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>0.12.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="de">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.de.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.en.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="es">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.es.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="fr">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.fr.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="it">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.it.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="ja">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.ja.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="ko">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.ko.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="ru">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.ru.md</sparkle:releaseNotesLink>
+            <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.17.zip" length="9158124" type="application/octet-stream" sparkle:edSignature="9UUeqQ3HCRmOyGitCShDUnLW+hWT/FgWJYYbBbEp4Ri+2494KM2fjTJNhyUuD5ihtVgwcTfWElRaRbzw+HyYCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio130-129.delta" sparkle:deltaFrom="129" length="393834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fn6q7MZMos/lMQTAw0xQ0UnqalpXtZdnY89olNceSwCD+MulidIdPGSzNlCmBt67NDexRPJuEuf0SIyEmp/TCA=="/>
+                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio130-128.delta" sparkle:deltaFrom="128" length="569022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jkxeZS6btLBHDaOul3OISXg0+zdw6pVx0O1mtmLWlGLSJ/CV8ph7OjJrIheXnfeLyBtEsFo46SRwctKHXDRxAw=="/>
+                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio130-127.delta" sparkle:deltaFrom="127" length="558094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o+DHRMUiI+wvf2KZy69ZZ+93jtNVElsegfFrndgb4IPOXbLyzB0DZ/bre1SFZmUsBWrgN7wzaG+To/y/UUO7Aw=="/>
+                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio130-126.delta" sparkle:deltaFrom="126" length="603670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oAsH7KPRPzQp7Y8fM10IfpbvkJmHL0mzfBCsLloP9mUvjIi92jLYTo5rwTBPxoDe51wqGVH8J9+8eQXuhm+9Cg=="/>
+                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio130-125.delta" sparkle:deltaFrom="125" length="681786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XDgkv8xL276KIGZiCP54PUkbc9OgeKVM+Pl/15j3J/NitIbJAKTzgHhBVv9zQSwWY+vTtelONAXSileiQFB0Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.12.16</title>
             <pubDate>Fri, 30 Oct 2026 16:53:39 -0300</pubDate>
             <sparkle:version>129</sparkle:version>
@@ -48,30 +72,6 @@
                 <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio128-125.delta" sparkle:deltaFrom="125" length="544762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rVAiqrKd4P4Z4u69nLQnGPbMjM6H7CfXKpsStl3cv6bski/YgmJmThwZzpi4t8kRJswxwhJUpz/K7Uz7bIQHBQ=="/>
                 <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio128-124.delta" sparkle:deltaFrom="124" length="685014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SentsIkVB5MpsELalLQkLEGjAocmu3Zeedc6RYgYfpDqJgI2nWR5jjPuc3Vphdaw+P1zdquBrl67i7UoqTF7BQ=="/>
                 <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio128-123.delta" sparkle:deltaFrom="123" length="769110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LrB/mewaFITFha6F7TTjJzXYQl0HlHdx7C1lyw6j9d5bKNbzjIq1hrQ7rnMsiPHorGW9HcBeVZPRC0r5ANdmDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.12.14</title>
-            <pubDate>Fri, 30 Oct 2026 14:42:36 -0300</pubDate>
-            <sparkle:version>127</sparkle:version>
-            <sparkle:shortVersionString>0.12.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="de">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.de.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="en">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.en.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="es">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.es.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="fr">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.fr.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="it">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.it.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="ja">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.ja.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="ko">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.ko.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="ru">https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.ru.md</sparkle:releaseNotesLink>
-            <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio-0.12.14.zip" length="9141401" type="application/octet-stream" sparkle:edSignature="DhCIUhJGIkKM8ALMWRB/aJlbyTYtQiiuw1Bewu3XR6WywRqCor0/myIpxAcedcLrXt/G9IIE+WTG9SVbRsGJBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio127-126.delta" sparkle:deltaFrom="126" length="473614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="55LU0dPFNv03V9NWyHBoOTFT1Blu9KrgPeFgX/m3lEKpArzKyzNx4Roi4pBAbk58QLrOfiwEhxI9j80fPQBpAg=="/>
-                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio127-125.delta" sparkle:deltaFrom="125" length="572358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sn0u5lshnyDT5BuI3SFyQ7jgXiQRc5nbPEu7IhGtIXFogst1hjpeN+Uz2f/amblS9Yz9mkmxvl06VtUeDeJcCA=="/>
-                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio127-124.delta" sparkle:deltaFrom="124" length="700446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/r+q3T9hspOSA07Oc7/qvTsJtnu8hz9Q7qTVtfKuRJUt/ZhM43NVZuU7cb+x55aVB6lxNs01KoVD/0slyk9+Bw=="/>
-                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio127-123.delta" sparkle:deltaFrom="123" length="803002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QjVIJv2/PQDxfvlB/LvIRIU89ndnyzfK7SjYUlu4NXwyafzNEusmd8rdPjt6IuocIseBpOs+81CY187L7UJZDQ=="/>
-                <enclosure url="https://adrianofmoura.github.io/dockfolio-releases/Dockfolio127-122.delta" sparkle:deltaFrom="122" length="869958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xDU3U1ScD3FV6QHZ8GYirOPYW7bmcbbZuGEpi5tGoDxhwsL/1FmjQ/ozxj/1ksVGNcbipUfYkHeDZh7u7kxUCA=="/>
             </sparkle:deltas>
         </item>
     </channel>

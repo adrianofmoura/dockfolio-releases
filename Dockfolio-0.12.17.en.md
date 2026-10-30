@@ -1,0 +1,1 @@
+- The tint palette is now a single row, with the “Customize” swatch the same size as the others.
